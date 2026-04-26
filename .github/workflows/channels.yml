@@ -40,7 +40,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add liveevents.m3u
+        git add live_tv_channels.m3u
         # The '|| true' prevents the workflow from failing if no changes were made
-        git commit -m "Auto-update liveevents.m3u" || true
+        git commit -m "Auto-update live_tv_channels.m3u" || true
         git push
