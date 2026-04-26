@@ -103,7 +103,7 @@ def build_playlist():
                             print(f"  [-] Missed it. Moving on.")
                         
         browser.close()
-        print("\n[+] Finished! Saved to 'playlist.m3u'")
+        print("\n[+] Finished! Saved to 'liveevents.m3u'")
 
 if __name__ == "__main__":
     build_playlist()
