@@ -1,151 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Platense vs Santa Fe (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=fe5d17193ecf32ccc7f84409f710a7a67571152975d14436c0a7b542282bf4d7.1777506341.dfac47aac27d6942c10cb395675567ce.56e8ee1877a651f0db49182334faeee2.2703c9c77ae0d3620cc348c212618a4e&signature=f1c6aece637c438f015010915fe260d3a1584fbe3c91178f61f0ac2110912172|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Platense vs Santa Fe (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=4a8271cbebc65ff3a1d8c8ad3527105efcdd04df917a69d729dd097ae99fae64.1777506342.3a5970ef50701fe0863e4f5e4cafeb0e.f640eda385ff803b3dde52e710d4bb5f.32ec92b56f78cfb53bbdff99ea592b8f&signature=07ef38fa0b39f53647bab7d7ccb92d0df6d26a4e4e0ec38748171f985aa0c47c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Platense vs Santa Fe (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=4ed65c1e2ef77ad6142cfb737a1109a3c2623a6713d2a10db48b6a0494503253.1777506343.59bb07dc96140745cfa88d07eb40bd3e.841854bdfe309dc90016d69695f8435d.411bd775423af27d6833bd8220da1011&signature=e6d6018000044461177ee756dc1a054fd34d3dcdfa9f49a7e88f7043ea846bbd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Platense vs Santa Fe (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (FOX Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=d38661550824527f4c126667ad574900fa05476bb70705cbd162edd7a754944b.1777506344.f0b7ce8bad74c7704a76a068a50a0aa4.a3473ca30bdc1d9c1964fabafea1c8bc.63b274727f79eafeb504280e24c9e8da&signature=6690b32d017f13c4920c08de9aaf195074bcf8f74059ad887c63b1145e53bc10|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Platense vs Santa Fe (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=1d56bc0c827e3016d0d9de3e5d4bc417666917ddcfaf800769752f09eb77e646.1777506344.1aa6a2ea6a261a3255c2f1e4f4a6f726.67b203902d95854ecce3d408d3996358.80bab56d96fe58ad9483d0a2777c1cb5&signature=0289bdeb4b577d06b5d844c183b2c8e97d71d3a02651066db984855c74a5163c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Platense vs Santa Fe (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36837.png" group-title="Soccer",[Soccer] Platense vs Santa Fe (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=98a7d517d6f75a93153b394ef0c2f5f15d9821a2b523978c3a11401184558296.1777506345.7434c21c00d07e4a6511e8859dd6a90b.293bc2983679a05927fddd5ca652dbce.05829043e1bb6eeb0b3f08850594cd7e&signature=3cc793e94d52f6f727288e7fcb9796ad8e90e1fa353b26d907b7fa40d39549ea|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Mirassol vs Always Ready (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Always Ready (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=4977bfce6e55e999e9a13f0437deab33c2613e09cb9c374888bf69a1b48ab49b.1777506345.74278002e0e22d83b15b617deb6195a3.cf6c824c6c42cd22aac055dd3cf531c9.b5bf13b788afa638be2d0eea6e838ee3&signature=bf60668793fa87beaa62c3d8219680ac329eb7713a4416da885715ca135da2ed|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Mirassol vs Always Ready (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Always Ready (Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=3252278cbe3f54ef4a08702c8c41d57c6d48aa3309dd1e9df597576009da4df7.1777506346.21395f813c22d6dd04afc037ab04f58c.e6a0a9f5533578b9c827a6026b909ac5.d6451e15c04433901f0b8ea5a946f0e1&signature=614fc06d0da509d3dee05894cf849e90b2abf5f1e7e99da08ec2a835e438443d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Barcelona vs Universidad Católica (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Universidad Católica (beIN SPORTS XTRA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=b08f10fd60d2a803b2f8f073082b7cf79c932da7deecff5dcddab0c44ec5e659.1777506346.cacf4029ca13a2058bbba59c2e1c7d15.7239be6c1130c75b6946df2c64fabea8.34b70fc758cf511012d2c0f8332efb50&signature=c3c6293dbfac3d9f8e22e5f96cd5e79f1440a9f6338def805e73b135a13b8851|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Barcelona vs Universidad Católica (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Universidad Católica (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=16e80c4e19563c29f0925bdbb26597b796428a5f38faa54790bc8bddc9785aee.1777506347.8c5675b9a8c3349e9492aef7bff5baca.db557e2d0479571a7fdeb0ac6b0f3dd4.d5d3f59c3233ab42dd7e4c6cd2df5caf&signature=eb55ded41c5cc5665b95c0ec1663cbf7ee0a313191ff6ab1f55cac443699368c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Barcelona vs Universidad Católica (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Universidad Católica (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=36415533dd475674cb25021f9772fa4205dd0c8d8c4a9be57fd1cb2a89454d0a.1777506347.0e8d840be841ab57780f35ef64436e3f.aaed183c36861e00a4a1d0a6cb279ea2.1ccdddb8a08c32bf4f1987134ad7c5a6&signature=64fe7794894944292ae270a48245bcda780ed4d536cb247e9b3c2c09275c78fe|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Barcelona vs Universidad Católica (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Universidad Católica (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=f450b6c7281310b64209e0ab0cfdd8c7e4a813d268bb3c44229ccbe559e4997a.1777506348.9dc8b0e96aad58b130059f6d1832044a.d72165749f72a21f1e1993043fc8e6d3.11bcd0ac525b3d7e57038963735fe279&signature=731e82c929eff1e0aad2f22f648b45bbe823d24e4ae5d08e682f8474c54f4052|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS MENA 2)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS MENA 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=dde536bac5dcf644ede4af03a8027d54aba7331c8a8612144bd7e644812e7d6f.1777506348.3a4a8db1e8877896046f9526bff881b1.a85dbae62990b169b556b2ac61c412d7.50b4a1bad4386e8c036d60ba6b2f86c3&signature=415cc8fca2d6802126e8bba8b8fa5e28cd68f2f4f18fd903446f07ccc88925d7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=7068ce02fe85327b03de56904655645f0941b0423b4ac1cf47c9ef34cd39228f.1777514871.809b9b0cae101928027323802a19b018.5d6141a4484c2cb8577c4620f62b8fe2.78e8b90626a55782b21293eba9ef4970&signature=d335583f91687718faf7736c7c15ba5e56f25dd46ae26f3eaf83e69991075f11|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (Sport TV 1)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=46cce460dba60b2456076ab64618dfacc105fd7c519a3946742f9c91526e5a36.1777506349.54bc114efa2abcb2dd61e975cb70420e.fc31c4451b98d7838b32be6d9e943717.3e0b4c51bf7a801d4349636829188ee4&signature=8f5c4a0b7598132cbada993025db8d87911aeb19d9d5b1dcaf853729dfbc66fd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=68c1c94352fdb8590f2748a1b43791c8e71c008bdd08b13c586b9a3a8972ee77.1777514872.96c2c616b617c5ba11f927b8a709e8af.85c6994d00093afb4f0b7611fb255932.60436242f7ccc797954e9bf2f25d87fe&signature=44d4eab730e68e62acab8fdede67aee2edc0193fe2f866a1e736d693ce2e2766|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (ESPN)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=9453fc9eb91311c295a1636dda857df4d8fee4e0bc38d31568b9d5895ce8abb8.1777506349.e94294e878f6f8dce7ad8c1204cbae4f.7a8b353c45a974ea8e1df5cb681dabb8.766ddbd0ce67db9dfae4c6c3073d2249&signature=49e0ed01b72ebd4f6924759c9810d9995bbcbdf9c2a2abce3eb8d1230235f9cf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=c25517b082c843b723d9c67768d6347583b1e8a9f34132e45fd0d2be3a6f2efb.1777514873.6f852fd6c811f4c4f849a6aa87b33f1e.6f0921ff99cfdf565e8c003b4a4e0dec.add586cfd6c141c02076446695cf2d09&signature=e9af505f0e8a5408d161579b5c30b630441c95fc9868d9a35dab3fa7f12110ef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (Sport 4)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=9b57d471899604842ff8cd54132bcb735224a6e991feaa8ad85aca9ea8e77a8d.1777506350.4d839d4e9864f2ed021f6b26d449c4e5.e60dff3c1678a20ed9eaf67850eae026.1c6cd0dbd9a76a8a99cea28552cdd2f8&signature=afe74d908fb1273b172c7b793612cba1bf4046597396571a8fce2b2c1713dbf3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=fe99297441669c05150f31cba7fa0146cb550e16295b22a1a22dbb0f2476ee17.1777514874.d016d35f7b002cf31b64b1f025a1e502.c3e092236c3ae112b69288567d51645c.1a1a0df06e6e2b1c41cf3ff5fb6e68fb&signature=30a68c794ef350a9ca05f821e0518f125c8e29fabeb160bb5137ac4e607e401b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Palmeiras (beIN SPORTS 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=bfd9994f60606bc84ecc97d7b7d7784e638a9e7f8200b95ad4f3fae015ef61d4.1777506350.c7d0e79bf13f1f9661927127f6cbf8f1.64c9ab0ca1836c810862efbd074e6a82.1f2b048aeb0b3ab91a8a77a3a7fe446d&signature=b754c6efc20586080e7096402e098a49e5f0a202e51c83ecb187459dd24d7ce8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=cac10744ada0fe676c2a54366c870ad2bc2d07630931ec2a4c5908c84db2d9f7.1777514874.46ed7b3dd53ffac917f80abba1e3f43d.643c218b2cc112de89162436bc959622.c0a994310558457b1b0292036090d600&signature=b5bdbb48a4fb50d3438f7f6038377d7bd76bf7bf0cee8dce95c5d5620d62fe73|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=3b002f3a0f1a4f2c6cb8502e0ddf018f7e9e98c87f0db4b307c9b56c75659d97.1777506351.11567bcb3eb09c5ae3ba2d1301bc52dc.edec9c970e26de52ca2947fd1b46fb58.8283910598e33b4b7b15cf6053f7ea8b&signature=0e307fa1e1ded3a9e394cf512edbb48d7c97c8b9381856fdd05fc8cba8d1e17f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=41f4a1dba5eecfab76e12a43364fedd9548b53576d15492356608476a09e5869.1777514875.b4bb5beec3d980f214d986b487c07451.f1a8917fceb98ebdbcdcb63b11c3fccc.0975704d52817f616486b17f0eef914f&signature=767c3051bb0cff182465d4203aa6547a21b7f2a459484e96f051f4303d88bb82|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS N)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=835d442d2ae9fb9430cc31a1b0d12f7f70dd79f7a4f0a7bd80d6e91542c50077.1777506351.fca388686d5b5baef1a332583b090904.9566f0cbcd64fbdd122d454aa96b7b8e.6a7f8b456076fcf87da7ca63c7d101b7&signature=e923315dd4a884a60e8c66366d484bf5eb041e06e40ba8e7114d8135707d5267|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=c0073014eaf89a37c2595debcc6f707bcfdde2059273dc18589939362faf6a60.1777514876.c08789b5005d36abd5ec04c493cd4c83.5ca643a19632a13ba1aad901564450b7.563d12704ea3ee9e191d394ca9121189&signature=766501e0cb9b463a292688b95b04ee6dd46d1c282165f2a0d2e450433058e5ef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Estudiantes vs Flamengo (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Sport TV 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Estudiantes vs Flamengo (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Sport TV 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=e6b4a92b3bb10a62f37b5d299711cd11eeff17c5fdf233b5909c0c659a590928.1777506352.f082ca33c60c9ab80754dc3ac59a66d3.feb7a548d665e445ce7107f755cd1d68.d3d386d71978266ac829c39becf10a87&signature=2eb3d4fa87fb207e0d3d66046c655f16a043b4f7cc89cc782d3febcd0ce0d6d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=1effcb29d08d5d52b3d2ebb7bbd4ae8d0d7969e18eb74de6cd06ae9b946a6fbe.1777514877.8bf44a3dbb1ab3389e1c64c01513dab8.a019e72547095ef835ee52599a55ffd5.5b42219cfa4180a17aeed8c26aae22d7&signature=1b0632cbdd8fa9ae7f0040fa03ea0180bb4e6ef482818c233fe04b16caa7c3f6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Estudiantes vs Flamengo (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (ESPN 2)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Estudiantes vs Flamengo (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=e065128de6b530ad2dd0c3998d16b1f92ea8b06821ff017ce3ef307633dd5979.1777506352.15b2f1d61e86b8439a8f7450a1a58ead.b99bf3526e5de89c1869de0630b2f7d2.1b4f2ea12828833c7df5f49842425982&signature=eecca360d447145ceb015b1c12bd8dc08b73653db3ef29506942adb5c35d4363|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=0864ffa8fa7a58350e563c610be26186f5b7dfc13fb2c5d774ac826a39c273b5.1777514878.e9ccf20ffed046e391757375e4182f22.f8334603c414b5f2d3f917a37ce4a1fe.eb04813116664d5fca617c9225c1b2e6&signature=c0d28094badbd00fd1c028c719d5fc389092d2609034109a596fae7029a0dab1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Estudiantes vs Flamengo (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Polsat Sport)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Estudiantes vs Flamengo (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Polsat Sport)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=0999faf289c9874a37fde8b5fca1d045b354c78a47d151b3707f36eea4076ad9.1777506353.d8d783f9dfd3360e87081be724ef643a.8cd3005994bd4ced11e34dc22e46ac18.ed6b3c56efed87de4e72d3bf9966d794&signature=0314d4f2f2409c9e20d3bd9aeadd14ae446118a1f70dc24ebc812319ca31dda0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=0864ffa8fa7a58350e563c610be26186f5b7dfc13fb2c5d774ac826a39c273b5.1777514878.e9ccf20ffed046e391757375e4182f22.f8334603c414b5f2d3f917a37ce4a1fe.eb04813116664d5fca617c9225c1b2e6&signature=c0d28094badbd00fd1c028c719d5fc389092d2609034109a596fae7029a0dab1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Estudiantes vs Flamengo (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (FOX Sports)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Estudiantes vs Flamengo (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=982b5835b13c7312d9e26a77a6bcf04404ef247697bd6f58d1d93db9242e12bd.1777506354.3aaaefe205a87f450c33e7d647d24071.5222b1991410996811b00b7e31f6d759.e1f15733af6adaae6f4b1f56948f6570&signature=2afde1c985ceba3faf4c1033d7fd9af09817e619d8a790264a30ec4412ab870e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=cb04e29bed22addf2a53046da26ca1a892de8fbdfe66a419be6d5391e5162d4c.1777514880.9a0ef194fcdf7a94b87de921b4181424.f18643bb1b823a023e11d791f00f5bcd.43d1723ed5e7aad74b96618393d7d19c&signature=b221c3db650f1e1e73b2e02ae4ba82a9a982f405d829fa33ef9d97e95efb5d00|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Estudiantes vs Flamengo (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Sport 3)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Estudiantes vs Flamengo (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=12bfbc853dfdf7650c2e569f9290e4ad984ebeabf41522562f7c8d81d6dd2d91.1777506354.8dd9d81691ace1b794569d4786164fc8.f2181589472b0af70268715ecdbea259.c380bbdbeae4acafc477d9843ba1e40d&signature=28a6b99596118a79373e6ef2bbe2f995c6865eebc0c9d9f20be1ff2c51048466|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=5a78d2205e98237bd0fb5effef056f3e712bf20ae8121ee73482fd72928c9de2.1777514881.d9850d1c9c779981ca09ee295e7b4fd6.07fa8a9c526a75ba2a283e58f7db8b38.424150c2efd250e41774bba41431b36b&signature=6c84009acb08b04368351c86cff92c53130f465f9a0339236f10469b9b28f7d6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Estudiantes vs Flamengo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3206.png" group-title="Soccer",[Soccer] Estudiantes vs Flamengo (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=f874a8b35c05b35b53d97524ad6e60ff6e2d93c88d9f512af07b68fc3a30fddd.1777506355.1b17a40d57514d51ddb466de22a5cf32.5ec2fec86a5f832d50f42449df104d4c.60d2ed52e6c57a660251eae3fb47b0e8&signature=298bc2bd8d9a07113ee6e4e7ce32c1333e49681aa24d64ffe3eb592d8fc426a0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=16a30ff4f64f109796c235ec172fa9f6261a303f1c779799f075b2602e252dab.1777514881.37ab82b00603c727c1f07e93954ac10d.dd6bbd2861204ae340c7885df9b658d4.7ca011c9be0c8fc9b351049e1fe5d7b1&signature=8740f63cfb12bd9fe765935e39d15c781f195b80d90caa803bd07f29524a6ad6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Universitario vs Nacional (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2305.png" group-title="Soccer",[Soccer] Universitario vs Nacional (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=ac0187fbed87235a47707881d0aebfc31350e36495f0a2e0c6ced619b24c0cf7.1777514882.d51415b2febf7033b1b82e66309abba8.74d136d618c904f5012d6a862ce71f41.2fdcc20836cb99d04920913863da5584&signature=1d2d3c54eb95c1e6eddc0b2d2405780cf893d9f023b5fd189ff58cf4086e1fc9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Universitario vs Nacional (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2305.png" group-title="Soccer",[Soccer] Universitario vs Nacional (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=0e5a58243473239ecdaa0fb3056a195ae88267b83ffcd09b0983739a8b22a728.1777514883.6a9cdfbca3190732caab123ca719a96d.51389767840c92ae17ab13655af1a508.af0424d9e56ca67ab423f9c977e63be8&signature=ac7c3e5da4220cd876463808fc718ef686ee67687342f72b772c80b81d9d8078|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Universitario vs Nacional (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2305.png" group-title="Soccer",[Soccer] Universitario vs Nacional (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=76160a8a381c89eb8fcdd0aaea0feb17e10b097b31f66db286069758e261a2a2.1777514884.d97e82cf09be94d6a3173c992dd633f3.32f65f5a886b02edddb6aa8e208ed356.59e3caa4530fcd782a9034292d7b20e0&signature=f3b9c6cbe224027954d626f76f026ce034e355efa24b0878c947fc238188f1f3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Universitario vs Nacional (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2305.png" group-title="Soccer",[Soccer] Universitario vs Nacional (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=a9e9f75caa66140f1004eec46e5eb89711061e59422aa038f4d3d955043aab0b.1777514885.7b67194e2f6e1effc631f3a0e650945c.9157866ec1494b5c8435ae7f1a98f023.c8afbcd0738b2b19ffeac405583b9df2&signature=621772056165a346d0c91bd0b20909aa0dd677266fde7ab1e34686ad900e279b|x-forwarded-for:77.238.79.111
 
