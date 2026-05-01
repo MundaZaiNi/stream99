@@ -3,5 +3,47 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=ea9f49f15b664e07a1ae06db5b51b5dac5839743a4709c74f2034d1b1ce44431.1777636361.72cc01990712c9c2e7beed6cf0bddf13.2a216a59bba29f95afb83073d572e23a.4b19fc5d6b8a1d2ce0a2d73f72a6cab3&signature=08827e3fb8e17382a57a0ac2f6b860b9c08e34cd5296f425c97da3ecb11202a3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=d64e2b86958477c61b9d19ec6c1526456e8fd05a76934f073c52c26ba3d05970.1777640383.ad8e612e1078bdbb2ff6c79f3db19a4b.a6741aa654ada31ede0824df8dac497d.4913d912a34134512eb223553ce07e1a&signature=929771124c3fdf62c7468d51158e738dec2c43bb3b511f7b3058efcb46d0a86b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Carrarese vs Cesena (Viasat Vinter)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2745.png" group-title="Soccer",[Soccer] Carrarese vs Cesena (Viasat Vinter)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=1417915fed7dade187c6c54059cad760c86e2a6d80d487250d5410ff97a22a80.1777640384.c7b55e894b5072557e76f7f26203857c.65904a724a3037c971c4ce94c3588399.52c982f89be171acb36cf3f916ace87e&signature=96a2660396885f1b1b0d0457451b4a794b3cb398cf19b36569c60b372a44588f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Palermo vs Catanzaro (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2715.png" group-title="Soccer",[Soccer] Palermo vs Catanzaro (FOX Soccer Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=e4ba3f44fc9cf9d358ce110ea2e7d9046015baa90e18e415ab0878d90fdfdf6f.1777640385.2f966073e9e72cd311f9da4995cfdcce.1bd60b66c36e1070e7c01d441730dae7.fac678109a828bd52ac631d0ac32a715&signature=2adf12af05085e2da6afe19bf677edbfee36bf44bfe59f0672ade74d3baef769|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Palermo vs Catanzaro (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2715.png" group-title="Soccer",[Soccer] Palermo vs Catanzaro (Italia 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=7a5369be05fad45905ba137d7bdc7b147750882e87d7842912cdd688aad69160.1777640385.02774cbbbe207fd027ecffc020bd7ed3.9592dfe2a9e365e1fd46882e9a6cf6e1.f1b6e13189706b3cf7b7352087bd805c&signature=ec622816e09838935e03c88478adb9cc36beeecf2ba86406c5cc452a90a8bf7f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Empoli vs Avellino (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2705.png" group-title="Soccer",[Soccer] Empoli vs Avellino (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=9e21fc181bccbb8225e6acdfceabd1b25fdc8b5f65a8ec9d44180fc58c9affb0.1777640386.54db0aa33896faa88b2ac9145f2d68a2.9852e34acf1450bea5716c9def6c248f.19908dceae7ff9b47c01ab46ad3a0c89&signature=a72d132b53bb7042cf9efc704ec50369c19ef3d348389b10bd7abf531b4f0e86|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Bnei Yehuda vs Hapoel Rishon LeZion (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5203.png" group-title="Soccer",[Soccer] Bnei Yehuda vs Hapoel Rishon LeZion (Sport 5 Live)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=f4e36f17b55e8a4ef1ed8bddf9496f350563a476e187302e86d5a59bfd1e752f.1777640386.d34b7ee0306446fffea18a31cd3cc9aa.b71374178fb76d340468130eafb8abf3.2602bbc1c2d6989bd9518f0db72e22f2&signature=3e089d4113922e01fe17ebe31a1a430d33a70d9774bc6d3c518d82c837522806|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Bnei Yehuda vs Hapoel Rishon LeZion (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5203.png" group-title="Soccer",[Soccer] Bnei Yehuda vs Hapoel Rishon LeZion (Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=5b6419dcb830029a7da767f71e3360634d57dc4e611efaba82df1ea2661556fd.1777640387.faa8d003357f8c35691f10d3fff7163f.16eddc73a1d55802d3a8c76ff7d15c64.ea2a1cf44742fb68bd768cd467ba225c&signature=6f1de8b03fd63f7b83d829f6f18a71a6a9335f1b77d69e70bf7647583767803d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Maccabi Petah Tikva vs Maccabi Herzliya (Sport 5 Stars)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5333.png" group-title="Soccer",[Soccer] Maccabi Petah Tikva vs Maccabi Herzliya (Sport 5 Stars)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=54b4ba3a6daa9b6b3db1473cc450bfb2413786837e2cd31386d5537b7c3c16dc.1777640387.10c0805b41c97b61ab6c71206fbcc022.e97024c14e9c7b47d6327c6286bd6fe8.136bfb9f1fd3ee5c9f17179812c96647&signature=790199bb25581c217565fc1bf0bc437c9b80cc723c1f6dc21c20d0333a459839|x-forwarded-for:77.238.79.111
 
