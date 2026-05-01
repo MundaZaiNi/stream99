@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] KAMAZ vs Spartak Kostroma (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] KAMAZ vs Spartak Kostroma (Match Premier)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=718b178949cfdca15acb35593b75e64bf6cd2d00b36b043a395c290b97d2575c.1777632279.303cb978d1dcd16d7435248ca6cc157b.222e9576a9f3becebe73eb54d7348383.aa795752d47ad61f9f3beb3f0fc797e0&signature=bd371bbc67468de90a5170afd9b3070243d2d5392a871d21a4356fd6fa56f6bf|x-forwarded-for:77.238.79.111
+
