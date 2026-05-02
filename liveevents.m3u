@@ -3,23 +3,131 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=0305de8164a57934707c93abc99bc387b52905a484c605153f6630933c0b370e.1777725286.753c3e522ae5bcd62abc85c47ef4be45.4847464f43ea0a5bf98a5b92f80cf301.3d76113042f214d4b9f04d8976cf2a8f&signature=0a1dce2693d8699185b205cb46b50332782e58037bce32440368c896039434b6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=e9f4d55718f89ec215b2f10e68d1c67c333309e780797f4160ffa490d30d7e82.1777730164.ab5912ca4a73c0a3cafcf6f43fc406e5.fe379398c6ac6e11f17a5d44ca4989b2.a19c44083898adf4d8da16f914ee02bb&signature=f984e62d9eecd0738233231ba465a304892841c0cb4202033d19ff84e8642b35|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+5&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+5&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-5/playlist.m3u8?token=a5adc1ab2a595c55d179ff58a48cc034576c21f7210e5d009908fd9911a5d395.1777725288.d443ef24441eb7e76d5cb7485ed319b3.61fc7e723ec5e3c53b7df8ac5cbfdd52.1c41660576582966e649d899a2602588&signature=f3237e5cda118e869cc4ce8069dedaf380dba243a0df805896acc3ea13916f5e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-5/playlist.m3u8?token=6b767027d5746b1f42441ccec1947d9d80533f9fdf20acd6150a7ac186f299d5.1777730165.60901e395196c487ca39613b20d19567.0471f9002122e7c1e74f2a2e73d62fe9.caacdd163af82e904d28bb2c45e52296&signature=538e27cf0b8668e41616e9388a61d3d9a5cd74eb806e63a8e9a4b68e35c61294|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (Sky Sport 3)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dc6a54a641f6a114249631df9fb944beee5d1099ce65d8cd45533e180f302d8b.1777730167.631cd2e872aecaed03f9ea5fb47c1f0d.918bae2cf7d34ff96507de13a2077153.fc7d19b37c4171835ffdfe70fcb67376&signature=5ce45a1ae76cb981e5834eb5f1cf6519cfbfaf9a3dab4e73f31d29af157370b5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=113a2757350ce16464bbe5ea6de53e49099903bcef3f48bd22fe186f5356d3c0.1777730168.fed9906d455f28a0711f3aa89e3da7b2.5819b8f6fe0d8c176d171249f8ed4c44.361b231e2ddbc0bf9ae7f04978bd70d7&signature=dcb51d8097db545c9dfa62caade1de5caa8b0bcab54587f7496c36e156e55049|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=64b7a273699b2981c83cff8a3f86a6859d658cbdd46fb913d8d03aa05a7686ec.1777730169.a6bf311a53b30721c719b4577e433387.0a316d5dd0b1e2088531418b456f65f5.ff07eb78e1856459b558ef2952d07c1a&signature=64dfc71c1a5541b48c8544a050b5e78a8acd4d7039390bb312936ad048d04194|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=ebe77a261d56a1330b2bd864327200ea1ce8349ceed335f0ed9d77fb44259426.1777730171.b4c4e1c09b7e42bce043ee222022b735.a561f91e9e2d2755a42d4ed5e2a82320.2ed806bb082709c53eda2aacc06808bb&signature=0c0c66e076a3c7a8c9ddbd899376068956462c27e2450ba9a558ace84018fb28|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d25e2972031bc3a0bc53b149311bb0689caa515749d1522565ee10737919246f.1777730172.7580482ff3e6f4dd2046b022cf31bd29.e08a61dee84de3876c6353a9ee9510fa.17d39b93614c490175511995b42618a0&signature=cf961cb9591c589e7768132ebe30d429a85985f506d557a58bc3e29c7e13d721|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e07ad5c6e723d9a3868b5eac51fa110b400c4fdffde3ba0b9b13e6dd43140b1f.1777730173.3a1af0afdcc2d00693d07ec7900fdd81.add7b5628fd84fe77b7a28ea73cfdfbf.da52590d5509e55c6b51fad16a05bad3&signature=5427a8d0efd534f2eabeb80cbbfff8e3ddf8b945b461482d8f9438c9bac8c31f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Hub Premier 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=3c902447249d6d496bacfd982cd29422c812f8150ebd63f37186ff9a3ed7338d.1777730175.041ac3423e28da11b8c1bb6dfc697fd3.62c98a9d4e92ca439453988b30ad19f4.df075211074e765d563f3bfe01fd0ebb&signature=c365350fb34d0c5da06ad0dac3c4b234372de2d9d3909b029511c963578f7716|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=08de4a208f471222ab3bd0011393717e38c91155490465687191e9d1b385335d.1777730176.2323b9de7d863ccc1402d9de41ebef41.e8794e9df59714136cd2d90ff2fa0364.1f8716f18aabd3ab6996a360c6227124&signature=64b812e59cd0f518379e12024f3844162202c9c290764e2ba0f31fdfe90d5fda|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6387d63268e7b8af82d440fc23725b4e7ce5e98574ea734411eb67a3054fad0f.1777730177.9799b3f200655363046ae77cc61c374b.b5e724e9a14cfba6dcdf29d2b26ef781.a4d98f236ad45271259d32653dd4042d&signature=47c483890cad1aee9131abc8760547eaaeb58b7901c5fb956f898c08014c8fc1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (Sky Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=413f4ddb20b87db01a8a072d652cbd627a7ca58438376c3b1b7a2ada013f6876.1777725290.7b771b4e1c1d6ffb0cef2e683a46ee48.4f651d21102bd21fafa3193b576dd1a3.0676e130c819214e513a51dd5d69f3a9&signature=72a84e919e370ba0baf746853302a4bb34f30d780d8a00efd0922589dde37395|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=3a6ce8376adea0267c7040be08dc07a07d4f0e417d7485d241fabebb249349cc.1777730179.8167f9abd8e731eb994e4257d458033d.a8760743f970f7e7982f8cc62c3a20e7.bea07e218c72cd750bca979612ed5dd8&signature=a602f5b56142b6550369ec2bc538ef3512a0f904c1897f6a137b084cf14053fe|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd T20 : Bangladesh vs New Zealand vs  (SSC 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+5&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+5&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-5/playlist.m3u8?token=d7c7672521052d3391403342747dd697fb69f7a8593e12d1e52286d2c372b8d8.1777725291.7afe1957d215e4f1bfd42ad18f9a797b.5a6e3ea5166762e8392ca3a35344a2dd.796ce5c65cbc4abcd49beb1108e029c3&signature=bef011b08b192141575c416d6449dd00e3f3f16738a00f0c3df6f2bc7786994d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-5/playlist.m3u8?token=952edbfd2006c8c27baac50d45f97fcc1be1864a86805816bff48cf0f57a2c22.1777730180.c8aa5df31ebbf18e75401daf8e83a4f4.2630d45eb971ae8ed28dae5914d533fc.6dc1f57d606e8799b015a35e1064fc01&signature=2642be96b226570e4ac4d5dfaea900e14e8545d8ea5b03c51a3ac0a4e2c57e0e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dcb6a44d51a10257521c606d32264b6b286f72f19ff99058b025e453719ca30c.1777730181.0cc9fc17b0c2f4e2708890b7c34b1a36.c4db3747967e98a6e40fd515124aa2bd.075bda2ddaf072322e0dfa96cf5aac66&signature=d97e8a8da7d71143558d956af7af652fecf19790866ec1e2e815f953d5ce95e0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=4054050acc9ccc617ec2b939ecd54a4a5a93f8c13e5b136221f30ebae6450136.1777730182.c3a100f076975da31b90d4342b18562d.a6981ff0881e3fa01c65b30d4bc43d8a.df5b8ee9c5e77148986a94b174e4ec48&signature=53f3c1f7348c31e432a6971571c2d06b7cb8af4a0d4ee08f6e31ea2469502219|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=6821186423d47380baa055c30ce5af5eafb83748690089806e78ad0a1ce18608.1777730184.b31629b6f7d4f0a202019fde1620010a.29f80ba55c11cdbf6c02c87b119ae81b.52e90a7c752dc69c33b5b3c15ab79a4d&signature=8d947ed701afdba6c11f00883db7c9f3fc16ed59aaea8405214cb5df6f0c27f7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=abdd35df1e5d4562c9504dc5feebee3c7879a0a472a19bc2e3c273d548778f53.1777730185.e0afa4425b7aa802360dd53335fc1aa3.cae5828ac68efaa0ea9df39a6243070f.4091f72738b6eb9b0ccb85812c187418&signature=3fb849237d91d3f874d7e7e1fb97fe871867d8d0d052a8af49ca2425752da501|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=fda7b0c59c615170015cc49239b118d083676dfda96259155bcc622ddf5c8d20.1777730186.1f3a65484c0adf42addecb9c6bb9c8b1.e49160ce6af639ad7f89935a38d8ec7a.f40e18a4a593ca5e6438748462aed84e&signature=9e682f3845a5b563a1cbee5d454258ac7ad4ebad4b2b99c2dffbf75a750841e9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=745d479a497224c1cd0b7426981218766ddb9900a357aca8956ac0f9c75dfd2f.1777730188.6ad034a2b2d4716cbc3d469d7d953304.45bca352c2efa021f297ebad6d0aefc9.951403f08936bc49cb980e1360a3a5ce&signature=b12765af57498ff8c71bc713fa9297b6d699e08f39456544cc433f7dde53ad26|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Hub Premier 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=304b4bd70632e999fc7b36f926913dba145e9f15fa1a33b975a11abb9ea8fe74.1777730189.0eeff2bd83c6b7ae36d0ec6eae776508.0887405549f440f747ac8323d4f4892f.3ea79e0f1a57e4503ed63696122c8a7c&signature=3c13532e5ea1139f39e9369630b03c136f125f70d0cd0c5a1a1a64f7ed9e19e5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=3d07642e84f94516849f60e67af7aad5478048359f15c00f2f51b61f1b2ed41b.1777730190.66eaef877d247fd13235d99f620b600b.ea5e6433cf581dc49ffcc66f205517d1.1c6797a23766f061d1a509194ba692a9&signature=e64d71de6a67fc43be92b0e138404fe8cf3737e88133f875ef3d249d7198c0ae|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8e3d864b44a880c85e71757decb9073ad345fca4cda9244b1a2468ec961ff167.1777730192.12456a9a3831b689cc64b98375709edd.5ee64b90bd354655eb1965d1c0f74eb0.47aba4866b29d53decd7d0a3e6faba7f&signature=8d8606f4e7a4687e6518389b61dfa8cd8343b6e5197f0bf4f48350f27a1e2e5f|x-forwarded-for:77.238.79.111
 
