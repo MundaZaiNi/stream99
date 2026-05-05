@@ -1,97 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Hapoel Ramat Gan vs Maccabi Petah Tikva (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Hapoel Ramat Gan vs Maccabi Petah Tikva (Sport 5 Live)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=9fb01a3045cbadeb406763cd659d39fc82e94544a5da48d999a90461b6b4069c.1778000946.ae34f5ff296576a0e4f1c0ff4ec11303.0a4cf41b2a6b09606f98bdb5bd878f5d.25461b2724cb1c346682b4e27c40ef7b&signature=f32d2dd27bec4f569a25f3fba704916ee3da9d7afe1f1f45670a3f467473b825|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Maccabi Tel Aviv vs Hapoel Petah Tikva (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5198.png" group-title="Soccer",[Soccer] Maccabi Tel Aviv vs Hapoel Petah Tikva (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=4a9d83613e101b425b67c48dfd8ebda96270f1627441381c16831551bb562e3e.1778000947.6213494e3efe5ede2350a23198727c43.3bc782558ada77295bfb54bed17259fc.86e47b2155eb6a61e83baca9e9448001&signature=39461d321bb2dad58cc81946921dbc3f71ead270a72a092cbc8fd1cd752b8186|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] RKC Waalwijk vs Willem II (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2956.png" group-title="Soccer",[Soccer] RKC Waalwijk vs Willem II (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=9c5aca3a82794cf3899249da123323bf4ef5f3e4ec66cdb10ebf3dd0e2e86837.1778000948.14fd43ac2ba31971dcc1b59cbd980ada.2277fc422836d02fd8dc61be482b44f6.2e38ab082c6b5d372f9093c18e66526a&signature=1b092e0913c23c6d25fbdda549b5d82f4ed39e05f189819bf84b9c1c197cdd95|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Lokomotiv Sofia 1929 vs Botev Vratsa (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Lokomotiv Sofia 1929 vs Botev Vratsa (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=91b8d8a473263f886a5e74fe197583f65b6515b9e93e50601f57cba3c817c264.1778000948.a650b6ac92fee96bd25baec98211a54f.6cfb2f705682d5334e16d02efabe6924.49407c1bff2d82ac63baf91cbf38ad92&signature=4a3a53d38598ab87f68578f16a8ebffb23da1a047dd77f78905b32eca6c05d95|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Falkenberg vs Norrköping (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1812.png" group-title="Soccer",[Soccer] Falkenberg vs Norrköping (TV4 Football)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=df334a08679413d46903503532f0aec4c7459a5d04cb4da568e93b87e8b1f90f.1778000949.6c078538fa4f00257c6d11ab05da28a9.e9a2b0872f17491b68036e1d616ccbab.67926b0b094b3c1a53cefc97d757be8a&signature=ea421014601ee06b206f29df1c6f0dff0727e26d012938d70d7b3b90c35b24fd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Beşiktaş vs Konyaspor (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3050.png" group-title="Soccer",[Soccer] Beşiktaş vs Konyaspor (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=fdfc1f42f21fcfa3e9c3149435ad33a6652c5fcd2f622af00d14fb4325e5d41e.1778000950.1669709a384b0c871d8b4eb03d9dcab8.31fe0ee18ea67d32fb7ff74d4c0fbd05.bf37f4c7f07934a48bb1bacfb19da8d2&signature=659e30c92b3ac3a64bee690f10f0d7922cbc1596926f8d4de7344a29eaa406ef|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Beşiktaş vs Konyaspor (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3050.png" group-title="Soccer",[Soccer] Beşiktaş vs Konyaspor (Polsat Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=29fe752da007057732ca376487669fa5844c5b6d245f4c9a5ebef24d30571f7e.1778000950.9aecc992b99e4607c845f31a82d3f5ab.a2937290674b67e2403093c0e907ec89.d61324d98fcd5f219367962f6227168f&signature=b72f928fb65b1f5551154aeeae5effe9011a0f7bd309b0a897e6c14ea804471c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Beşiktaş vs Konyaspor (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3050.png" group-title="Soccer",[Soccer] Beşiktaş vs Konyaspor (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=477463384fd7d0779d5eee50bf00ff704bf3e3a8168e284d6470ce27be58ab30.1778000951.2b41229943ae263644230c9396c9ef72.41e1a357cca91bd305562a9a75be7089.e64f40d18039839b37fea3dcac2c08d5&signature=c08eb683f6ea31194f2217da16e0e0d2a692363b96737a6ebf9b76b2210f3ce8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Beşiktaş vs Konyaspor (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3050.png" group-title="Soccer",[Soccer] Beşiktaş vs Konyaspor (Arena Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=ebddb434f01c6b2657ac4c7e257c9e8776dd104f2e03026e900617c96a1bad7a.1778000951.4f43966ecfd1325458df5b5649ed75f6.123cf8e6cd983a514a1612bcf5cc2ebe.afffeafb0a68f49bda2d596f81fb5608&signature=59a2727d5eae969fc626b1eef6f94747e560243c6e40f899d8697a71326767c5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Al Khaleej vs Al Hilal (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=fa8f57b5e52fe6faac832fb27cd63cf946cee5ab9dd99e59d7035cf43de72cc0.1778000952.6018a988b778298f6ee1784db8b4eda2.460272b33f982a65e3a166bb5d9691e0.c7aed3d229f826c0824c2829a1ae0786&signature=516ab09196d3b39f78a381c8e650c5d407656817366ee5ff2dc5c36c149ef5c0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Al Khaleej vs Al Hilal (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (FOX Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=4f264ad53dff2e13cc47a7d0c2c862277a8f36f18ef4cba01da686394baeaf4d.1778000953.d455299c4a881a1c6d2f6dc63fcce98e.e1dd0bd860f3a5892afeb3b660d3e3bb.35a89f3d052ce8257384d8dc0f65d35b&signature=e390c7e6f33bcd85f43fa383a64973fad942188a803b3156ff132cc3e082c2bd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Al Khaleej vs Al Hilal (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=b6f0270f73b0e25dcb3f504152db8940a0599feac21f58dbf363fffb2980a426.1778000953.301e9058a4ba0df3756b289f846231d4.99d626e0423da1ed144a4d7d70967fbb.5961f32c2c9d1c5d9033bb49f2deac95&signature=d5f09d0c2d5aa5d94d742bfe251d912c62d3775af0fd1b7ecbeae89a08ab6c0b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Al Khaleej vs Al Hilal (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=dee1467599e1297f143e00a2c136712c0ae2164001e65cb9bb5a7c54eddce7f1.1778000954.f0441fb7527b4197d1ee0c2d1d8162b5.ebfb1e5ffb664c1c49ced041c411c795.eaddfc356bec26645208fa14f4542b3b&signature=cf2b4e23d37d116238ae066127c54ddd1ef24337d4eb2e77facf598c5b8ebd38|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Al Khaleej vs Al Hilal (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (Cosmote Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=51953ce47380b929a2123bc1b2abe4e69cbd974ee85bddb99134717e4d31913b.1778000955.7976bc6205f70a47fb1553cfa5d929ce.a2acccef64bc64c64245ca22d35f9780.638c72c5fdd856d332dc3f474bc43125&signature=52111befadab0b111bbe5a62d4df346b3dbf6e81f250d8df6b791d9bb1faeede|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Al Khaleej vs Al Hilal (Sport Klub 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (Sport Klub 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-4/playlist.m3u8?token=aada20a18303944b7d0b9586fb6e47c6219bb60c7b7255e851b61921551050ea.1778000956.629d7c343aa17104d60cec867819aa55.7be901cce700c82c6241c6b2dca37cf0.cf22a1679be1b914e132e59ab02ef66b&signature=0f90d81aacefd91ce2d688ea3408be39476578db35a234431c8b3df91204d206|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Al Khaleej vs Al Hilal (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Khaleej vs Al Hilal (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=651ded31a970c1422cf367de0de845b0975f4fa98f7b69063561dd96fe03d62a.1778000957.8bd4ea0e9e97054e6a2b506741a65700.2df1e42eff5f8f1fd054a7ed3b1c984f.94554a37cfa87a7b762001e94747689d&signature=ed8193fd2e81caf2987fef69a05eed282dff4f93d3590794df3749d5e32d2ff2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=1e16c9e91a87fd43e3eb4b7877171d66af54644ea775b46d0c5c9b87217d194a.1777987111.a623d223323de01946a20ba80a558700.7f59802e10e50f46c10c987680571726.f2bab34c8eec190cc473c6ecfeb1ba0f&signature=674ed3927c3290de4a475bfebbf23afa6fdc10ec34f165294df3fca68055cfc5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9e266226dab42b6e2bfeb38ff2a5610f6325274a4a36bcd2d6ea4d0754e36409.1778000957.ee1e3270493037f606ebe8fc1d08a632.1270d2db757e1af05935c3d9c16aa762.666b2d569e436962c7f2b3cf37da0520&signature=afe372dd9f2f5a30eaf5823d7617e7df6e2d6d5e1ef7206cc5bfcb62f1b2c599|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b0f0b2b58c72a27e34cbf7af355fd79fb4b65a5862ad3bbcaea7f3815f7b4429.1777987112.502dc54ab818714ec0c83bb57a04e28b.64b7d2b31d0da6c7c9ea62f590a2eecb.685156598d626f5653b7990aeb6cd925&signature=c5e363e197547ddbfd267066b2a503a12bdc8fddf3e6b595b76b8124548bae96|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=bdacb0f2a53ef00639202ced6dfb64ee2f1174da6665ae49313c468bdacdcb64.1778000958.ad7a404f6089137b2ec1dd663e7c2cf5.61e718510448e73cb9c0faed8beff986.935e1a1c7b87882a26ba778b87ef859a&signature=2e2efe772be071b35a99d3241ebda79ad6f323ab192ea26621884d1e701e557d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=83ad1aed822eaaefe35fe3cb4c3e3e93215460375234892c4f5076406ee2e9c8.1777987112.e7e59f4c320877e928e9e2ae69b051f0.60b507b0f706d0e1469e79041817c3ad.12a677bd101edc8608bc1f4ea6b8cca3&signature=247741b2ec2eab2d530b61b429c662474f4ebb5695f53907193c51ed6ba7a432|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=d7631224aff5488e6f256985c72901bf0f9542a4e3c984d85a5c7d959ea46f0a.1778000959.03ebb1362d42d547a9a4b01b06164089.04941e3a91d7ae1b91799a586320ed89.94d9eb22a9f6c67c3a81b84705531278&signature=27e3dcc7103494f110453fa2d2407fdb1ce741ddc44293a30dfe9eba10a32529|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c9c126506607a96cb6661183bc1293c4cb2be2e97415f63b3e34d82a04a99da1.1777987113.6378f4f670ee487667532cb167afcda1.3e37feb45273d85f5653952f0b79c6d0.41e3b56f5cd5e148e539e0550892cf57&signature=7e70ca61a33e1ac5fad86d73e4f8295b83acb4ebd769dae5032225d3c50e7563|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bcae8d5fb5517265245d3d6fc43430a2906a9d83f52a096949ea88bde1de3f7a.1778000959.23c9af3e47988d0dc5d9e8889c8c437f.3b85ce93e1c49c1e983427441b328318.9c288c94e5334544e0ef53db3a6d1f3f&signature=8ce31369c1106f78d7c2510edd1c9ddbd9a86be1c4f285a455216fa2609e9a20|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=05730ae24518c18166307ba78f6c28e8a39af0a6e609a3859cabd3a21a437aaf.1777987114.a3ab695426553e87b476820303d3ea94.0dcc0f76ae2f13588a9a7b4df839c004.4d0d6731b9f551ed38f151dff28a2a7c&signature=8898e4c2084f39a3784fa5d16dd09da34732b366e49e0f3840d052fa3ef19b5b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a742147cba82bc78aa015b22f62ee798a87927a0d5a8b62f0cccd8c5c7a7f82d.1778000960.20b560ccfd7bf592d03f71ce878fdebe.a8294d0f1195e182d67acd501c4430ef.45f3e598afaa8cf2404509ced679ff60&signature=6dc2f780b56c26884f74e72f970445d9e1a71c2b2a0fa3a542e99ec2f4f67b57|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=782fd7c749d0ee13dba531ff8f17659a91f4fef5407c423b06696bb9584ccecd.1777987114.cb973f41d79d1dddc563e53f5b54931d.6b14ee2077fcdcb764e30773dd8d3e6d.f88b255340902479f8ec8b2911db5f33&signature=200ebad2723cc6bb32b274988b93faec6a04f826f5a26d368a135dbe75a8c03e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=055979e5a6cb38fe2befe05dc351587bbe708192229e276b68957737a06ac87d.1778000960.3e89a3cdf0f61f00c695386d24b424c2.e0463c05820ec393c4ba38de01388f34.4842a73b491f6357763b753ac6a858fc&signature=412b00209e6dd209ddcf1d6436d164ebfb773834d4781485f5d04f18e6335e39|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=88075bb4063ac73eb7ad7e0916f9bd224b430d50998a0dd54b53a8c095e2cecb.1777987115.4cfec75fe7030c7cab57dc708b319bf5.8865f44d380cb751f34ff200c56d9d74.55c19427326ec0ca609869fd5a81fa01&signature=0d295eae517b60793ab3542b260a4e03069731e43085a1e3d6f5e06c6511760b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=b96d68e3f0eac1f84226abfe63b1ffff960312599c0363887444bed42eec263e.1778000961.df4c6df4f5ef402b5936796576132251.1d24a06d58403f4dd0643bc519ec4f1d.cfb50401140724d1f232fbc7b9eeb51f&signature=43f33d3c62db74328da103150c50ade1d4e6288b37441944f4d8910d4010fb69|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=952d97fb1bf5140a7f6a8e555afa462d87cd15f1270ea13477ac02a62f2d0173.1777987116.1d101919a52c5eb8303e72f49fe978ea.3efc3560215907c2e230cf06f5e335ea.9e86b673f775bdf85fb7f9e05ea85251&signature=c35d4e438c389f3809f5ce2ebc69dfd04aa33c3c73626c5adf7cce0f063b2a8d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e87c0f53238e8be5175a5887613af7e5b6e5f938f1724db1ff7dddb3007d157d.1778000962.813c76dce42604c402a1308141322c59.653787a819b8c2703877d917e3926e59.0dd800e8d4ddf2d0fbe8f54fe6590ddd&signature=dd7cde2a0f3d16421476fb1f0dfc5d563d764bbfe010bf0675bab4625bca045e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=1d308f34f3645bb9ed2173a1f9796413475cb452305bd1ff2163a7ef88bcf575.1777987116.dd1a66652ccc2252c099ab2c139394c2.b2da01b58853ff34215c34d51a8e3a4d.31ed2f088308b9636b91a24b994b79da&signature=3b9a21e91a9b16835d2452929efd744a2ec42e5f49aaf3fa802b0f23c12f665d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=af7469f51d82e3baae57c51165c3a071ac7bac45302b55222a72db73460e608b.1778000962.c6dca85de14a34ff326e677b2e639c1f.8877d46c7826d62b7d07727f573d6303.08c7571493d9d1b31845901713ac556a&signature=e6918e2fed4e25c36f865546c1a95bcd933d2cb8b417024155dcd343ce8d8f01|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=683b742e197930733d21d295de1b87d220f45c6a40adb5412748f6d0eb9b915d.1777987117.56a0960a0dc0030060b44c25ebd34584.d8765fc90fd0edfeeb9bae206337576f.05b5c8d26da3e21dae3aba13fc8fac75&signature=dd1b268a857aa778bdeaf443a27357524a06db17fc4c510e7764f8452face319|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=f9f0b3078c49935526a7f0c522b2c025dc7a0742e40921c2d59a777ffc339eeb.1778000963.81b90ee48b1b9580b7c9b507e89bdd9b.029afcbce300faeebb5f0d815b3bac41.012787d980d1bca32202262757a78bb8&signature=744bf0b896eea6fcbfcb7b6f6458270333822b366ed7e6b07ea9f04002bd1888|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c261e6518edfd2e86f9975ff4babf286df0bc9767ec9f1896517b0c4876e1910.1777987118.84f562d002a49e1a9ce80d9911864944.58a2581f9b52d70f00952f031db200c0.be8c020e7df56c28b42a540a5579020e&signature=e933c8e7e7b08c26d63fa0143646e1b414352ae98806d57dbab6c63ac26855c8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=be22673bb440c2fd37fd2b51ce0a0386184d64f7f0860a794f66544fec983798.1778000963.56a8a61c1fdf2ea7b02d7372429cb088.f0b6dc0c903d5a1b560ab52ccc8a076d.6176446f296afc5e97f0264ea0c0ea8d&signature=ce6ffb4c3d108faf1304e3bae3c4fbb0a2e97a046cef50eb0f8baa0809194237|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=d8c149e38c0e6f19fe11ee01b3acf3fa804da3f87fe19b0ec059b2bc3d3d823d.1777987118.f7a34fe87d02206278a66d82bd294db1.4bf9cf43a357202b7d7bf07b9a501466.02223ffa15e822a457ebdbbaa708e2cf&signature=da3af949bd828e192ac04bd85904ff1bc4d69b8708bd98efab7db843f9bccdf5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=de7e4af465d041be8502eaca92e67356a18c10969eaedccd20ecbdaf2fc252a0.1778000964.b9c8d53b50a2b9d30311159b21488154.43e9dd500ec894979af4f8a418be1630.0dc44789e572d880f26f3f449b24acb3&signature=efc923ab845efed7cf1852ea7284ce134ed69a3094b5a39536fa756ed23edeee|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=88c279d5b8db4c0c9ecdc0a13853cca0424ecb34c7763539381079eab2886dce.1777987119.a296647da8a179285a152dc9b6d1d72b.e9e51d4d3c64172a26092306c6a6c66f.8505e0240eee652dd30a8d91377efbe2&signature=955ecfc9847f3f6c81534ba0f39f4f48340eb1714c0a63bc75ece89ab6c8217b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=203fb68e5b17419d70567b6044d6b7335a36728230bb24296f06472a639f26f8.1778000965.0b287d3b0d6251bb9353184678c860c6.11133215a21a802d75f89c20a4918a31.7e4044f4240ba6a08e347868692f6c6f&signature=a9761ed994d117c7c0f11b7b238d53633585ef0223ae8f740ab112fd2fb190a6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=25a8397a7faadb5f47363c3feb3c2b9f8f8cf4a1b8c42906895a071657371e15.1777987119.a73e83befe80cd008d37bea136e05dc2.2473c210ab243b50def916915ccee7fb.e1cdd1082d390e55eae55e3f9ce2f4a5&signature=65a262040c6f5df78de22410244a2da1dfed702a71da2d2588e365fc6b5651af|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4640c86003ba918d1a5b29337984071b14f4660c19f2ecde0f3cc41a43aab798.1778000965.b6d94dc7947f91b24a2875e9f5ddce0e.54e7f5ae443d863b8266cb7ca26a823d.8e080ee8d123cf485238c45c9d9ae930&signature=50e3877e7e11c5cb6a98d7236493f4f623c05fd0261b4dfab31827e32ce293a9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=dfe3a860cecaf82f8bd8661f9a3ae6eab3c065c766d49f6da88f8687a7e0bb9f.1777987120.2ca0f513b39ab0ed21a4f91e35f87ddb.7bea563e68e10db62618eb332413f3eb.764c846f2212434b9b6ab1faa15a2a1d&signature=3dc22ac6f1b9fa115d6fec3c343037eefb4bb869565d6466064b83c102d0e69e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=14eefb6f91e927511d10a99d87b78bbc225f4f75f39c0a166e17c60b7b0155d4.1778000966.f26c004d041e6d3af36557c729d26cb6.832816bf8b79099eb916a2f854fe76bf.4efb014ab5de4176118b635b82b7504b&signature=be9a84417e46bb0683bbd995a452e7285267f76ab720f60585675a8f03051fbd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8dfbeb92c5f870abc0307670eca96a28e213dbbf3f15cb4499acca9d155efbb8.1777987121.4ceba01c546609584da854eabf9acb8b.1d024f4978d65e01b51c3ab88751a001.e1cffb47282ff5f79e5bb294f8b3a2be&signature=a6c5cd7e9e85d4a127c5cc46f41455bdbc9b2e89121aa361e5a4b394cc24445a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=71fb4dab23f044de13cace170c040a5af9b42c1361f8ef1b343f57e31e900b6d.1778000966.7af1ca3eba418e356cd97c24e4df15d1.b0453b833f8554ba19bf8d1adc60f97d.fe0da776afacff4bfe5209bf371a5589&signature=4231b59b9ea0af047a2f7d34a02740c07b05b7bb1b6ae6d863bf71f4ae2c8f26|x-forwarded-for:77.238.79.111
 
