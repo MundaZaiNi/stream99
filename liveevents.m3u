@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Vélez Sarsfield vs Newell's Old Boys (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3208.png" group-title="Soccer",[Soccer] Vélez Sarsfield vs Newell's Old Boys (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=4b90b0b419236f2cb67bf71f847d066c6f0044cf3d0a2f45884872b08d1a40da.1777937441.5bc55df2e73234b9135eb31a2985a618.45134378900f98d6998e08512f3d163c.524acb8ca8fc35fb1749f01b2566bf9d&signature=ae78219f1dd4d95eeea6e49d554986ed844d7034f2e4a70562c29074a5028f6f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=a8c9d83653c899b5d50d1b8336be93a3276061e881195584c0ed1fd48e44c4b4.1777937443.e55654608b473945aa7865d94310255f.bb03cc13f53ed93dc5251acd244effe6.04fbdccd772aa2701feedab3ca0d57cb&signature=e86df605557ff3e1631ab05c43ae03e518140e0f6aba4e44db6452375d080e18|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=eac9e8d25341e7142b636b48a03395d1d81483060681604fab30a929e4828a9e.1777943701.360883d6b6bf452c3b7075b4d6eac5b3.8190c25a16a5d3069ffa9901e88184d5.463de0f738710e379ba990a242ff553f&signature=9d57d15b567db24463b18632950328be123ec2e9e774030dcf09b43eff7f9cc3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=0d3bb627644ba936d478eaad3b7f52f2f44f248a1ee28baff90f99649836558c.1777937443.f019fdd68d5598d4cf81d10efdb30c8e.9de49d6fc493aef6603f20406e8727ac.d4dc69772790ad49f5fdc3aa039d5b6a&signature=fdd362ac331ba8b2e6128df79d32718e75bdaeb9ae7a337b269386e03c5b0f6a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=58570e0e6d8dda76648d8d60fe35a1c6a0cff12fbd85e0d4d37ce707d8052e4b.1777943702.d52dccb3f4a3b58f34b5a40bd9b27a26.7059c5bb9487776fe0daf43758b73cf2.54e99fd88f97408dc17bf016255862ed&signature=1fb2f6e684418cdf4096b563df566c1a76eb2888342d49d7cbc2117936159616|x-forwarded-for:77.238.79.111
 
