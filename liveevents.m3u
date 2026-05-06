@@ -1,343 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bayern München vs PSG (CBS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (CBS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cusco vs Estudiantes (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs/playlist.m3u8?token=f090c8e8a7be5333213b818a7b1c6d882718833d5a4ccdc0d9a305f6415af375.1778100481.facd309a971655bb2945aea6cf4c058b.bc8360b547af8221b7eecc8c43ef843f.8ae10ac517a49cb227adcbfe08f61240&signature=ce6df3be238e1b34efe95e06c8adc90740a6ba24b173ebbb03a22574c03aa2db|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=cbcb0f05d81760f971b53e52b9c02679d0e99ba4ad4d4446b52a98707f8a5bfd.1778104329.b5841dcceedf438e70b87994f4fb58b0.7f0470c740b68bf228a5a0b9df9b2bc8.c546fb731770f2097fcdde567a33e5c0&signature=9901e72af7721230fb05c22c5bfba614818531f0af38939154564809f124c923|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Bayern München vs PSG (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=d48453486117779fc69a3f4948c3c532e5e032a50ab9c59bd91b1858335a5dec.1778100482.c4545c571253009b9dfd397b6f338c2d.f3a71f28b52b319db8a05336e58a1352.ac0dfecb14413cf53a91f041debe8331&signature=74f40f0d2de0ff230b406db8e34798517205fb973eb94cec35c404c4cbe2984b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Bayern München vs PSG (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Univision)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=69c563b3555a2fe1d3a9e696c0aeb4b607ed646aeb42af47972e39f5cbc052c7.1778100483.f67afce75e4a721e63842e00525f0bc8.d0d653398e7cf52fec1f2f9d60ad2904.4a168c968aef601afbfda9e01a16e10d&signature=c8c9ab3257f6ad1d1feed12b2e96e476995b727d2c36029e8d2faebff5c512b1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Bayern München vs PSG (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=91353d80a1ee2c48a5d514eaa036e20f1fd77e020ee0c5a517d943d1706b7b6e.1778100484.bc08ba7df9a3805d41758145d9aa1a95.94bd8d537e30726ed9496646aeea60f5.4d94c57b4cc7680227b5726af3697e44&signature=63ee1e2dd4ebf05affecb78025952a96f0ef71db3a5b31ef5c3b017c11427ecd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Bayern München vs PSG (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (beIN SPORTS MENA 1)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cusco vs Estudiantes (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (beIN SPORTS MENA 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=74252b199b5164de39a447a2dac6e5941f26e2159ebdd63d5f664409513e6047.1778100484.fd89118bafd404a2780f97e863222290.1a31d9b5576b550b6bdc197f2a9c9253.5ec05db4dbe575cda8bd58d4b56586d7&signature=afa3d0bed2701314680d63f27ee3ed62cd6e451299508e80943d9bcd70a7b8a4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=fea7e332ed5c9d7ef1efd55df6ff145038b7de96c9904cc5a38fb7f02410af12.1778104331.30226e8f5d6a1079a4f98cb4de1ff006.82a14b7cf875180a315e6f66bf761c67.b7d651579e56ff03c835ef756f6caa1e&signature=6ecffa3df474f5026b232f7164c12ecc31ca0dae515286a60c84ccf39e591123|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Bayern München vs PSG (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TNT Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cusco vs Estudiantes (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=55e52a506f4681c5f5e481d27878c75e949650215ed8dce463c1c91192d13eb8.1778100485.3b264a0a7f912a4d9004d6b2889e61cb.fd2d78cad6df7e9a9fdc6fe3cbb1cde3.8b7f51a7f836cfc539523709c1ede583&signature=4313c2a9a302bedde2e09e9e93637b2836427bd37c9cb3e8d51ced360e2cc647|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=358078014e90d8a08d2013f5feecfc4930f87f10816c1dce509e4367a2d84231.1778104331.191208c7fadce8f861cbb5873149836b.cf88bd58ba8bcac1af7b04742f89ef59.181c6b401d8b4fc787805ad163d3c85a&signature=b598f955ec9d504f70f03347675c185db1b15fb8dcb3a952e28c44653be7ec02|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Bayern München vs PSG (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cusco vs Estudiantes (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=c4254452646ff60d17b37a2caa2dc3a5d207c746b795f7a3870454971773acc7.1778100485.153cea8a488c48464e215621fac1af55.d0e7080562b5afaf72202d14ebd5a6e0.0ef3d65d3416d13a82c79fb45e14ad72&signature=e6f42fc9b317f74457e136d6aff329853816cc46e78300c120427fc4c84dd83d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=b554a091f5e5c46785d7f7729d2735f3b40f503e4ce16f018bfd91a1cc5e32d4.1778104332.9050697a4808bcf61ea884c2659b0253.94634968e7af7f7553afd819e4798994.84ec2fba80a509cf355919fd62a7f6fd&signature=20fe1b084f0ad4c3a58ddbf91d463f62e42e58ce2547ed4d1a5d79210bd0aec7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Bayern München vs PSG (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Hub Premier 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cusco vs Estudiantes (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=928f719690c64e603b6e9fab6818f77480d3361bbda284f3b28f50de6f967e14.1778100486.177c1c4f69fc3b5c69bb641a59cdf374.932bc6a08fa3085cd9191e86d7396195.d24113ae4311faa66051018ee30f81c6&signature=e2b61034fa60a537d9fb9bf9117fcefa64affbbe6d5151888305f01e91ce317c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=c8552179a932128ca86f5d7f0ae890209c8eba15fb80301d2cef66d78465256e.1778104333.fec10341d85ce2b50315512d74d9ff62.fb6eb7155c742613a95eaca727c0ec42.1e31d5efb2f36f54cbd7813891d8501a&signature=76f645fac88a4010676ede15bd76e51daab0c66e306d6e957abdcf828376b0ec|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Bayern München vs PSG (Canal Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Canal Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-2/playlist.m3u8?token=77fcdd8390d6c4f60a93812016741c34ceae020470d409977dc74617f7b47da0.1778100487.1a537e4ec25248fb57a8d37726f85940.d725055b8aaac80dadfe31446917416e.ee1631c696e55f3f137d7df3314b5ae2&signature=756eb99ac199eb743bc792159f18ab75d324de5e9373b85c43efb4eb36e0fa31|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Bayern München vs PSG (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=1c6003c527ed4b15bdd3713df20ba3ed35fe6cd8864847f71cfaa13a576aef85.1778100487.30fa1b014c85a193da4b416c13d0633d.58cf333ac4e246fc759d00563a9042ab.c34716e944cef9f5b2500a6ee9502697&signature=7a4679faa5591d86e8a40d6054ae2ee3bf29c5c63cffe62c611d8ef6522eceba|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Bayern München vs PSG (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (SuperSport Premier League)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=a991716c04ae9aa5d70bedd2433ee2a7a6449e0073a60862d0d1e46c734be03d.1778100488.84eb1895b15e3f523675192cf9483ed4.83e94bd6d95e061c609d258f63fba26b.58fab04fa7c722258dde1018b065df4c&signature=f2df8de0d807545efba47a2f167d7112729dc77851ca9cc3af1571a7f372225b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Bayern München vs PSG (Canal)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Canal)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-canal/playlist.m3u8?token=cfbfac7925775fc6b8ff32ff60440dd5e05c5c70c65054417dd7639dee2c5edb.1778100489.f28f11043cdce794768032b907ec8de3.8aa590d3955f8c111607b34730046402.ee526f61ea4be395195f778e3289c5e4&signature=4a06ca20720b380c173e503d2e69dccfc32ea167514ca4dc6a3edaf7c7cfcca2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Bayern München vs PSG (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Canal Foot)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=8b6e13b47fc85c745fb08968a7f100a7656b9748be6b84ec7c4e044c4658a914.1778100489.3cdabfe5e4dd08632156db984af0ea96.994c23e0ccdaaf16febefe7f1e3de1dd.4f27127033382e65a6bfd81238c151e5&signature=53e6ae44d5664d1bca597d149bd7d341f1c0d691779c096c286cefcbd1db24cf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Bayern München vs PSG (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=54ef6f127ea831c4f00ed5d3c31193f9492e7f28a0e2397278b1f95347835d0b.1778100490.bb7864025dc6827da378739af44c0737.0b8f1cba77fde1570a2ee14dffb91287.155c72a7f2fb71b34dfa7cc03243a522&signature=c9741778b949a99dce528b4ad0dd92f7bddf2e1d1b05552ba88617b9c0469ef4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Bayern München vs PSG (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Italia 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=79192398bd633ba08bca94a304ceea2f33be9f3fe5c348bd1ba140bca74b4cf3.1778100490.270d3a18cd3f81e45cef173dbac793d2.26b994f7ceeb97cc6485432c76013088.711dfc0c9c92448ba533503465b7e25b&signature=73a2cb7173bdd480bfc5c0c210d13570871be116aa33d518394cb7cf5d2d7e01|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Bayern München vs PSG (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=f0645d0d7c8f9c7ef294621f3d852b84b55c9b9f293c61208a1a7805f0a72e61.1778100491.ed31372559ca80abed711554fce1d6da.a45306cb5d564793e676b824de35bd4b.b05bb1e89921a44475eb46f76ac26c6c&signature=b8072270ab7b171185c9d67f26d642cfdfb0fa7d3fa6d916ba0a0cf4ea86a4f9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Bayern München vs PSG (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=85326ed2a4d1ef91e8d86fe7464dc5102d601c1f9bbdf8ec1c8d7a2c8a77a162.1778100492.2249537a0c0624e5f4a8f29cfdfcc79e.6caf39d845fd8d94b62ccebf1a1c9cd6.72e539bf1803ceec1d3a63c7ebbca953&signature=43b1c7c697375fc6356e0e2ced57774fd5dcc71b16d1b822ebc1769c7bb26825|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Bayern München vs PSG (Sport TV 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Sport TV 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-5/playlist.m3u8?token=8a10723f01c67d493c1f37a6bc58dbc14ae6bef8d2765a901f2cfb79e94cf7cf.1778100493.9108acc298718cbc880e252f120ac72d.3db96ec29b5e67b2c272cb7ba8a20ca4.7c13d694f35eafe5f9565504c464f96a&signature=d1992004fe68d448faeb819e1f8ead835a0b6b0f68b70ae93bb9cd56bb9d579d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Bayern München vs PSG (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Ziggo Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=ff03b49beb67ac77b8dfa91be415452bdb05ab134ebd18bcea8159f48930781e.1778100493.aca9e6aa808c73f5fc377f191463b53e.800801fa4073fbd40d6a0e32bd63705f.ce4f4641f1bf0c1b7e403a29ddc57e7a&signature=5c1b87173c69df124567e1df2ca0e4a4c6fa29b9b962a76c4efdd78ade507f5f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Bayern München vs PSG (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Cosmote Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=e31a538d7b0fa610ec4782b818509a29a141d5877bb7b60908e6de45d9d693cf.1778100494.bc2419b6b185ace551df2f85f16b35f5.97dbe8529935cf0ce50acc5e798b9484.84238eb44133687b216408aa6646f1c8&signature=73f3f519550b1e4c2993ac8ee6c4b3fe3bc936ab3386daec07b2383235c7540a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Bayern München vs PSG (TV3 Puls)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TV3 Puls)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv3-puls/playlist.m3u8?token=87f645781d2a3efd4e68cbbce5cdb49f6b4257011e752717c75612a08318c529.1778100495.9a49794c220de48d3672924acccca284.edd86fab45a5aed438eb840d4887b17e.2bcc09de8d2b8a4096f3d60a01e13a73&signature=bfc0a7871e1f4c1503fa5a5a86116d2c7c00e3109fc1751a1e3b5d3b5bc821d1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Bayern München vs PSG (TVP Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TVP Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-tvp-sport/playlist.m3u8?token=6690e0f2992cf42dafcc0fbfcff8bf47aeeb31561f4669a4485fa830845fee4c.1778100495.a5766b659de51b21081a987fbe426695.307b318c5d4f8aa4127f2d6e65d99c4f.4eb9ac3e6c128faf3ac95215981bbadb&signature=8a2ac2b61297befa90f06c5e62c4cb95bbedbe4274d326c455fce48ff1b7d987|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Bayern München vs PSG (bTV Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (bTV Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=btv+action&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=btv+action&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-btv-action/playlist.m3u8?token=e84473d14e7d71f234bed936fdc142b3b6207781c7a7996cd6a43bf8f76116f5.1778100496.997fa4377d1634d187368c09e2b5bf75.3245937970084bca59ad896ac45dc9c8.8f50f8fc1ebd8d3622c2c6ea5b2080e5&signature=9fa990cf28d56165087838981a44a530e48501422bc0e84a6fee331124c0611b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Bayern München vs PSG (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=c8b428e601771a91fa40affbdcfa71799d886a510dd688b7616f76ad76a04647.1778100496.70c0f00a3bf00a85c343536c154e4024.c942de9ead554bfd025dd34ddc057db3.dbc591500223980d57166edd32cb2675&signature=85b41d6fd45d6324a675c9367ad8d4d8f97d38b53257c18c424d675aca5a7cdf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Bayern München vs PSG (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=775b137979533e81966b397a63229ff6fb0de8d6e2d097a8da068583996aeb1d.1778100497.7255ba773a6acd3fb05db0594f5cef78.cd2435a442685e1555f6c36bf9789576.c08c976f9cd15d3b15a797c9efe6ecf4&signature=a2eaf0edf98f6b3abb1ad43dd849b36d7c9847409a72c5125ce26cdcb1162f94|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Bayern München vs PSG (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Arena Sport 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Cusco vs Estudiantes (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=83eb3601149245363e3e40048e6021db3078662f01732020ad16d4cd1fd254b8.1778100498.35d53fa14470806a4953b7a2e5fd2c68.b0c44eef9b9121626b57baee09cbda4f.48d3a8c6cd910c19554b05d73b4aa2d7&signature=88abc712e7eff62061d3be71daf13aa491106ed64eb51381f33f8c05b6b50250|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=6489b011bd6c2b16118228f611876b924f4481ac1a0afe5f330e1a3d3a07f8ef.1778104334.d097ef4a8ead06d02740ade4c53e8554.86b65d3b79548584c16972cf9e29a1d9.41c9da49616bb398c4fa028b6fedec8b&signature=ec1950035e9a09b827e9596af9a6eb7d445dc33570b30123005341d729a99bd4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Bayern München vs PSG (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Nova Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Cusco vs Estudiantes (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=3d7829f1cdec594a70bfa634614e83142924a20f5b2af8a7d5c849bfd027093b.1778100498.89a5a6c198d8e8e7ad088164d1e877f9.feb6957ebd7b24cf2a4ff4afb1f949b6.b8fbac7771da1b9bcf2b90d13a155373&signature=2e9adb4f1af80237730e2159967ca03718fcd5e2f0e91f0501cdcd1654511a1e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=ad82c4ec6c6edd008bcd508aa34251208e9d497dc9d9e84ab9f0d3135c62a57c.1778104335.b627a6262ab8130ebed73ddd7e2fb7eb.a0baa1cf63ceeb50a8676e49aa3a21f5.7c185d689e0c889876dbefefc3433aa8&signature=fe4607ee2f504ddb3053c786c46cf91f04250c44449339fe34b3199191007644|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Bayern München vs PSG (TNT)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TNT)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-tnt/playlist.m3u8?token=a4edb98e408733f6b0feffed3c28014e3cd86dc343ef75125c53430dd7affd1e.1778100499.89627516b6e4c6f351ea7e035f479eb3.29086dce3c0372c347e70a71aa2aea02.57a8afd2c48fe2d407978bea6b1f04d8&signature=a1ca3aadcd77dfb7b78a51136d1867d903a5bb881a54373bc71b9a93ceb37814|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Bayern München vs PSG (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=b224027b2a8d571131c7ae4eabb8d6144f920b3dd9c82b425e439dbb97cef83a.1778100499.ee2bda225d17a391e384ba53f0985388.dd0b4cbfb80b353a293775e09f9f03cd.c88ae293640b2e47be8b341e4395b423&signature=ce4c9100fa2aab6bdf0b596bf3c182bc0e252484afbb578f7fcb99ed7ba1006e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Bayern München vs PSG (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (FOX Sports)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Cusco vs Estudiantes (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=072bd29e94eb3ee5ed32cc43e759a2359cb3f0b83e32610923d78dd8588d4cb8.1778100500.a19132a225641e0ad0e66b54ab61d4cb.f395001f8320cd0406cb04ae984cb6b5.ad37832701e8402b1d2566a5d58b2700&signature=c77f3b6d75d9437c0868261104b2a70a6b533c4a898e46d387fd92e41560376d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=baf8c502ff112a8eb4b42362f0a1bae093ace01603ef57d15c16c90d92a18bdd.1778104336.a08a5f5e4c74d806a85c1479035c785d.5ddc6e09b6f534800c8d58761edc1c97.459bdd35be6c2e857a4a3a7fe5794bb9&signature=9289ec8d011aeafd48044da8477a7047912212275c8163512a1702757adea70d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Bayern München vs PSG (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Cusco vs Estudiantes (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=cabfc95d272e4a9933b38c744c017b7aed672016c95aa2e8ba8d3cb1a2ed90d0.1778100501.1edf7c4b2abf9706b88c0487c107c732.bc75820f70162f94ff0f5fdbbd4f5a04.dff8944332d41985f2c376966fdb825d&signature=ada584b70e5ca44e93a3e6d8d8db1b1c490804c0b14452772e302f91f3f2da7f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=c73e21a3236db7838352952e6af905413434544361b9be19143a906dd1854d4a.1778104337.a331e25fd20a3ff41ad3aa34849a72e7.341cb60d96b1aff8ac215bddd2b11b74.26a93df7f1d84577249183153a8ec53a&signature=ee788e05aa95bb51830bb9f781fc3ebd9e8aeea140472d78b481b8bc102e737e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Bayern München vs PSG (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Cusco vs Estudiantes (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=bff2e1b8c268df1095f2d7c2a14515ff75c8bb70ca17a7ed6e92ff2d0c8ddc2a.1778100501.9bdada30343aac96022cd9557ee6ef97.5525f7e3cc353c64b04522b4f16a3f10.7b5b42dfa5eaec3aefb934dfb03d5e0a&signature=b9e3818227b4bb52a7d401022162fe72bcc8033184ff5f417baa38a489c901bb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=9b34014a2ae726e92885ee663d3de557dc03a2587e3be236e9f278c922341c4d.1778104338.c21a1ee39ed36eeabccc8e5e847bd790.9eeab99a673c207738f559e95fee238a.58497ee6f2fa887e2b818bcf3e774b5a&signature=f8f014e992465ab8810208f405e9ad1ddddd1499430ad80524be0ab66e8480bd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Bayern München vs PSG (TRT 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (TRT 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (ESPN 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-1/playlist.m3u8?token=5164f291e813923a25e36a59e2f1e9330ade402c84b096f3a829d1c953e6803f.1778100502.9f87242fb3703ef15a2de869e4d7ad67.56f90ec0b963532b8e7febe64d5712f3.3d9f937824095ac8c0ee493b7ea9c729&signature=98d0002724fb2691429b7a1cf47a841db469d9f45e06b94eb3230808133189d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=9a841bd2f7d061a3267c461ca162702b762cca97ae01ef59535262dc0394fdf2.1778104339.cb4b4e982df049be2ace05a5eb780751.6ffd1e9849775edecf1a3c7411e91f13.e9f472946a2ccb610605176e2c3bcba8&signature=a7dadc7548ef0f25616253083624e83fa8b4f656d5a8bce49077a77f1ed1dcb2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Bayern München vs PSG (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (FOX Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=1089d78c0e750a0d3a65a33aff09344c457d3042f458aea0cd220f5938d98fd6.1778100502.d03431887d160d77c389cd93323189d8.65c082a3debb4fcc73545e7956f41e57.546c69348ba533429cad9df9f0049220&signature=8f068408fbf3a4728a9a2f5b38b9dee8f46977f74ce34dd81ac3ede77bd4a545|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=aac6296dc33b0e955c2299bba9c8316027fc9e81adf3861c62cacb52e6cfdc2a.1778104340.cdd39f8ddb9a48a413acac3cd3c7d382.d5e2d7b9c335792450a00649abb3f994.ad5a2e3f43e1e5c37b917c4946b12d8a&signature=4a0b027a76f35227a9377f8e1f022e24093ac9b8433bb927b7d1e9847ccc8e3a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Bayern München vs PSG (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Sport 5 Plus)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=f328d4a3342ed99fadfe25fddb354708f877b7e3e1f78273d68f9e0aa6cc83c8.1778100503.5b196c770392c5375f3e1ced749dad18.7efe46126b14f82612395b7588ed26b6.7d30156d59b20966d65b2fc4ab20051d&signature=2a416b36f856965e342e7e1f7a4c4941f33df364d5eb57c8c30f1c9aa063bb8d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=d28b4bef82fc0bf3361f1a3bebc7b870ce46903abc272fa18904f653b207f26c.1778104341.d4b1a48d294fc22ecc40562e421ce19c.73ae694153e0607f990b402ad3ebdabb.223f419343594a5a345ff997d72e495c&signature=2c1237b402b616dbaf87dc34975a7670bec69ff7ca675a90b258a454654f5448|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Bayern München vs PSG (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (Sport 5 Live)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=ededefec61dae6fa8fbc2b1f47e4c44e42f2248c894d4e317c703810e7586647.1778100504.d23555d21288e853da86e7fe0c279e2e.2e2651229728d7b9625f5a81e125c8f4.185bbd69e76f4ad8902ecc9c4cca0a81&signature=81ed5c975eda745b69a5db3d099a3e9657749ce2db4e7b2033338e470d1417f9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=3221ef92ef49f616686ce84afdc78d6168e94e4a64e0484292e225a06c13631f.1778104342.95ffc35cb8e630e870f06b8cd35f109f.ee07906e047d3808ed30596de1ac133f.89675621dceedd4f71bb6794c713cf9a&signature=5bfd85d1a074b63035a2642a862b838202aa424a21efa7a1b28270c8a982c3cd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Bayern München vs PSG (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=349064cf745b9f6bc38732c8fd42dba0e651c309de725fb38862222cd2b5a1a1.1778100504.bec2bd0dc071b7790d5b0deb336a203c.4e89d2404d2a59a4adab3f44861b64fc.4b14ef6cbc9139140b7c69ba982b1f96&signature=d4c3b97766cba2f51ccfcea479257aa61b03b1ed39d18cdb974cd695c400d6ff|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Bayern München vs PSG (SONY TEN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (SONY TEN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-2/playlist.m3u8?token=1346f06b3b1ba09170c795aebdc0db07cf77ac2b5c327d0fdc08e28fcc986c57.1778100505.f1c6a06236900868e3096bcc60da203b.828123720e9420589b6de8b35fa4e2dd.80c26f820409f38220a014b5d10a360e&signature=4a91d9dc63f75ca95a2cb6c0b402fa6b88a2d1b1dae5c1e55da44bbf3f2563a5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Bayern München vs PSG (SONY TEN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs PSG (SONY TEN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-3/playlist.m3u8?token=855bce892222972d8db5b164a062b98f1186feb6e94278a6ab30d7647ad306f0.1778100505.63be28c2506fa73a0e709892f7953ec6.0178426df095548aba347ead216c9c9e.9e253d7411e991a27f687fc2ea063275&signature=3936b36a60db5d49bb26dc2173736f82c8e68e5ddbb3140d2dff51e1db30b8cd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=a9db25bc93c0c27ace3323f72949815a45bbef1528be45ee54badd5fd0020051.1778100506.ec4a135b455d30c06edcee49500aaa61.3152fc0b6a48f0df41b64ad45e67a645.d98f703e8ae03951de949e60c36bfeae&signature=7ec9bef85188f352eed18f083aca1e307f174126f343e2f67450f7fa58a9251f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cc90457574f3935cfc1a1abe2a9c63cc6a39834d84a742eca23c9b6bbee40243.1778104342.2707715426d49752302d605673efeee7.b5c87b0562d95a0c8e5692910f56d0ac.c5b467ce4a77f31519818291d591d17f&signature=f0ce25209810f3f20569639a80954fb133dae0c15dd34b36640eb8b962339c79|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=6e82d243f987a7e47ee569b0ebe6f8dcee2cc9493c2053c719e0f785569e8651.1778100507.ed6d940cf608fe667fc812c5017dd01c.68bc207c8c0997e397ce77660709d02a.54ec06351e28a11b2829d8bb01b94892&signature=86c73e079b6c77a35bf52edbc78648754c99577011545e9bcb019d9866711e09|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=46386c85d3af505e83e072f402a6222206851d3010e6911b404917512e511240.1778104343.87a4ff76fc1977c8faf90749658b9cdb.bf49f8bc2763b07b09d5e43147bba3bc.2d884b7a2fa44ca4b73d969ab706869f&signature=5859274f2f80ee4410faf31172b9282666b4e92a49f3c85c92537480df859949|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2fab4f66eae21444c0aee03f18aa846d53994b188eff4ec98f77dbbf8458b4c2.1778100507.4595302440855caae7b97af13ed23f7e.2262d7a38e3258d4c064081f059b3241.afcfe4d6d511b806dc0d95770d6c091e&signature=544e15e1ceedca6ba3d49f5d02ebb12c1eef6a742fe6900df48fc669198af3e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=ee5da8c21a6dc67ea7f8fda6af53f2e48f66e6aa697be70ace067e05739cda07.1778104344.c37594a2b983cdcca031068a7ad0aa99.66708c7b5ff7446bcb7d73a585f5c452.2c8a1b8133ef7a45adb5091a59d7f618&signature=8836daf4bab65442e5aaa30d7488f4a6f5691f18867734b9548713906af0e5fc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3c3d5e2e5789436edd4da639baca0a8d6d63022090a0e080efe3570c6cfc61b8.1778100508.751f55e276210b39c268af1bb68a9882.2741c18e11650d8372166677c54cda80.c00fd8cc6d0ec93b10359f370bc25792&signature=a088b1cf11628038a299ee78ddf9e086f8617253835387555a26f05eaaf7e8aa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=b32b16bed51a5f95695c8361a9fc68d5e7118ddfad2cf7a294b502be9e166f10.1778104345.db9ce03c818238732e7cb748cdf5a56a.1e73515e9b1517b9320be2804229be38.a7c2da7eaa3403b6d09991ffe4687a18&signature=e8d72d010d3b2852f3fd8b6597255600e8e23213de13ba193a3ab7e6dbe38a4e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=df35877964db1377f0bf826bffb52cd9d58f211c7a0f7ada12b1f00bde47fda6.1778100509.a731c037d65fd1939284ac318050b20e.8a9aa845da5f334073d9bbfc5b706048.c0a3b9761c9c71db50d9ae5f3fdc032c&signature=04c85baddf17021b4bdf52c640cfc2a80200589a890b5e8dd40eb93eb08f2971|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=43652b31f9ec6b6515019bf940486ec5900d25df2c4973a1b209bbcebeb159c3.1778104346.10bb5fa70350f0594410aa8c6dd9e76c.6436085b650a0bcfa1f7ff8774fd99a0.fb382073390b98cfdaee20469eec9276&signature=1ca502e72abe4ef618b2a88e913675668b92ebc36d395bb09fe0ea787dc32079|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a6167669e6b16dce80664f49b3b56a2ddb9e0d736b82ec8f14fd8404f5b556d4.1778100509.94f5e535700c41b39876834d42224177.b1b275efc9668c60de63ee600ef09c3f.c1e3f4ef6f57fbb8ccd8722189bea090&signature=64531854db15238e0281fe21d610f392ee57f5c9f277ce93f9e590b40082a065|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8a2730816938440ea7ac28dc99deb08af08c2890febd3b31f5f7882ab2ec772d.1778104347.ff745b215ff1e96b8e4541015337297f.c4bd8843f1d914b2841ca26fbf3ab000.0a573219669955f88482ab755765ae19&signature=ac710ec4a0399d88b649fe136e7f045f6638b73a7a6701f8e7bc830e8a0d16f0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=5c8394dd73749c05d618a10c760cd04a7144a0ed7a531febc030307a141f6755.1778100510.fa0ed7be1ef434aaa1bea54f0ebdacf7.30e234ef1d4aff6893d8fed7ec04129c.87edec4e07ecaea4fd411158031c3922&signature=f1ca66eda62a88b2ede4cc85ca1eb32d7475fd52f997a36ddc5e9c0160ab1aa0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=df46260c97e5f07d20beed4dc7ce9c0613cb2fd7ea6588c93e10169d30193cfc.1778104348.e52d31f313b7031878235e1397547e33.1f95a151f954be9e8d1bb94cc9925a2c.70c92af6094e0710b07e3e91b00668cd&signature=f857145a96b00405480b9f1792063a73bd7e13515595040ac7594241821b7977|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7f607c904a7318b76b06064e02de8e0cfeea0e2d96196caa676be99cb1d0850b.1778100510.534f1cb11bada8365668f55e995ba963.819ecc3f978ac929a715a818f968c240.1c20a1bbcea5a5befe8399c8228ac9d9&signature=718088585797371afc1f2bc730183fe0cd343c3fadfbc3e508f08e66a799c406|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c1191fcb1fa4d7582fc1e04730ff410a7a196467d9262a0d607ebb58bca38554.1778104349.5139e510350789c35559a5560788aabd.597ae83a81d9d2a6e3eeb8ff3ef58551.1dd67b960a18a2b91e81d75bf17205ae&signature=84d4ac2db233ca15913611a7b132ec9375a0725fb2bd67c419841622745afa96|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=2ef7fb053be94764a9b3ce8363cd49ad67784d07a040d8596fde9734663eefee.1778100511.32d674d3f676b96d3ccc2e98d8651168.a75485d9f63a3f9dcf45b74915060a8a.fe2b9079cf3bc2a8ec6a28b63e7e7df3&signature=b87788a4982dadb824cc1999180e7772e42fccc14782ed38280afa279e9b40c2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=5f1bde97a35cf93b4e5f75bf8b620d9ee41a419c982f78394746b7eea65cfc5f.1778104350.6b1ed94d42b71f177138c3bc5fbdecbe.3232390ebdfee476a3b252643b1797c2.b4c9bc46bdd811a764ffaf931bbef74e&signature=0345750e576b009a0f710728025ac24229086d6289bc9bb9d421727202d022a0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=13aa0ecee92b6ec30622ed93a763d55adeda8b584daec2feb294de12ab4381a5.1778100512.c05b8466b7f929cbde2d27c54d45aa97.3d76f201d9c518a6218897a5ad8d2794.d9b8020972f71b7de37ae36016d20c05&signature=03cdcb6e8f1169b2e0fd1f22273e0078bc46d20893e0506daa0bb284a78b7918|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=a393788a52f8c1aa26269a15861df24297fc943088e64003031f09ec4de2a29d.1778104351.02a713d4d90ce880a3d505a789538330.efc6d2b918ce84e2fe6f3ba5479fbc82.2ca93e0248c66dd0e5937731482a0753&signature=4c93421cd0875f0c23dd46a4c3f886d4e501caf33dd253e81eaf2215943d39c7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1ce67212b56f7a0a442652215c3a7659db347e6c8d3d8f1b3dd4254b48abf40d.1778100512.7d8ee5deb2b3ca56626509932aa6c61c.ea83ad3a3e4959cc56fa51043ef54b05.2f04d2916949ab5852afdb910b33a80d&signature=92b3276ea73fe212325e1a6a2a6c128572a14f02b4485d5c3e2c2344be36b3dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=890bad7d422722fd26b47c92e4c3b64f6897c3eb89683a91ecbd74592ea97707.1778104352.16167f539093c3e18f0344d435e224af.58e48b1dc7c3a5c58e120c827de117bc.b39bb5b75addcf5c4f41f34facb94795&signature=c188098565cb889dfc814e592021e787fa6f343b63593bbc1fcdf1813ea50377|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=bd5aa266ed685a8923f3612ddcb1a0eca9c7e1b85ab8a9032fde9ae95ec544ff.1778100513.1379a82975532ed2f4fc7dcaf389885c.df642e3185b59a882a8ed8ec62dab9e0.ffa74c5399df1bf663d2c4ea10b597c4&signature=9f106364edcb20c9d1a67100ae3d180805bdd99cc3505806cf4d10a5a231c549|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=6822d6b13a1c80ccf8ba9a8c72e271762a1e3875c114b2d86b2c9bd1019a9b54.1778104352.141f5db6f979d554d35c05e62269d0b9.0f33fa530f2cbc8c1d2b2ba4cf8e3f15.c5c8fc7c17dedbdf92a4e800df9ae750&signature=3d7daf05d9b1432d8444858bd4a442dca27d5b31aebac7251ab0e022c9c0ccbf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6432463f8f0fa70cd6bae64e1002b7bded18336cb01b01bb4c70636742e173e7.1778100513.62e68b0db03c58cddc98d5723e466bc7.8753e45e93914320cc596e4ca89a9be1.fdaaf006ee7fb3e9878045aa79395d92&signature=ae5ae3a458a8bea9e4383fb8e3bd280c3d6912b9148cc157d36b7f10c92ad32b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3029feda430d067ff202805c1056a00a5feca88932af03989f6ed7b3b0e78a7e.1778104353.aeb83873ba6fd42d7ebf07ccfb59f18f.9267c9d22e19d63169c103ca6544d5f3.4be76a44b4c591f1348c35b303782b9d&signature=1a51a5ff917fb65a1b5477f99627d0a9d3687aa89283b967023a27fffaadfdce|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a7b6eb82b0bf72def5f175255a935a6158e8a69aac5ae1aa6ca8adec556c37ee.1778100514.c06940e2ff033850443f1b4138ca9ef8.a82012a3a48a6267d6902113692dbc4b.38bd9711d40d5a65622e684952b606d0&signature=f374a13a2bb881bb013b07828ae0d2f159aab35117ee30d96323430c4f00fc4d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8bcf1272d81a478a848454e640daee42adf4d6de3884d3bdf3b0d571ff0c7669.1778104354.ee61f90cba6ca78c13ec21f99932cdf5.06cad64d020dd2e131c59d70a087a368.9973ae3654648310bdaac51a59ddf42d&signature=ea2534ef18eb6972b3cb376260bea1e6271645f3dd6a8c39094291ccb7d0b989|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Cricket.54" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f3b24fb742ce384c1f404b3d2d87753f8dcaa8f91852741c7b93607b9fd2766e.1778100515.7dd340bf7c89b0c98b8160404df7ed5b.9633675d24cfceb99bc1673ec3340658.2081ebeda3d50b75c77fd56450bb1f34&signature=8552d0b0f35606c8718f88a9c2924a29981df49efbe12f7578795ad9fc463862|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7828bd1c39c7f60742a8215f72038b5bec70dfa00f016fdbd8cdf30d785f3737.1778104355.bc1af48ad15ad33287e6af992a90e05f.7cdd5f04ee76cc715c4b34de0282f71a.b8c5191f7749827ed31c7026176b4a41&signature=489f9b0f2d691c0c30f761f394e5220b71b4584d468d446415101e640c3024ba|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=781f2b384968305e606517a6e03e97c937ae1d22e1e9caa40b638ac8011edebe.1778100515.427f352e1ca275812375d5dc96ecafb9.98c57d6c724eeecd2d4aeaddf0a50a09.0147dba141865f35410c0845bca53e40&signature=ec99af347fa135377fe96087e5911b6815b848c2cd94386b32bd0e967c34b4c5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=f7cceace76027cdce7a96696448d2b669aedb00a9b9a01e2993fa6d1e781ea58.1778104356.643c539e7f64d0c320d14adbab0f9f44.d93f1c3eedbb09bd61e0456d6e6cc36c.bbe262680fa18e062832b2a9d68e0d3f&signature=2a5990959877d70a26becb52021d32166d42267eb8e84c802271f0e12e6743e7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=a83360782487d1cb0616b412e0709460291163f2ec27b9bf3272d9274b7c0018.1778100516.38da45cb5311e5df5f708848944ff445.783300bf6ec52b01ef78243c887e9efe.81ae847215813b25a4573c2580e933a4&signature=1918b4705f8ec56b42d292e4621038bdf9a802b4c99267cd44e5857222966671|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=d1920675721dfd928086b01d087a604acbd70c57eace7e721836cf3cd3a78a36.1778104357.2324fe48a02b52d18c96b410a5bb99d6.3ecebce4b98a6475cecfa63a427e698e.02802cf04747156d7f2e81ee96430f42&signature=f4ce292d187c85c09340d92261791633b5d3c16e6e529fecf071727269d864a9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8a454cc1b2319d12ec696e2dabc0e350e6f7eca8fa2c4b6c21ef2120fa465fd6.1778100516.990fc09e92fb0d45acc70c2e461d05d7.b08b859bc18b1b9fc520029ce74be378.d4c9aa6bd910f7cff09dafe79dd176f9&signature=8170ff9585655f21c39784ae8e549544653d9643f7814cd05f8409f5dce0a95a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=bdc35d5962d81c1c46b0c792bdf2c60c8984146a70779f68d3e9a4ffb2c42d87.1778104358.5bc897d2869a12a172fabec638a66106.a0de8b3cf9cddeb0bd72f22177998dc7.25b6e31ce7a00617425ea14133e0e9d3&signature=4d063c1a95725bb0e899f9d47c9bdd6d13ea09514ef67945cfaa9a1ffbcf6f46|x-forwarded-for:77.238.79.111
 
