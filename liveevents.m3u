@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Hapoel Acre vs Hapoel Ra'anana (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7380.png" group-title="Soccer",[Soccer] Hapoel Acre vs Hapoel Ra'anana (Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=8b10820ba06865af1c37d9b44e0a3f731ec14b6609293fe209a5cebc7357cf75.1778242985.e2f8147b01e84d7c68a30a1961a08371.aad8b18c32ee59c09d0b9c56f0645510.a43a404ff027d09c18bc327d228ea4f6&signature=20c115ebcd36fae0864d6df61724b85b773f9c421dfb67883bee1425821ed073|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Hapoel Kfar Shalem vs Bnei Yehuda (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/65204.png" group-title="Soccer",[Soccer] Hapoel Kfar Shalem vs Bnei Yehuda (Sport 5 Live)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=1cc0a6d9d07a9bc6f28a6e236e410aa517b8c0815a9ff5b85fb8e5b1ac29be7d.1778242985.5ad2220a973211ad2878f885a4474c73.693fb4b1b8de2091ba5160935702d8ad.f23d30241befc17c9b9c89c20d009510&signature=46f9d6267873c67d30535d77bc5fdb02e7ae1f5c0a787ee63389044efc907785|x-forwarded-for:77.238.79.111
+
