@@ -1,61 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cruz Azul vs Atlas (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (CBS Sports Network)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Ufa vs Rotor Volgograd (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/74241.png" group-title="Soccer",[Soccer] Ufa vs Rotor Volgograd (Match Premier)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=2155656070452cf910c6b4d2cc1feea7c61d7045d8eb662a54f7d198ee603a7d.1778389727.615f31b7e87f8bd450991742d2a03d90.a49f9bc5226435b828c2cdcb7d5df470.0354d5d6b42d59910114095fcdbfee5d&signature=f2d2cea412270c3edcd94dc48e6f854af0acd75fe2d0afedfb444aae2e9080f1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cruz Azul vs Atlas (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=e1ec8b1bf2d3e61897cba734be5474fa5373a37de30e468ee047cd0570fff60f.1778389728.4366a431b4e999cdb15cac1a00ce9c5c.9ffffdc6ca370bc9c702a22e5c157953.5f751ab94e30c8b032d8c4a8ebffb65a&signature=1e3649ad27247abaea80acffa24c196b0e0ba867216d66f458c3c37238e2efce|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cruz Azul vs Atlas (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (Univision)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=78f44ae2e455f5b0e6b8a0c86083533ed61b1100235d0c43c0e9df416598736c.1778389729.ac8804cd483d640f7783eabe8f4f8873.d8a72679d6a520241fbd46e1cfd4c4d6.921dd662ca37dd1563662b148394cc7a&signature=8f1af601188f5d00acfcccafe47beaeb25ff57d6c8d2bf1b7dce5ed294d499df|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cruz Azul vs Atlas (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=0e8fc786221f4929a11c4b1ae6c43e297c1564853dbe23b2e1d2bdc1bdf62285.1778389729.04bf27c51ed197ad89ce72b0e0488e05.d099539dc09cadb650415a02733a5ba5.f09a418fd0e45b88bf9097474b54e889&signature=5fd8125fcb27d70f5cf8c4d9531248cb57bdd5c92ad23101c4ed4bbbd6bef853|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7ebb3ad64f3106db085ecea12237aeacad14dc613130fad2f1462229ad54f875.1778389730.d091c17e80d615272638dcc5574ad8b1.a9fa5aa50d88e284aa96a6891665bfb3.bd4002078f898b9241d8c89ad8a22fa6&signature=60b8a60b1a48c24b1a1cad766639da8da09a85e02b560039ff8d284187284382|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=a32583a1b0ec5ffa120887486f002131c7863062fbd138b3e62a8c5b1a579cbb.1778389731.2b31c541d93470ef53fb6e6f574d7d1e.86490137d07b616e312156bafa6de006.b615d19a16f01db1a91ee6a99217fa85&signature=5db06bf2c1218eb1fbccb817ea8fbc8c2c0a0496c9526ff3fffcfed5b0e7c548|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=9de7ba2734a6a5fd4e06b3d362ebf413279a49bfe0ff23754d78d761a007e69b.1778389731.1deed8b6285d504b23a253d454c473b1.188cd4cf119a552133081aea0d89e76e.ba99ab56f72b710589ca5be991be0a96&signature=c2f1f81e01735c08879ac14e867810c4cd5736caa274fdab39fbf2bfc52adcd0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=765782001a73fffab453d328b0199cb9d7d5d49288e102883d484a782b15cc5f.1778389732.59fca2c22359e1822efd63d814973b59.2c063225f9bb55fa97b5d2a649d91f1c.ddd85b56a336765586da2a097e467866&signature=800c9227ba6df241b5096ce6840a768cff4f19a05b1f1b1672333b9474990928|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=bc62cfbc671ee36fb1e5b1ceb5c719f25974dc6264b4457e5073f938c94a61a1.1778389732.b506e06ea9da27964f91fe4faebe4414.2b16627b70eb66c59e35215dd4faf63f.a1f286c463832359042f12dc59e6f6df&signature=624353d9b3cf824e63008e45a18e5a5419e1d0fa0387b091a2dae57b277934ae|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=15ddb982c26e0ed80d0423b02ca4efcf8813d0bdcd488adc3d169b36d7735daa.1778389733.c2a6ecc454161c64529c3b8e8c7b35a3.b1c91653a4605de8c6829957646bbe51.4d5ecb57956874a9fa8dbe62fc4692f2&signature=821e86c0b7cbe4b7235f82ba583006584572c39779f9cb8e736e9d4942ea4d3a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=df94fe852cb0b46eeb5eebb662848ae7db1e6239af6f5757c17f49db98d2bb95.1778398548.3f81fb1610809c83e0e966be1da7b943.8a3e576a38c7cee107e9dc84527c9903.e977c564e915170988e8efe2c50c5d8d&signature=5178c048cb39339c73d52127b621300dacda0bf9eb94f7b62ea3a3f7c5722c72|x-forwarded-for:77.238.79.111
 
