@@ -1,31 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3208.png" group-title="Soccer",[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=febb59bfeff5d443b9ced5ed36169c47165c1493caf6d30c4a29d84c0ed0b913.1778462893.a561f839aa1546b0c3037e729ca5bbb8.d933583b722f215204c55b6986776ebc.c050d902e9f48617d0ab7e323a8db751&signature=88c926bc569fb335c92e35bd7d9d1a41befc20195847fa7e5d92c295a183622c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1770602d77df38fd45f2522c6bc3a3b94fff7ec42b4117a08b78a80ab86a0258.1778478131.c450891a5fe6d4f46c736275b7f311a5.a9709238f75e0e7e7c43cb4a9a48bcec.1c36c89af38483ba3fd201d1b942eec6&signature=c3fd21e6916225428253c666474ad77179313b505f527cd20c5883ab65c29e8a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Pumas UNAM vs América (CBS Sports Golazo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (CBS Sports Golazo)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-golazo/playlist.m3u8?token=043f5e4b12601e0bf85e568c5eda20a96846abd1bb2accd706cad6946da7595f.1778462894.0f42d32a4c6560360d5b263fe243a61a.34e9a1fc4436963e3eb5ef22a905a4f1.4e92b11028314e48570df6dd6b3922b1&signature=ce380db158bb96ee48e31fee88498299882372043e4b67cd0d532c31207affd3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=9f2e7a23432f222173166d0180640c35a058975ade41111a19d559d0d037266d.1778478132.0c4b37a6c6366f05c4bd291551aff538.a6d1cad1debcd114b7f5713b6aa2d846.fa7757e4ee333e222042832fbe0a77ce&signature=798c2c983eeda5d327472a346c1abeff793e659ad3400ddc1788f83a380a3fe3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Pumas UNAM vs América (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=fd9a33714f2e0e3fce12bd66f351b4882194f1919cc746ccebf9f7cdd10dee13.1778462895.f3960f487418dd54a762d78965f1011c.0d124591d39ec2c2e99e4305ac0c9cd9.703b5fa25a7082457bd2c088af67e300&signature=98366276b3295fde580bff2f1ed8f3dd551b9c9b26bb94e243b1896ba93a4ce4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=6412a86fdcbf176c525f53e8111b97d34276ab732ad599d48943e016158a40a1.1778478133.a180384460d6571dca8fe2bfc8ba0252.976a8b3a50dbae33ae3dfeb0db9cdf33.ccff2be5fa3d9c613aea53cbf1e265fe&signature=84d2ec3173249565a0c761ddfaae6155a45c916babd1faa03aec24f34f92e5fd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Pumas UNAM vs América (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (Univision)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=c63deb2dfbed1acd5bcc2ee9a4c1ab035a90afdc7d1859d39ffc19b2db456c23.1778462895.25167f0faa96071e0ad4c05f24742d49.ee471145b0df68b2d8eff72fbe342e7b.5d4b094e2f55a8f324a2b53dccf10345&signature=0cf1a0024a6f767ac0afefcf62f5015628066f193f6b61926cf8943c2105ce1b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=a546f7bdc46f277f550b43d0355504f0fc050d51f625b0cd496da0639733c9da.1778478133.b6544f97f25e3a35c1e0c3008405090e.fdcd2bbc5aeca97e1016b13f9c662764.1cbdfd57b12e86dab96ac9491acf2c25&signature=b17edd070c6706af55a8d58991bffa8b8f8b13855a98d0fb46061e13dcda9891|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Pumas UNAM vs América (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=e13711720c99bcfeb43219231dcc8890a4f17b0b1392977ce3eac8f9c9592a43.1778462896.3b468db68d0fd1de4db49bb5470f0ba6.ed599df7a0fad7f1fc09d1edbccfeb57.473be44fc4734161536fa90e2b30b511&signature=663db25f2ecd74025eeba420ede1d6761356b9cc045d6f7f404dd4a7df1d8ca5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=02e58c56f9652824f91999b6c092c2a126b6d7ed4d2571471e3c5e7b27079acf.1778478134.794254f956526f711b301ad486fc9d4d.9bb64355ce5b29775788a32ab79094f1.92add5c13b52885da85ece30dabd3699&signature=753b0c22f5daa04cb8fe304f87e142578336bc4733ef4853d0e9be1bd285ac44|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=a724af9799207810941615ae980914400a30432212a90a5b0579852eb302019b.1778478135.065798ee329cf2e0e17b8d32cb033130.b6d97c6e0d121adbde74fb021eb21005.2626ca695b99dab5d2e06f4fb3edb692&signature=dc875bb1f2fcc46b378f65e14aba81ec585e76cd74679742bf120596b7d9cd21|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=1eeb62c6f5ed453d66a6b515571e7a9bc00bf2b35301bf86d8a7349e42a59b72.1778478136.98112facbf780f26cb1928701cd3bfc8.c41f47d582fc299e102badef06d28217.ed7d12146a590dd797efbce7bb29edcc&signature=853af7e5138148b3c5e0f9996e07ab8508dbf5c1df9a00b1a84bb34e5a1bf86e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D3 : Pakistan vs Bangladesh vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=ac8141b61fcc5b939cbb8c2340c3b4b0dba3b5b5285e697016124311edc5b525.1778478136.dfe1fe92ef5fe285de4e07bac83b1dad.4878ce04fadf1e943f269faf62e9106b.f6ed9b5ec558f4fb0a9525d7fc85ab64&signature=8f3f4b3977c3e4f423a3beec09232da146118e0d4cf8b9181cf19da6c0973b0d|x-forwarded-for:77.238.79.111
 
