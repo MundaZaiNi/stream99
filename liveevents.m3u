@@ -1,79 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Sport Boys vs Universitario (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2312.png" group-title="Soccer",[Soccer] Sport Boys vs Universitario (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=82e15fa9d40ce75f15d08c7673d6ede461569f074a25a94e94dd25d567ab6cea.1778554312.e63de3e1c66a3a32bdfe54e9b70ad9d9.032cedc9be5bd2123c623ff013b153af.3f60eb508bc7578260a9a70a016f1ab1&signature=ea8c409df575ed306bd8695fa7b85d55e2c413e68845f97e9c6e3808aa062942|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e4db81d8608408d9a03c4ae965dd94bd4b2d70a2bfa95c125492051ab98ff928.1778554313.f874158fd708b7b3d85427c2c1b5c578.02bff2e849c2e3d495f837825b8bca9d.b8ef94cf0e93255359fb2bed2fba156d&signature=719345ea235928e69348b42c0001c9744e6a49d8838e782e6e304a6898059f6b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=afc30394d0eb4670c22ecdee3841cc430d96017e8367d27c09ea447c89369f1c.1778565599.585dce0bd49923a7355e321f5d4fcdad.493fcc8f24c585c4c51d4418857fac4b.744519647913db2a4d068701a72a379e&signature=ab8142c40dccfc7093de66d8433efc2436a003d173db06c9edb0a6fc6c9fc055|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=701a06fdea541b054c822e7715d9b062d2954cc6e944b111e218f72e9b075d3c.1778554314.6c7af52da5cd62e7a2c39aca93db7a3d.c3edd9cde22411971b2d4a88adfbdc3e.9355cdcc14f668630714e1ececb836af&signature=93909abea2fc92f0933fb727e1e35b4c8608482fa9264d9e51f351ca7b47559f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c5deea901ad56615431f83e67e37fed5f3e6308ee16901476b1b195f75b719c8.1778565600.b4a304950422da802e4bc936985b0666.76c490fc1be262b1fe8e94b969e8103b.8d0f3000a37b30463d61f3c797d5f8a9&signature=d21cc1c94ff0432a28e6e3321f86ddc4388c0a5c6561281192da3bfcebedc0d3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=91f53ba5f30c2d01e5ed05c1c7e7e6f0ff6d7c7365e327193b1a589af651ceca.1778554314.2d01015f321e7dcbd2904781a9c2a9c9.f021560620ad9c4b63fa7da2cf8512e7.f8a31b85a647a6d1ee7b137422839b37&signature=50212add67961f62090547ef5e82b2371aa0b8dc1c0b625d7fc23439e80b19b2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=a2cc37bb4c6bbc647e43c5aa8bb11727b3b0d5ff2a6827457c3ca0ab1d5632ff.1778565601.36decbc61f15e407a888e84eb0ce8609.7e5acbd0104019a2f7140654955d07bb.e996c1a77541ea22e9d8cf9048f9020b&signature=70f7430bef7feec34bc29e126897c69f1c492af921771255dbe83d9f4786b70b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=9fc3ec85bd51fd58b1bb3c4f9c6da66be024a153b63a921364fc9e1723431a8e.1778554315.91cdd3fab0af592c11a71dc0d4204a3d.e223bf7025c57df77c2f5a7edf455885.32618ec68ebe3881afcc87ead3da6f99&signature=9efb8d142ad0cc1c1658cc2507f3fc0de75f87adc65fb657cc31070f0e1559ed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=bbb4f976d7e590ffb2fb9720b8f01aae484bd9b70127fdac872675d9ff6bd483.1778565602.fee21b846245c2849d7a53aa70890e6a.91722e504216a3ebc892994064d95654.cb1f7cf1559857e15f6e590bccaaf9bc&signature=13962a458258d9fea7d02283b5185f4465ba876adcba5c1583f1caffb330fdef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=9091a819a9989eb39b85007386a53fb12be2f38676678966d7ce6aa595c11572.1778554315.454428b43f6052e82405f8e74bcb2828.477bb824b7a9e39c7728a696311497e3.81f3cb442cfb0a0432f2e9a0c1c1134b&signature=eed55612bf222836f7eebcd5d3f8597a6532ff4367689bca214734c1edfb5bfc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=726d54fa86b0234a24cbb56a49c330784985d24be5ef3b249af19a20d9ec23a2.1778565602.3acf7aa4b75287a13379319647b783bf.56c45c3a4df3f824436d405d99a299c4.80833ca9f0cf43d01bd28af8bb919c94&signature=3c7f769952016e56cc172859eacaaf34a1b08657ac8a707fb4f29b22b6a27ace|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0790b7df63b83c1879675e8a006b75533d241a63d29c8a7df8d1305b7d99e5b1.1778554315.7af1ea2864df68e5c21a58de62c65e9c.0f76c68b5c753ecba7ca02b14d9ac299.57766eb17c56cb7476877ce9bd4eda3a&signature=adbde2cd7d0d62dcb7996333e3e58c1950e0bd3432386c156f529eaa02e4d0e9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1aecd39edef678220cdb86142f140e0f4cc70704596080f7686d866a49adfeed.1778565603.f79e74ead69d7ab180d73287a3fdbe3d.fc79ed034a1beb5199b0374f83d59737.c26461f9ab257fe535bb4f8606db6d04&signature=0fb8b6b37540802a5dd4ecddd90c9b07a74eab1d47fd728bf5266a6dc8f454f7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=29a05dd0c66ab6f5bafd858172e7d664c04107ccfafdd15322e12047647b2c1a.1778554316.52c997a695581777642139fbdd9f7021.525e65aa2ba8e4e170d55343607eb2b1.5aa75e9068ff1da9f2ba3496986443e1&signature=91f318f5eeef2f04af0d351bfa684474c303d2c56e1d04b05cfb63c8d8580182|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=310b4e38bf6645254fa955ce791416e40332c20781f31aacb10e1178065f9889.1778565604.c8e969e361d2e154fe84d703e062ce8c.446105b993cc99fc1dd05252553f9a97.90ebfc53647a52bbd5f6bf8fc7f8965d&signature=7429a362a30cca7fe92d9c20bd64cc9d7038d5bb3b613c1d7ff3f06f54ee20d8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=3e7b17dd758e02be9c92bd470884ffaab32b07b8658f867775f1682622fec81d.1778554316.4d77a161678d494921f4a9007f382404.b465518b025cd9084638111523b88776.34f558686c7a7326e8bfee2cb80f42af&signature=abfe8821e5f9a1f193853f2a049aeb9c614b5bf19c278dfe1173b375d14f34a0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=14525e39bba9e692092de4733c891832ba4761a21af0c7ac96a63c9c2b45a024.1778565604.b0bb2e48e84152d72c40986f575403d2.33f822b39e50eebb3fcf1529c01a36f4.11e9f6323b6c81bcb5c444c7e7c60156&signature=bbff5a5bb3a7f8f507bc72ce9ae40f0d85f5babb67ea1398a77355de88b6178e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=d8f1f24f7f9dc0aa7643060fb721cddc7299687dbc7f6c7833eddcc8cf4ab621.1778554317.7e8cdf4b3c34f3af3785eac0c4805342.24695689dab072918f71800ac3060901.1899161c372595b225689331a7aee373&signature=68298968b49c9fe60991edfc87b294f29867212b9f67d04fe83ee69a545d8a70|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=2d3f8ee62700291be97651752f02b386187b67bd440518c568d82bb3baa20b6f.1778565605.52cdc99197421de7346d508876862a41.96d38fa32c7cbc7010aba5fe70d12e33.9a8891a3377dc099337f02593bf8403c&signature=3c3e1b976822c1edfb1c38e8ca9d475f13222cb46bb9cca8751dd934502eb5fa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=c880ce2366966d31bad61b1e35a06586611ea2b9152820d69e86bbcb7cdc805c.1778554317.196f3ab5b369c24376513db134007211.f0e72527a0a20ea437c09dd0f4e50587.d84c203325be3f9a87e605c908c4e32f&signature=b4e59777e5a88281592b6800b02129952ae9e51b581933414999e99ead58be3c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="WWE.12" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=96359fd5e45d9cf59287dde037bdc2214f9c70d95fa42474e86d7d993225667c.1778554318.4cc5d32fafc9d32d77d3825d311cfd8c.256cf15ffbed320880af91b6cd954714.55c88f55e79fd50930dd10725ad9f77d&signature=108774e85aacf7876dff6793059ff1a50ef116d5dba15ba3720f15adf607151e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="WWE.13" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=c27e7fe7a5e7a24230ab9aff7de5f4e6c8192248359f9c140661cfa789ac9626.1778554318.c97ae4204aac5724a64e061c495f18ef.f5ffbd4ca9924420776483d091129e15.7a9994ce7da36a9970ec74a4529d1914&signature=12f79b679350c450e7a3215382db35a9de0e8a0605e34aaa152525e13c6e7906|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=2ecd706bf2f1b712e2f336a9f527ae76d54533578fd2785779a05b86dc744978.1778565606.afdbc8c5d6557c37a3e579c9012d5393.37e53cf0eec167885097cd3a042e2cef.626b34842f275b1ac40d3c5fa81b049b&signature=0c51874b7a5ec3f64d61158e17b3272bb8e738038c47d358faae05672b84388a|x-forwarded-for:77.238.79.111
 
