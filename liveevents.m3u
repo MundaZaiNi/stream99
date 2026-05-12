@@ -3,101 +3,11 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=fed392bbef12c4e9ef6d06e3e0ce669cb99b7f25cfe9bce7d514e180695e0688.1778625425.f2329c51ce0b2f357276c14f5030b129.f3519461781c99207e0717aeb25809ea.e7bf2c9985714d2717430659a623c8b2&signature=a4857a0b95dfa9fcd8a52649cf248f6ebd381df9c1ddbe2afc1aab9e95cadf87|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=da657c3eda039554aa0b5d26ada69050b8da7ab719d417d6a90f15125a8ea896.1778629201.e696e4c32bc1c2e5ec66f705d69be8d6.6716bab59737429d908a8b02b50f97e1.6f15e44e39e1a1f76f8b6c24a97982a3&signature=9412d94359e32804e75934ebbe17a6e0be831105533cfa9b9057345178663806|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Olancho vs Motagua (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/422195.png" group-title="Soccer",[Soccer] Olancho vs Motagua (Italia 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9e7a628c427678676fdda20420ea35f26a6989ab1402c0e7bbd50f7caf6f6bde.1778625426.f56978d37608873483ac39ddbde4eb24.fd092601a0c9ad8abf94d6ed1eaf3ce7.33f2caf040fd8d72a73bfd407c1ffbb6&signature=72d4f5d1ff19a4d586152bd05737e223fe5945562da168758016f3961d920eeb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=88aab3f980fcab766c4e0d4224768512b1ec73cf41434974e0f57dc1f9d4b2e9.1778625426.caf27c00061986ed1eb425e2b216ea11.4869dfff3b3315eb809aafbd122f066b.5abbe16fc94f2787ecf9c917670dd55f&signature=fd2ce12b7d0f86a561c6077fe6eda8593f69380f3324e6c11f22dd01b463ff96|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f0d792cab5cbf61a5df6a6e44783b057177611eff4860445ddaf33b351683471.1778625427.9aeeebf706c81a2af91a42088540aecf.7b5b1401595d5002a2126745d68442b5.69ef13ae44fb7303e85e8e439fafe5cb&signature=7a6e1d5a7079cd686320b1db18ac2bd18a8f94ded18e93a48e0bc8e28e0be0fd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=12a932f0b30d0e5403730d570564177d758a4668b1175283d94562c566c96ec7.1778625427.104b44417535664f2b4c4166a602e580.93d5f47fbe60ad2f6ef182032b84b749.bed282111aa16d8e6f352ce90ffb9fd4&signature=106a3db71b4087b54b94c583474d85c54bee41a550b1fd9909223fb6a486f337|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=49d30f7197f98c2fa611232335b65919fcc980808991b7937d48c3eb99aaf845.1778625427.e51978a270aceb3fd4dd2e422ea8e97a.84b88928d9ea2307d06ca11873ac47a4.a4b7bef1cf589f49ae146c91b6b0ef5f&signature=f8f54b0512916f7b5277c599836b59383a35122c1333c7bc2c81d63ff1d5ab62|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e77723881b204aa30aae10d42d7bbd6f4dfddb73a2b67f44632fb769331c93f8.1778625428.ded00872a9f09eebb0189a2d23eed441.fbc48f80cebd33ea00a9d9c0e1d1ee9c.d86152b6720cc6e873e954794dceaf91&signature=0047bd045ef7e34e1ac3274b8960f2d62415fb88d54e0a46a8eae50bbda9b4ca|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=9bf04ced7bebd2a1712340e7b0833f9c34c041e8df9d6131ad98f93bd960b4b6.1778625428.d0497102f66b255f2d5435fc94786c9a.80d79ab82bb2398691b12f994a7f9a2b.253b68d60e1dcf468c37a8a0a7da3879&signature=17e5aca746830eac585df3b3f025813c0e701fad3642d86f0c8cf6b0de9e83d5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=150476e893bb9ee0e1e7cc9cf8e38690016bdb33e2daf90b9641cb760e4cebba.1778625429.42960b60ec7121f258353dfd85f7b44c.edaef79adfe16ebf39c39ddb491dc7a2.8301f499e7bebbfdba8d5d03b57c85c1&signature=c4642dbaa867a986de011631f21dbab17f6ea503d8828faf977c38ddc70031de|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=fa04999a63c01235581289e31fbd3ad252a8b218bea5c76f210a83f13e5354dc.1778625429.092cba408258f5a0ea51a6b7ca89b2ce.046896e9491e63a475feca68d3996a69.b8aa199a2fd5f192889b2b0e59162bb5&signature=342c8c552bfbf2ff585f14cdfcf01b91af3b89506adb73da1ccfbbb41cc509f5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=703876acba8d8a1d1eb90a0104ee2a79dff371a0948d5a680913f04d54d50395.1778625430.12bc412c5e0365cf6ecba707e02aab5b.4f1a7a1df024a6d3b5fb50d30cbb540d.9384adec4079409dbbdfcd63d03e41b0&signature=58e9432450c519157f06fe90b96357d3d1c4d9b5a4972223a67fa8cc86bf4356|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f532a2f07a47fbbee107dde444ac40c1802cce5963bbcd373f7830a020154edd.1778625430.1c80744e878f373ced7b8a97c96c1245.256d4f35a5b5bf05f003a62ccb80c224.bed1c0e0dae64986915d5a463901bd99&signature=0da3c4474ff70246857d49027b37703df0e9003d7f4d9496d39c9dfdf20ee679|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=d4ae81f754b30e503489ebacafbc56e6ea1ae5a4a73c313c2f3eabc97594ab99.1778625430.cb368b182d2557c6ea86926be7192d6d.9591e5974753fd5ef465907709ff7e04.b0dfd19c91f7e2bd906c6bd2751bf17c&signature=b11765a3b2a6fd5d521b30f8a048e8258f85c748879626ebc88333021db3bc65|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9da7a0ee917860423ba23e60cdbc31f9d31aa03069a2d607b8ee7293c188d519.1778625431.78fdb9ba36fc31770f0369a3737c51da.f2686493a9c462980c08f0bbe8a93764.560111f006388d21329e369ead531ee4&signature=3a91ea08413e2b3ade0a86c4cdaae036c359c9be7d57d73217c0b7f67998207e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a68da1b584f7adce11b3c120d03d1777a152385b3ccece6e04e81e5c889f9987.1778625431.e0498e41f3e8bc7a691a20c0cbf98b5e.f372a580ee679ed69c0bcda190674819.ca6590d4fb4d8203f302955e40ef118f&signature=bcf3f1ca90309212498f8a24a5f0daa9d990a8eca1fe0049ebd945f24d6d7672|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=624b0ceafd9dfbf4eec92ed395afebd0fef9285f57641d94fc03ba9affbc355d.1778625432.43e123444fcd2e8097843c77c49584a9.2a75f2c51762e3023ef9dd3996fc88dc.7ad676abfa5880dfbb974fb9cd99c3b5&signature=34b24acfc7f54ca64a611881183ad2effd53e4eddbd8b5e62a6c22ae1a54ae79|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=3100ac6c7719f34d29f0e6397e6070fa607e3bb55695c9c919c29cf41e66bc15.1778625432.580417e33e12afd34062d8aa925afacb.036312e699bd1c8d6a36caf097594b76.9068f3ef5d983f88387ff38c9d4d2cd2&signature=ba9e48beaf64de67e21c92f5e1ef8ac1697120bf265e9f4dc16086ff0a125393|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=dba65347936985b62fa56d98e1dd1c52282349c43ae7cd3087300dc3a7b28e6e.1778629202.35561ae22bc231258fd1a395d3f3c55a.6283fbe5381869f60a38e80d10521ae3.367eab9f474fd92adaecb5878c4ac0e2&signature=2e9d8c708abebdaad9dd24e02577dc284c468274a41454ed02723a802d4d1c99|x-forwarded-for:77.238.79.111
 
