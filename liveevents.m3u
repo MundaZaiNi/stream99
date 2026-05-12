@@ -1,109 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Sport Boys vs Universitario (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2312.png" group-title="Soccer",[Soccer] Sport Boys vs Universitario (Sky Sport Bundesliga 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=513f65d243ad2689d87482a07a5aac35afef780f18a292b9fc6380a8926bf11d.1778540320.042ce8cf2fa7b82136f38ef5d80bdd47.1bcf4928cbe5ac7490064cf5dfd65e98.381a4eeef30af923a933b0d63b5f5d3b&signature=c38bb0e9e72a66f4602f82114cb62c6724c9013f39172d266717829ce73974b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=82e15fa9d40ce75f15d08c7673d6ede461569f074a25a94e94dd25d567ab6cea.1778554312.e63de3e1c66a3a32bdfe54e9b70ad9d9.032cedc9be5bd2123c623ff013b153af.3f60eb508bc7578260a9a70a016f1ab1&signature=ea8c409df575ed306bd8695fa7b85d55e2c413e68845f97e9c6e3808aa062942|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c3d0e67f4d120901d45538db2719b8e05979ac4de42004833cf6f8733310f801.1778540322.e03f868663902e2b61a61d27feb2c91e.cb31a9e85e518ead8f554878c07559cc.174f69d1e5d8fcd36ecba17f189bd117&signature=c1d3de0423f2b7d53c2f04b933eb37a4a87687bd047481834587530bd768731d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e4db81d8608408d9a03c4ae965dd94bd4b2d70a2bfa95c125492051ab98ff928.1778554313.f874158fd708b7b3d85427c2c1b5c578.02bff2e849c2e3d495f837825b8bca9d.b8ef94cf0e93255359fb2bed2fba156d&signature=719345ea235928e69348b42c0001c9744e6a49d8838e782e6e304a6898059f6b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5f54f104645dc1eb609eb060a0465b165d38175652bc4e53802c6467e41d6275.1778540323.5d0e306d62d8d7b3938036389a5a79aa.10c97e52c5a70ee733f3e200aca59c1b.4c86e21c7c2be6f8919efeb13b9aaf03&signature=980e3b6f6888f786bdfcf93bfb4fd1b10afc24cefb1096a48c215a9c99ee8e10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=701a06fdea541b054c822e7715d9b062d2954cc6e944b111e218f72e9b075d3c.1778554314.6c7af52da5cd62e7a2c39aca93db7a3d.c3edd9cde22411971b2d4a88adfbdc3e.9355cdcc14f668630714e1ececb836af&signature=93909abea2fc92f0933fb727e1e35b4c8608482fa9264d9e51f351ca7b47559f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=133868facf5069777806e276941165d99cf1c45e40a32b5d2a4424846fded154.1778540324.c3a7d68afe82a36cdb7c56b1457aa3a2.084244e169019f6b7fad26359707a93b.98f73e5023bd902676964880c56d9950&signature=ecf3f1036c56b33fd1fe2fc8c735e9de1d13bdeb2bcebc11b8c5dfdfe2e8592d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=91f53ba5f30c2d01e5ed05c1c7e7e6f0ff6d7c7365e327193b1a589af651ceca.1778554314.2d01015f321e7dcbd2904781a9c2a9c9.f021560620ad9c4b63fa7da2cf8512e7.f8a31b85a647a6d1ee7b137422839b37&signature=50212add67961f62090547ef5e82b2371aa0b8dc1c0b625d7fc23439e80b19b2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=79c14d9af3c78e18b9aa919416434650ca044b3e12c59b954758b90c3c9ca3be.1778540325.a6e69cc0b684009a8001dea13345c6ae.52c5cebc54ab1892ee46a467e65fb9a7.8a150d2aa6fe0cf86707b0d79a5a1f2c&signature=1ece0578462bf7182db13301aef82ba7d88a4bf8b225111b8488514535dcd7bf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=9fc3ec85bd51fd58b1bb3c4f9c6da66be024a153b63a921364fc9e1723431a8e.1778554315.91cdd3fab0af592c11a71dc0d4204a3d.e223bf7025c57df77c2f5a7edf455885.32618ec68ebe3881afcc87ead3da6f99&signature=9efb8d142ad0cc1c1658cc2507f3fc0de75f87adc65fb657cc31070f0e1559ed|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7ec2e080c021a22d6a8061622976a25b13ff025b9c4743bbe8234c0d9e415463.1778540326.132870718322b262e26f04bca7300612.b3c4c74768cacd64afe7befab4a58c15.602c12d2541738bace8a153e2bd3d91e&signature=cd16d61c4ec44f45564a6a06f330eb42a7abece4f1b34ad2bfc1f6359e079f0c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=9091a819a9989eb39b85007386a53fb12be2f38676678966d7ce6aa595c11572.1778554315.454428b43f6052e82405f8e74bcb2828.477bb824b7a9e39c7728a696311497e3.81f3cb442cfb0a0432f2e9a0c1c1134b&signature=eed55612bf222836f7eebcd5d3f8597a6532ff4367689bca214734c1edfb5bfc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Hub Premier 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=b71be0af06b1abc072ade65ff6a9cd6f2fb18071eb7164d62fb33b2b8a72a4a5.1778540326.3ea7fdac60fd07cc2676dbf284a2d31c.6f0f58113365326e6a2c432c1c6eff5f.7db6a7a45134e6f869e617d92e782747&signature=247201abd48104fe76c7a92b9b5e97e4bf06c6c574de6607d1b9676efa704895|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=b5c2111cf97262b0262fa7a79408866348a7434bc7f9b739f97ab6822f605442.1778540327.7e6b5d37853101af6aff2491424ea56d.84bb1a68896732a43c9f52fc6b0c476e.857da75ec1e49f93fd2ccf52f36a2ebd&signature=426448ea7a1777f5a60948a44aa7462111be520685e8436c940a47a2f1ceac5f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=47d1e914669da04a41f6fa18eded211af9199c19b6c6f90d7f53e78bd912a7d9.1778540328.00e13ab0ef12dff7e40dcbde55fde5bd.3e9280b7768bb09140d9876584745c45.edb13ea3de0c03f161d0a4ebec22ffbf&signature=35d068ce6f97fac4c261ad4ef92b8d3684c39e2ecf450908865c04f1fa23076f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2a32dfce5972b44d3957ad0636d1fbbb52b8de106fd423d6a621058de4f7a034.1778540329.a12b90b311d761e3ea2f6bb1b873db03.428ca43daa74873fa8159e31eeb97b43.03283ad59367b4645264ce3e8902571e&signature=7c30082bd964b463926cc5bb866cc117b04a7483afb6f6d6de5c53c06ae09f11|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a75db425ec3d41c5bfc21664b47ec8887daf623f60f6d08b1b703fb240e07077.1778540330.8a01bd6c3220de9fe8bafc857750dcfb.9c19124d06e5d10287e70a017723f46a.0d15f926fe11eb9af445123ff072cd1e&signature=df5c4096450ee7b221988fb627f5a546816941904e972ec190baaab6f438bbbe|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0790b7df63b83c1879675e8a006b75533d241a63d29c8a7df8d1305b7d99e5b1.1778554315.7af1ea2864df68e5c21a58de62c65e9c.0f76c68b5c753ecba7ca02b14d9ac299.57766eb17c56cb7476877ce9bd4eda3a&signature=adbde2cd7d0d62dcb7996333e3e58c1950e0bd3432386c156f529eaa02e4d0e9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5e4638237a1fa63d7a6267bd0f46530f081cfa50078f16cb31b73636f772e5ec.1778540331.45c259fc26218a845e80f23ab48bdba9.e68977a6ff37db22e819cf5b9615ef6d.ae6d7ef0cdaeac412799280ef6ad1c79&signature=8ccb98fc24561b6c6c84a997a9776be480729746437e2fa957141289d19def98|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=29a05dd0c66ab6f5bafd858172e7d664c04107ccfafdd15322e12047647b2c1a.1778554316.52c997a695581777642139fbdd9f7021.525e65aa2ba8e4e170d55343607eb2b1.5aa75e9068ff1da9f2ba3496986443e1&signature=91f318f5eeef2f04af0d351bfa684474c303d2c56e1d04b05cfb63c8d8580182|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=be2b26acbd4a1cbd21a3482e6f71103b104587368a7602eddf2190ebc80dd161.1778540332.0983c8a93860b63c705b6c230a668a76.711d6f70c79becd255244d2bbc0bd344.e6f4bd3210bfd054eb804f330002aa86&signature=ea7d8d17b6adb55d3a03baa03ae0ded8d299459440a1cf9a69458628bacbc7b8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=3e7b17dd758e02be9c92bd470884ffaab32b07b8658f867775f1682622fec81d.1778554316.4d77a161678d494921f4a9007f382404.b465518b025cd9084638111523b88776.34f558686c7a7326e8bfee2cb80f42af&signature=abfe8821e5f9a1f193853f2a049aeb9c614b5bf19c278dfe1173b375d14f34a0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f970d7156db09729c8a6f487d24465eac0c8a44d12cf71bd925ddce612e4f3ac.1778540333.3d0267121bb98d231059b20560e5ed86.0dc48c320655b81bf278277165346aa6.8d33fcbbb09c3861ed143523640a5497&signature=7a375fe8daa4fa40a625ae256e7b31f7b987a5529312cd422e9f32f1271a41f0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=d8f1f24f7f9dc0aa7643060fb721cddc7299687dbc7f6c7833eddcc8cf4ab621.1778554317.7e8cdf4b3c34f3af3785eac0c4805342.24695689dab072918f71800ac3060901.1899161c372595b225689331a7aee373&signature=68298968b49c9fe60991edfc87b294f29867212b9f67d04fe83ee69a545d8a70|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D4 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=32cf41b6e092ec11cbcb5c14259d0b1a4c0f64eb2944b870a82ae7048fd0e5c1.1778540334.17f026ea6183ed86f9dd89a6592cedb2.e1608363598874086d1b5f1a04455d23.bb740079613f67557f99a976530e6097&signature=f8aafd6537cfd1034646b94ad11139ce2aca0e67cec7141566bbc79d3f114e41|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=c880ce2366966d31bad61b1e35a06586611ea2b9152820d69e86bbcb7cdc805c.1778554317.196f3ab5b369c24376513db134007211.f0e72527a0a20ea437c09dd0f4e50587.d84c203325be3f9a87e605c908c4e32f&signature=b4e59777e5a88281592b6800b02129952ae9e51b581933414999e99ead58be3c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Hub Premier 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="WWE.12" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=69f056656a2222195e228d7248b0c568f07034ba96232b6b6ce95c534ab3968e.1778540335.17e8e52ea53fd1724803b538f6929525.e52876d3a1d432f747e46e67d9804740.47754cf230f43555c723b34f2e09236e&signature=6a1135b3822d19dda132af1bf896b463e8139bee6cfe9a996d46524109d90738|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=96359fd5e45d9cf59287dde037bdc2214f9c70d95fa42474e86d7d993225667c.1778554318.4cc5d32fafc9d32d77d3825d311cfd8c.256cf15ffbed320880af91b6cd954714.55c88f55e79fd50930dd10725ad9f77d&signature=108774e85aacf7876dff6793059ff1a50ef116d5dba15ba3720f15adf607151e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="13" tvg-id="WWE.13" tvg-name="[WWE] WWE Monday Night RAW vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Monday Night RAW vs  (SuperSport Action)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=b2976075abbb0371de142a437228be3d4a7f86e1bd14ff1bf338a48aa3ea7eb6.1778540336.e10863cfdeed4e319c7ec75c2f8ce858.672c7f5bf504a22cbd4078c7ad22bd05.1d5d7dc791918584ff8222c73eea5e23&signature=a10e258947415c90a370ff6d2057e403afab2894a4748387a0b3765a22155f0f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Delhi Capitals vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=9042da751d0a93ccee5108a172b10d6d4309ce145fb748703b0f36fb629bf5fc.1778540337.7bde5a2981e6b2afe44eb074605988c8.3de3edbc2cd01c4fadfe262a56bc3e16.045177936dd864fc3b5aa9aeea47e407&signature=d19c265f754ec161e8331a2a5b5836aa9b12c73036187df6e756e51db1a745ba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=c27e7fe7a5e7a24230ab9aff7de5f4e6c8192248359f9c140661cfa789ac9626.1778554318.c97ae4204aac5724a64e061c495f18ef.f5ffbd4ca9924420776483d091129e15.7a9994ce7da36a9970ec74a4529d1914&signature=12f79b679350c450e7a3215382db35a9de0e8a0605e34aaa152525e13c6e7906|x-forwarded-for:77.238.79.111
 
