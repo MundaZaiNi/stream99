@@ -1,355 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Deportivo Pasto vs Deportes Tolima (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6113.png" group-title="Soccer",[Soccer] Deportivo Pasto vs Deportes Tolima (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=ec118e26c50d88479a4339c6a78d42289bc884faf91002be73538d59d736f850.1778707166.41324870a2f52adcf3122765169c0c73.b77224f8f527bcd2d19dcaaf13275140.99036e0f699dbfe5539b49f3581592c9&signature=0069a26c7396ae284c3dc9060f3422d08cb63c3d0604e66005f6b01ee30a6505|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=0f50c4606cd57d11e99ad163b14fdfd79dcfd269ee9963c0a5c4f98e4577a34d.1778712057.eee064653a837a085d1343f88b3a7c95.251be11f0864fe315b6eaeabb8f5d281.9d239d218cf88209f65a9d31fc8c5086&signature=58aea823d4188e3dd562b4950b759dba8043b6681e6345df0327eb3e45ac0198|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=cde0d891ccf5669e143d7a039be7994f32df921bc68e6162a997d93cf0a78dd1.1778707167.ec98c450edb67489277cb7ec8e7a08a9.7bafff3f3a6a71db73be4fe240918ce4.ce13f4b7d7a614180cf1b39e32924202&signature=36d2c6917524adc9d688b4ea7634d0e42f47c79ea49e27e7dfaaaa58f4bf494b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (LaLiga TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (LaLiga TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-laliga-tv/playlist.m3u8?token=9a3fb28d6ba5510d0a2154ba0e45a78fab985fff9074dd739b630b2d27f42a1c.1778707168.0d99815a7dac8cf4e30245182b43ae07.9f27863f9a20ab816f8eafcccad899a9.77ed956b61c17f5239599f688664bfe2&signature=5cf22912ce779204048273dc6321639229be1ef1507283e4be0f309924cd6eef|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=6f5b5ed0d317766e6d675aaf5e1c3537cefb6e1a288198b9ac061337514f755d.1778707168.f3fcede8e2a17cd27f44d2b14bb1f465.1d0fe0022d678c367b412a0ecbf2d5d5.b33247f9b076343b9b633b10edece719&signature=3bca17f47c8c126c8ba8da7d200bfcae696fa631aa47b106d16d7f82efdfd619|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=954b61411d1d2a4eab04d6eacf61c67fcaef0c09b202ae17cae86457a9c5799d.1778707169.3c5b2238a4782c5eebd4ed5b91824bab.578204c5a683c3591abfd489d4260129.81ab12ddab4d2de0312c7da7a40c966b&signature=ec3f2cd8af9235e9ed873c7e28dde41b2c125b93b6787deccd676413e08d5721|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=8168810293b070cafd13798ea6b7eac47aea23d2cb8b80e11783f2bc3805dc59.1778707169.4cb7673b890a86f9033d3951542e21cc.6642ecf5688cc3e3d9723332706bde4c.dd0a36faafbbb29a22da62368874eb50&signature=2df5ecf4b30297840f3a4f1a81c90a58a2ee4b068572673d88cc4a2c3b1b76bb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Stan Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Stan Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+1&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+1&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-1/playlist.m3u8?token=6a6f4ec212fd83583eb868a9d5696d0a01511f125d31c06a36361efbdb6e1e19.1778707170.afc9af7f3bf4491e1df5b96925dd7ddb.92736d5a404ffeef994a706e870b2c43.105bab8effe785e197a30efd1838eaa5&signature=bc7e7315848e35373bd6e1a8d0a619e00a42beecc2732ae2457ff03b8cc1c227|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Canal Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-3/playlist.m3u8?token=0575ab03567ffdb315321ea45108764d26c6a53560eb895d76f788f02a15d27f.1778707171.25c3a4e04c912b562705ce36813e3520.c270be978d45ad21728bff89f41716f2.57483565b90fd4c5a6f156edacf003ed&signature=67342f2322e7b110a753bb5a53a5bc83a834b83399c81523e5408915488f24f4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (SuperSport LaLiga)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=c074d40887cf61072470f15329301ef3afb3391133d9f2ef1dc7e910ec9c953f.1778707172.fc1a69192aebcacbf90f87793c403850.238edb1c9e7434e73d70e8afef5ebb81.ce30d02baa61caeb5732de3ccba8e046&signature=be8ad497450f80080a3968098575107105eefe28dbbaff06d5c6a2249dff56a1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (TSN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (TSN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ca-tsn-3/playlist.m3u8?token=9fb1a1f4b572728b7f58050340c0e2436c8a064dccd050fbad3b0d452fa1a81a.1778707172.6d0cde8793773b33be46454b55f13dbb.ba4f1367e981ae23e5a4f931a15899bd.1f58421e11681a40b2c1170c5fac6eed&signature=5eb42c9809f44f3f8ea83ce3dbfddfd2957489fc13318cee880b77411572a4f0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-2/playlist.m3u8?token=b3e85c2893819988d55605d38e39bc6f9ce7022999bd7f57212f74c6df23b6a8.1778707173.848a0f6284e9405d02bcb3c3f2d253c8.328a814a79abcc9e512006733ee1ac0a.cbf93a9bfc341d38681de377a64b6ce9&signature=e039d6f51f5799eb4acb755aad277dbd07cf1862ae3fc7e407c1207184f0e86d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (M LALIGA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=d03c60147e06b2433a901a31138c7bacccb87077ac3faddf7b3632f08d7a81a1.1778707174.64f0f8b42428603442de67b920b6d421.19313e7348a6bdf5a08e3df31bfef23f.445c79c35c7f10a2e532fcf79af20d58&signature=a97dc5e70c95c870e75a785b47986fa9ae5fa81754d2e5e9d6e0cb80576c8415|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-dazn-1/playlist.m3u8?token=c9e612b6e50c2a73e608002cf47cd22550ee2d0777db10c56aa40f38245618cf.1778707174.de3af5649c09d2173f4561551ce64e4f.7726b729827ad91b6552de095df3ab96.9f8ce6e71cc38e26e2cb52c563fa3c1f&signature=3d3aa966f4ddee2f0a69bf765d8e2f268c99b337ba785c848baa786466a3426e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=4b69fabfea2a57d04fa7b6cff77ed4e7d7da36fb31f61435cea56d5df0430ab5.1778707175.64148d53643002b545828b45783114b8.695675d07c9686f6bd16995dd38c1094.d182dde49236f1b520ffd91127503988&signature=0409d899d8a81f9266143c94febd4761e46fd064eeb56e2e590ed3a13a673b5e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=72b6e13fe139d074ab63a5a82011f5a784811d7308f3180592054a9277931149.1778707175.7ebd42427d147b0cc0288a8af8876fe9.53bd449bd2a7db32c24b3dce5e647f35.49280ef58ca772e3f6ed97b726904e3b&signature=492baa0ee24852f2e0a7762373a1a236584133e8cc7f62ecf940c0139b78966d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Ziggo Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=6acb1cb1702c4e5a2d621d017257cc8ad3eb53e9db94b1e019e61c6c92b7625f.1778707176.99c46ac4e431be978e763a4a23a6e817.04cd3b162b758315482c1c37f26cdb72.e70b9f961844a711f480ca827f2f9d79&signature=b5d69c8a57a6f5b8612ce604ff59893de8e1548348c4475c0d9bd8f880ad9376|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Nova Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=4df067fbf86ce3ca974373c8c93f9bfacff581e57c5289440bc00b1dcd81b708.1778707177.d0f7d6f4be18af47f049adc7bd3bac7e.b6cac43a11bf9e439a41a6ed64be5de9.17a357f4516bdd6a2090f13b7f5ad7c0&signature=248af68cf8ad914b6f130700fe84d57916cc59f9f69b720dd931cbbc657ac903|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (TV2 Sport X)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=42e45732fbf7e90c0341713f185b15368e08b5e9e1dff34fcedd4e15baf47c7e.1778707177.83b3f6e2373fc94c2c5da4a85c318ac8.519cd27e232085a5a4c6d9b336da2277.745383d5d34006abba20eb5d79637489&signature=976347711a04160c1bb06cbbe522d68672da9223847df7a51ac50be0d5f99c89|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Canal Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Canal Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-1/playlist.m3u8?token=b2cf3d43fa6e43c29662e6b554504f197d600925dcb9ed77bb76792a62dae474.1778707178.d184c934187ddf53f50087cf02726794.a61315fdd6be3c6032ed5781e62dcc83.340f811e6d87489cedabc92b9ad8d287&signature=474cf859ca279459ce43dd8289787989ed6aacd0d0a91a1b7e53aa54fd5819b6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Match Football 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=7bba05ab5da441f7620a336d7f8b6c1f8a3771d412496644d8488ddd7da357c4.1778707178.39f44b0c41d5161efaa19f7c25c8dcde.12d6501731b33816e7fe153c46c63317.36847e0e2ed163ad8c07f9bd610611e8&signature=448f43d96a1764a218380f9e029baef58011fd67b2e3746e9cae0b98eac569f5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=d1ad2c665ca48d8ad0371e1950cb944cd81d097be0bfa39b2fd4ad330320d6b7.1778707179.5b4e1d3b13367ff5192ad7b1bed646fa.b890c85d5edb3bd81ddfff669dd4ade5.758f98f669006582c5370bdb4ff47ae6&signature=2fb38d45067b038006627b03169c78245a88c012c3e0b6c48aa4f563e661baa8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Arena Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=5b80accb4b2c6816bfa9bfbfc7a1b4475a10ab47f5a2c8ac3c159c0aa84f3ee8.1778707180.1a8d969a3fc415d26ce34bc1f36bb468.b9536d38e89dd625a69395fb259c80d3.efa847e26f2ead75d2b2d4a1bd5a8b02&signature=7b4c9fc595caaac474734c746fc0e0a2f888c5cab9bacebe5fb865afe688498d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Nova Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=de205038814687dfcdb988ca5a730fb170d27fe4cbe5d9445e5348b285baaa6d.1778707180.0b168cd58b28c89e5bcfd780115ce84d.efa8eafc4137308f07b89aa2215db59c.cf640808b8e64e9cc6cf87410b5fe4f1&signature=ec4e6338d45589c626201731ebdb3f678d318ebfbaa303e86f459c64824d446b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (TV4 Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=bd997e2e512bca67bc603629d607d3bbc44f97f8bbf9dff37ae66bcbcab7e855.1778707181.d0070f96ed8bfa56c1a865aed1085be6.d88f041dab35dff0655ea1e0cf6fcad9.cb1dda13e7bd6b8a9158c14c971fb499&signature=23e06390d9891d6d6f489edacb94a59c7abf43b3106e89fe4e3b01d17c9b0171|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (ESPN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=f8137d57540cb6a3ccd21ded778ae62c7afa3b7e96c196d9b28e8d200485844b.1778707182.96a86c71ad14609ef995bb5ebb8b126d.f00fdceeda5b83ced6c1db59c4b4135c.4364fd9fc938e4383a2b1715976c4a7b&signature=501c20a5239f66925972cdb67d11652b499b672aa68e756c635827d4223d72b9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Digi Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=801f45cb42a689b55b431db2fbda3c870db52dc369c11fc6610d292433ece095.1778707182.f6747962f7e5565c6c19dec3682eebb2.efd6d6d6ae40052709dadb550c2691f5.de0325c9a347032b7d15719af94b561a&signature=00f341027f21c54160864c9044671e4ac7fef1a162f06d564e2ca2954ca37f57|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=2cd778ae7ac91eaf07c2e66d8fd1b27243687e8bcc88cc53daf1f1a9ab3335d5.1778707183.746f04cb0b2b4e01b77fde4dad46e8df.79e1b6153c45a931e1106abcab17c87b.acc85f0e2cfdb407e2bc038aa41541b4&signature=13a9f752d60d7ec9158151f08f14231de5349204066d2e3a1084f93af27e10ad|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2885.png" group-title="Soccer",[Soccer] Deportivo Alavés vs Barcelona (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=08e8b5d308ac91fbf89a59924a5e73a72f570f19a16a466023096984c3608b8c.1778707183.8be908856bf02513bc54e1c7ec4fccf8.81f015c193ecff526e809c8d03ba8cf4.d4d1f7a00c980ab8ecf9b757ec3ac464&signature=2eaf979b5659d3143d3c98197f54112a2b00fd67f8e460019b52bfcffd65e26a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Getafe vs Mallorca (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=790ef4410e56e6990a28db72b6f48805667344298453a35fb061fa36f6139729.1778707184.6efe44677f12a81292bc53c204af9ceb.bddb5108368937614618e3f3441a94e1.336dd0732ef634f2f858d90310958ced&signature=dcbeac708b61bfe14d03ba9750a1e533a8cc36cf4992e15cb91faad369809d69|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Getafe vs Mallorca (LaLiga TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (LaLiga TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-laliga-tv/playlist.m3u8?token=e151d085139142a4e0690ab7a281be203adfaba28e45279a283d04cb61bc5a7c.1778707185.10a0e416c4565bb1bac331d74f5af127.66a853421747b1fa70507fdab17e8972.d9a064647c112718d6fa695145e88c4c&signature=81c936aea08c72f57c7976af0ca6b8e9fb3b19d696b4be4852a8b52b4201d3bb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Getafe vs Mallorca (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Stan Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=c5cdacb6d0420fc5a6e47b57180d37d2613c4fa485e5555980a32f41a02591ff.1778707185.7c1e26c66999b3fea0672f440846894a.fd734ff0b97a12ae1ca2b9798fa554ca.2d5c9ced0641fb71a3fdeac11eeaf323&signature=8ee6e696ae5eba7ba99a73b58f4b3ef808274f1da3e831103e801eb97406e230|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Getafe vs Mallorca (beIN SPORTS MAX 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (beIN SPORTS MAX 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-5/playlist.m3u8?token=195f5323da9dcaa76176e0a95090a95122b66a0cb7f43e5e3a4d879021dfc212.1778707186.9d0b33df7ce0dcc1a0af6e3eef646bc8.099d4ec077bd95ccfe115ead53310a52.9866eb0bdc0a95fc2e8945072cde24d2&signature=3fe6b9b747758b0d3c75dd51ba8a07bcc6110940a3ed4e203d2a01ffa887a7ef|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Getafe vs Mallorca (DAZN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (DAZN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-3/playlist.m3u8?token=087a1c8813cc26586bb569d4ac9806a4b8a3afdba0863495973f4581e09cdccb.1778707186.675432de43b8942740c02d868f70adc6.efb81c914746a84cfbaa05d5ebd5f17a.ea8e8b52d425382c5dead7bc72ac3db0&signature=a06ad125db79979f3a00b763622b93d8b3137681699d15b6b91998252375113d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Getafe vs Mallorca (Ziggo Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Ziggo Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-3/playlist.m3u8?token=c4f2b1164e47876b19eb0da09cbb6c62a20b0cae2d7b1dd79801a94e00e5fc7b.1778707187.8ce4f9563d95c242239e87cc1738f7b3.3f0bb6f19ffb84b9c9accddd60dccd64.aa67c9c4413e0905adb4fdb943b113d4&signature=6f38a8426d67d170493de4aa621d529348b253d43dc1474c0bb460114353831f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Getafe vs Mallorca (Nova Sports 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Nova Sports 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+5&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+5&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-5/playlist.m3u8?token=8a3b47dca2a1b1ef7d4dcd772624435b4317b106dee9522fb7c07960b64646fa.1778707188.7bbc60aab07256076cc1aab593f6e929.d4e8fa579d0954444ecdbb13b2a914e7.4b876617514f206e537a31f0bb43fe92&signature=cfb1cba146571b68409eabadcf6d3d77fd807cb9e07d766c4885a273f0efe97d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Getafe vs Mallorca (Eleven Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Eleven Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-2/playlist.m3u8?token=ad6101421e48bb539df5d896cf6bc669a5d0876f07719d896f98b005a1a86422.1778707188.e16833e5169203ac4416f84c83e687e2.21db37885010912333aac3d81b691ea1.33db188eaf52bc7b64b04d98fc07c437&signature=074886ed8098c59771b9fee39bcce4084774e1efd3765e5114bf2d71a7a7665c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Getafe vs Mallorca (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=909903775468c0c3f2dd6ae7d038e32d1c74bdf31228208b0cbc5d010fd0678f.1778707189.460a521c6ff1563e7ce17a1fbafdd26a.a85d95881b44e514b5a09ce814c82482.b3366cf0e0b89145e14808f0416d9aad&signature=f2533400a0906398c30b43c0107828d848b813dedd89d935c653ad0f5218e2d0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Getafe vs Mallorca (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Arena Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=60dceac27a97459a2c95baee4ef6a915f473075830fbb31207f1f8b805435792.1778707190.1b5d187f1dcf3a699c616319914dffe6.c3b536e886864958c67103b0582e0d82.415d6ae9d9096d99ea259db7aef43968&signature=c71cdad0baca11f4772011de9871e21bc5c6be7be358934bb4c97bbfc0899fa7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Getafe vs Mallorca (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (TV4 Sportkanalen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=e5b87bf4fb71677f411069e9cabbbde6e45466bb02fb4c4c4da7c868118b27e8.1778707190.df1a5ee28bf89654d8f5799b58bb57bc.e4ad95408bf6e84db10c59cfb47f2f00.9ab9a561794b6d62fa6de8422d1a077d&signature=e3f0bc85cdf3a97c00568042df16885138dd11d91a5e562d8e884e179d52acf2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Getafe vs Mallorca (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-3/playlist.m3u8?token=ce3537911cd7200f41c7d3b686582afcd5ad989e60ef9e9addc72e110dcbf75d.1778707191.87889f4110a46e6f97a5f37aa7d86c9d.f39f99a3f9fd7c4290396bb100430d4e.35a8ab6ffb6c89efdef5a14c0e893a18&signature=a1cbbedb88058e125de37767fb92b0b765d25b35b2f1fd3a04d0b5a0911b79e8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Getafe vs Mallorca (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Digi Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=f25eca56018efc64107b9a96626249ad9221c77f2d1da2672af9df87a0d6e93b.1778707191.b5a888773b6c8920562873267dbfa0a7.f980fddeb1c5081be09873bf1d436486.3255f3c3f1419be877c6c68d0441b51c&signature=733c2b638b7b14d97c28c6a5a1b3025036ee45401f5c9150cd28e40cb52b5599|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Getafe vs Mallorca (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (Prima Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=45c0c3f7ffac82b4cae612a6b77f7aa32227de59250f6438f5770b7e1e51723b.1778707192.b6f6f672f18faf737c600fa4eddd3f4a.22e338c190ef170646d7ba8c55324d79.c1d39e6429be4e65293e9a188cf0e9f9&signature=0cb21f6460afc052712b39dea81efd47c7bafcf583d8f1132852e40f129a1f02|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Getafe vs Mallorca (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2859.png" group-title="Soccer",[Soccer] Getafe vs Mallorca (beIN SPORTS 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=e475587e0bc9a79f067f231d004cdd83ae640ae1c67e05d287e40bfd10512748.1778707193.ded0fc04ca11bda85f655375c67dc7d7.562e5f7c26dd9a8042a14b069b9421d5.27eaa0997fef1dadfbe5dd7505517a9d&signature=d39e5f8a9696f43292f005706c846f087d1ec75f53f9f2135d8a0d397132be72|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=e5d389d344b3117211feafe60eb8a93e2c699cc74ea0e12b04c3c147fcd81f7b.1778707193.a70146b4ec5bfaac35975693e0f760fd.c340fcf9d8fbc3c5cef3f865f5b3857b.a716bec1a0de3a3cfbbfcc1c7f905fca&signature=4197d7eab1ba7db2f2abec075f683c9df5a32c6f60aa888eeec20ec3b4321875|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c875d411845d03c41c5afc2760e26e85fb409f76d30a896beb74858697e8c2ac.1778712058.cdc5091d4a2242acc74f838d35cccf3a.8819261fbc74e1e2f9baa0c7c031efcc.0c25d742ba82d8a0abaf2eef1a567e5a&signature=78b078033113ddfc1a6be7cfa7afa35847776854131d80cb0a2bfc20345204f2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=549661a4ba9d860c16a90be24920ad1ac6ddec24d0ccf7ca0c9ed71af4f5c8f6.1778707194.ac5e55a89ed7e1476f28e9359fd3dc68.add017a374b993ef02540e52b8b68f0b.a9092fa62ceb79a1f62697416ed341b6&signature=082a204c1e177a974cb48b05ee6d4b0c19af6341c900b40896e04310730cc555|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=95510b0c82cff7fcbc5f9a72579d7f4cd602c157cf05877c82186200143c5dc7.1778712058.fe9536a2ac2108cea5d67536fe3e56c2.27cdf801619b9910269d76043f4cd6b9.dce7b6dfb347efc9e3bc44045192e8cb&signature=d590991355111d1a152a2533759b541bc534c92dcd29abce7f53b0e3baee4ee5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=ca71d3dee6d4a9d70d61ef17a65f213f50a6ddb251fe5094907f8c368c7a28c8.1778707194.bf3ce31f74cffb82bd1dd59ad78a70b4.7f8163a4b952fe32969b88c508b5d83f.c3aaa7c04d4b31ba1b01f5b5c5574245&signature=ae074ba838baea4666811e000a81e074a0c95cbe19463dee4581134d2084e596|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=dc13a7558d734fd1d659d6e2b15bc3e04e5e028b3c33b1961ea6f38ba93d5720.1778712058.7a22def65e51f4879b8728b71b739a90.19a583a29b9d4a864c0726d7cdb73c89.86ec667be4ef2b869afa34c0b4c3c6f1&signature=e8396515fc8c2e722b69d73c864a4f86bc2cf4fc2b7eaedab368d93d4289e1a6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e5e809315421690afe2cd45ea251a0146e5b7b21dc6889660690c5a0b5844683.1778707195.221aec3a7addb26322f90e39ff490bef.f085885cf7acc30872c08bc6f80aab30.87ba438208ba1ec8db9637016eab2f91&signature=a464a3510546f8c59a44addaa80f5b58ec5253dd7d74130af7ef4f0cc06ee657|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bfa722970a14d9fd9b766246a3efb7569c56bb635d5871c077546c0f10b8ad01.1778712059.4ae7d3b7c0c390b3ab221baa063ab6dc.0050f13a4c11a34e2f14d752c4f4ea9a.184963b85c7606f5fe4464f1dd86a1f4&signature=8d2b82d86bc07d92fdc357f25f76db003557a6dd813708a3bdae806251aa8497|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=967877583e09562a8e7f478bf8e979e34d4d3d19dcb3baa5e86cdc6c2315a406.1778707196.7afa0cf7ed3f5651a5b2bfb8aa66c347.9901a535f717b2d3e46e8575717fe933.f07af0a669f3cac8c5c111567d8904db&signature=f2ba1b0ff2a84a70bf04c2a4ec552a907859b48b9530bc59c126bcad91f0eb80|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=3975e4c8cdcf52adbcfdb6814e22c2b82364421c31f3a9994db4d171dea42ecd.1778712059.56aef64305a5c295d4f785a6459b27ad.125906be46aabbf795aebdddc27d3ef5.39969bdf83aad11b5e49f95fe27e88ab&signature=7692868db2c131e2910567e352067972d3dd0316972e3b266090e75059c080d7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7a8f9377470230c1cc56786f60e0f3703ee886c5562cabcff73e58e5170581aa.1778707196.803e7fa06acc9fbd93528ad126955464.3debec571f4ea6687b6cb5c9e352385d.954d01a945539110fd2789aaeef73035&signature=daf1b2cd5da1dd335d97104c3648192925e3ce607742e1a9002dc9473d281226|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=fb6c229b38911886573f72be89941b5d5624c76eb588c7116211a6d458dfb525.1778712059.7928e203c77abfcff421ca11d36172b7.50661d729b5c687e72597eb0c864733e.3cb7ed48301f34672736662b648d9987&signature=5cb1de30416245be9c68fa59f96585baa038597cedacad5a766ebe8db6fa4323|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=9f1898ef5a6ef56836bba8473eb4334e9c3dbc5241877f96b7d8ccc42733e80f.1778707197.31c3c9f260e15b12fa8614c62f8e316f.580f4fe977b7892f29876f7bc9ebb24b.046b0c143f128fddaa7df580e24bc7c7&signature=29c2cd08b9f75a89a60cda36ba012186baa106599532ca0d5065293e8869d32a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=10249e9810c484adb3db196d02fc3e2d3956a9fd4a83df284f6e0f57272699af.1778712060.96fd74ec588862a0f05a292292f1b00e.b1e37c73caac0ce4c3c984dca230cbdd.e75a867fd2d0b96ab8815a3da1c568fb&signature=3af93de18625be5df349318d838152bf9d0ac8543991bef18a9f52d2cf843ce2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=888695f188f331df983997bc0d7d00d91efaf11ebd50e19fedc7992985041b69.1778707197.08aa200661ebe7413539a174856649e6.ad6058dd6609a3aa399e47d04b44c835.56a363db3e5312c43afdf1b0088f4f61&signature=96c70569fe20c7a799df7a6e51ed529b5792d2f5ac1b72f1a3ba476e827f64df|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=440af7be08fe7f2413760efbcced6d2201881fc8f805047df869184060ca9b69.1778712060.6c1b5e2e3283fac1d5b3dd6b6b852b56.f44793cfb28846ddd1d3559e2b12614e.f47a45db3828a0b267ec615eea08c8e6&signature=a8d582aba3e6eb03fd384a5f1ac0cf6daa345dc354de3105c30abfc8a6f29606|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cd5b4f6e5c4f4c9afd34ce7b359dae8c3a1e4b32c04feb1cc85803e50f8ad407.1778707198.bb26de80fabc74b569c438316c873007.f2fc4da9f8ee62bd97715269c2643eb9.f8c30f3408bf51041d18981a30e258db&signature=fd5e109e5fff4f6837682e10440fc5f4c782c988b237671ca3cd9d2c689c8828|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=acc668fedd70b9bca774accaba3025f19dbf9240dc093b20794a8893594318b8.1778712061.5962b55465d346671edb94276611700d.f3064adca608cc1c6d3d624fa9c3d029.85ef642cff0f43a19784c5e4bacecc69&signature=17e68eda887f01df7eb16c0a5746a40c0cd395db8622a59d9b42b35edff7b67a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=304b7b96539aba9d7ceca65c7f3a26f74cf22eb392539cc253c17b3cbad7984e.1778707199.461d675c49a36e5bf9aa25e4626bc42e.245a3d1c881e8aaddbb4e9e8e73b112b.ee65d51f117e6d0dd68f619af957f758&signature=0979b19fa5f9ebebaa0b6c48a59136fbcac5795d55b489fd772cbbe15930079e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=91d5f0531da948ebf6d5a0a084fac834f5d7611efd1a1b17b02fb3970eb8e78d.1778712061.31922080e058ee59301eaf017adebb91.4c3e1d1c14bfe0bc0995348e302369a1.6ed5a3c11669ab265932446704d43826&signature=af242bfb603f3256cf00f6a2de864e55c4b9fcd85d7a046dc8ff63edbb650caf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Cricket.54" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5ce81408e33b5218989e6567cbe0a77dce541aeb55da7a0e432fc89253fc4457.1778707199.68db5f3c0f229f3931a2f1f8e3284800.ad4f28ec0fb34ab16cdd84b4bc82babe.0f7329db4bb0bc024664f17c1696e814&signature=8be59cbf11937233563acd236683e7fafbacd867bea246659b605236c2e4509e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2b0abc3e1566875ea79c35f70266d4d83658a1fbc8a037df38408740cde6a597.1778712061.f4e22df6657c8f0ed6043f18d27ea34e.61d3355e63cc9acdc581bcfa9f7ad588.0c2243f6b2ffaadafddef7aa26e2dbd4&signature=a65984d0db790e75047c992c6e95adb77eff6aa5f16493ddff2c47bae82ca4c1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=36dcbe1d32f8ee1bc0b5f53a8db60142238a0100bfd3cae492b5dbea58eabc76.1778707200.bacc6935018d5a281f7c8ee6a45cade4.99cce37ab2236c59795c0b015fd727b3.e8304c8151074b28b3caf096687673aa&signature=92509c53cfc5c3bbb28de26a512ebe65653dc0c7eba8c88fdf4499319c505a54|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=4c676f12c7dc2901e978a4d675bd6b73f834e0d8873255d080af7272d84301f1.1778712062.922ee688385b1176ae366513fd0700bf.c87d7891a57bd190ee9379576907be7d.2bb9d1563fda3db393eb9b5ab4196b43&signature=802417b6ea24e52e6337b1763f0811666168c98c37628429be63bf5fdb4d3739|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=0ab46c03ac17b579e950080e5b1dc1fed5c7b8c2db3d928bd3f83830ec638ea7.1778707201.5c1cd2ff8103fea0937f9698130dc415.d2e1c801af882ae33f4b83250f668c34.509b32265bd35a07485636f8de75facc&signature=523bbe975a3fc9117b72418856bda82371f798632a74fff1965802c7f33e5df0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=dc288a3c6ba492c7534b4415e862d5f481c06c22ad6b9910fdb274b6b263fa68.1778712062.45d55440846714d4d3352866d8230598.6ef624cfbd259b8e912a666410f2a354.eb73ddce4db933417815d0814e30ed53&signature=fb6a918a22afccec9673f8e91c6f94cdf2e03f4b5745cb92a05d895072d41f2e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=83ccd59d53dc629006a1609776ebcc276c0e4165552320969b829b7e95b304f8.1778707201.9f936c1243fe0fb0616a60f455265eab.4ade1c57879dd217a2966b5685573bcb.19af830d2c72005b0cbd318cb0abd4ec&signature=7f95b5346b3b049e669c0e72e8086f9affe00376225c3940bfd9c91eba85feea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e339f06e0a8f21b869a9d7970bfd4d431b864dea7cb5f2f89c597950360590f4.1778712062.41fed585d599b3313b5cf3717b4be7ae.b6d1905ea0bac9526c7f0964da514b58.d5b8422f7d592ca8652336ac32f7cc74&signature=e78d801564e96bef859e9e9a4c3f00cf54a531d3c3a3394c2d7a8b23241f1180|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=2be89463e079c22c2355146607180263cd10f7cfbe2f4d90913ad8ea07526045.1778707203.57eb58f49312f62ede535f2f10a55f2c.4a15c9befe38b00b56df70a2bbca65c9.376d9f24161e3bd7a48d68749da1a7ba&signature=685384db8789fbfa12b60b19a2b6ae1323d3da643d746286b9316e3cb6761c0a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=2f630db5a1018cf2c7509189e852c48a4c8abffaf3d0142fe3b2ba8c814eda54.1778712063.844a74396a419042ea1125542597ecd1.bd25f73ffe59eef8639757205b03f5ce.62602d931c6163860bf92067b363f0c7&signature=7797db3f4b973d135cc89c8bee2cf018d19b2eeb8465585af1ea9bfe5ae50588|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Royal Challengers Bangalore vs Kolkata Knight Riders vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0a1427f4b969b1ceabe50e0a97b8f374dfabed2e49e468463d65545e9b4b32de.1778707203.bd2cdbb4dc80b7077b303cf3ba519f88.ef959aa652b206d748094ae8f7ebd02c.0b16fa322c02d72502e149bf2518c491&signature=3d4602830994f03304ff1041a66c261d6691b78225c05987107ac839184d803d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=633c72c40e68bacc1020cf1f2a0bf38c05772ca47396a57522b126c5d41af14a.1778712063.25f4a73a12156fb24ad216d1203c3ec5.bccf3066d804eaeff37473217f69ad38.2396429c712159d2d97fb7d251195437&signature=c15c71e88770d7315e6c0d79efd945af2e8db7950c8ff3a390c961ba7ad12cee|x-forwarded-for:77.238.79.111
 
