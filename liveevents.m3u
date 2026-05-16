@@ -1,127 +1,481 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Arsenal Tula vs Rodina Moskva (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/35301.png" group-title="Soccer",[Soccer] Arsenal Tula vs Rodina Moskva (Match TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=ac2043e64b5c302c2d05c0ee313281614e3737c5759e0f6ed336f12766a78224.1778931300.44173188a80f0badfb29e96f58d18e21.37b77647eafb8bcc721361b4b24d7a7a.ab51d259b1c201fe0d7f3f77b5b87002&signature=05da2bdeb08b7966374e9c338fa7f89a0abdb73fbbb7fc74eeb96ea955cd1a92|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Academico Viseu vs Sporting CP II (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Academico Viseu vs Sporting CP II (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=ea8d493b99f28f7fcf8f98d4f3ac57c41cbce0e27ce0aa711bf6d4cc56da24eb.1778931301.f01778584ea106a90bf3c2ce4ce2a857.efcbf77e9d851456933bdf7fb4937963.6a7c4c3fd595b52d636522264a35ee3a&signature=e7dde290ba533caca0ddf6d2e101df9a9649ba2b08d8e8f09477fe57ce19426e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Torreense vs Vizela (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25787.png" group-title="Soccer",[Soccer] Torreense vs Vizela (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=878a1920a9007c83da32ef085b2515a6c8ab0b297a24940a79f44d44a53d4cff.1778931302.5cacfd4dd214ba9b93873011c2f2a7a8.2eb975cf21b8474fad50207fbe9b4dbb.9b30c85089865019985f9259ebfe4fe6&signature=f908783ae19c3e305d89a7333cf6aaaf140208b82c74efcf0141d38bd50032f9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Celtic vs Hearts (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (CBS Sports Network)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Celtic vs Hearts (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (CBS Sports Network)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=cd173fae0322514a6bef86e1d6b687ee214b00371f2271212886c1b7dae9048f.1778931303.ab722a2f4d06bcb3f46c663dc807fbfa.f03e98b634f5556476beb93728036de1.810444b7a73fe4c037393056bb265c5f&signature=5d87276b7169687b4149998e78fe510024612d9bf21bd24c1a6503e1eca4662c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=debdca748f26fcde2714db4c0e24429dca40b4f51d754ecad16946033ee17201.1778935327.d33e7317ec32e0aef3d82056362bdf26.ddbea42d72aeca1a42c00f56ad746d6a.c69fa462ce564cb944d93d959128954d&signature=73d763d3165aa5c964424905dfaf7e6643a39c4a153ff963de24fc931fe06ace|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Football)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-football/playlist.m3u8?token=51923e59e18981abe148e440fd343485abc0474918df3bf2f9e05752d2d61c7c.1778931303.0f5b1e7eff90d032438c83f26d93a4b6.e87a75d8a3e9e506b37030b617643d64.71d6c4af37ddb11c459bd2e1be86f9a5&signature=0281270e47d0d590914b4b57d843260cfe87b0e96348cd92a0bb7b26f79a8739|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-football/playlist.m3u8?token=799c997cf431541c5caca1f02d541b90eb5f03dce0d29c3025fdc96e0f3451d6.1778935328.ac35f215941929ff97f70b46d908202b.19abc30dd4586b3bc9b53c29cfea8414.b6a85fbec9a14c7f4a57e9bdeb27bf36&signature=c9ca3ba04a87aa80d7e1b7d0803b029071c767db4e3288de18e754609a439451|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4744a9a3c0af30263e3a3491f6ceece374fa0dfaebd3c3ec405c5e43e166feea.1778931304.66d3b48d9693d2fe705f1dbc882e8c13.a9ea7e409bfac68bcded103103414728.a3bb1463f5d014155fd0eabacc38b684&signature=47e0fc6a78b010f00c05a60c07bee8ff9fb1783e1fe93347d39f18148e8eb283|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d75851ea9a0da822bca7e4a04303593a46d6437deb5bb082a66de8c617fd3c60.1778935329.9b5caf01d1e0bedf6c0f1f1b3beaea30.8461322255152d8e68a5b80291589fa3.a24671c40e071396ade2d83b3966a752&signature=bcc28c67f1b01c276e7d1708f36936ccc36b4e4bd8bb697e9b3b4aaee2231137|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Celtic vs Hearts (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (SportDigital Fussball)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Celtic vs Hearts (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (SportDigital Fussball)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=db4586c5c119b423f9d790663dd0e670edb42c88d20c8ed42f06591b77993267.1778931305.02a42472ff700a11a4f1295bd7e34569.415b34dea5bd892bc0130223de700668.d77bced261eead5b54417ffa0992a947&signature=a69ae059e35c6d226a7cee2fb8cfac813915c42f5573b28bcee005e6752bd0b1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=4d675e4c86cb5a527e5bf58532b1e8b645746a79038f70fe68a9cf4ebd6f560d.1778935329.6f0decfe5785e083269d2f33ac80a120.52d600596e7025b3695076a3ff2b977f.9b6a660455d26af87c4bf3565cae51a2&signature=2c15c8514ed3b0eeaa84ccb83bf847f0cce30f9a16980b54b66e230b7537a9a3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Celtic vs Hearts (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Cosmote Sport 3)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Celtic vs Hearts (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Cosmote Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=f6755dec34881a16100b484627693b520a7ddb2da3be0246a8540bb08f53d0c7.1778931305.e1c8abab09bd2997f798fd2c54474a79.4f1581242950b4e04ec3b8b72bd11842.744a897b0db2def4fc413fbbbbb6a01a&signature=378555070ae10478ecb770d54d3b5cb9b49403f60a8a9562def2892bc3625de9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=0dee2d523d1095a3c14953c70e843f11dabf1327cef610deb3b20278beee6b56.1778935330.b58e616d3600895fd874a9acb29e8c39.8a16b2f0ee422ebf860065e7b73e418b.4385bcc635ddf76be0b8e434c442fdde&signature=6c4565a58a326d475de72844cd6beabef395e5ea7344c7d8ecbcd01fd101e0ff|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Celtic vs Hearts (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Polsat Sport 2)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Celtic vs Hearts (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Polsat Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=e1ed6e3e56c90d1e8886820932a30fd8848bb274db19b6564bf59d659674316a.1778931306.a516a1e12cf87fbd2fac6974404efe96.c3152446f44bf8c01d31f2e331d70d18.27c3428b353da33e5442294dc727fb43&signature=74a09383d0b03c51ad546c5aa6e8af150074a21c07495e702f64a38f0a203da1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=3e140bdaea1c08befc7adb93f7aa9c1b74294fbf9880ca5145b8baf69fb8a5c0.1778935330.da560309e4d2c5fb22b451cfac00beb1.5aff382f4c30e9a376181ed50402507c.66945893a0dca1da48a382ef6d288a5f&signature=acc331b55d264e8735190dda382778aa30ba81cf0f482ee3fed4bfdce87c057d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Celtic vs Hearts (Ring)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Ring)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Celtic vs Hearts (Ring)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Ring)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-ring/playlist.m3u8?token=e3151489483e47ebc849d818d7d4ccf05561b622e328b820cca0ea9024bb4997.1778931307.2bfe97e868f8bcfb136ddeda65d27126.34757a71d5168a83d5d81822a0806515.97b824e9f235bbd832d5bf9ecc514c26&signature=c07a683d77fd30f64f5fe1d524392843879ece6d16cb9042c40c04aa7995ecdf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-ring/playlist.m3u8?token=b0a0171ea62ed2b9e41a3e1ad43eb89cf175427b6aab4bd62e146435437e64b4.1778935331.8309175a36f4da4f2df70d0a9f832921.9f15826d789dd0b11126a8742f64c35f.5ba5bb28320cbb75e0b92f175fd06f98&signature=e675116f7b7f26c09ce6b7de4fc7c320dae3081556d8e6741c43466a72ab9100|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Celtic vs Hearts (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Arena 1 Premium)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Celtic vs Hearts (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Arena 1 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=f5ba9f424d8c1d5e8244d74564edbbd4e1e9002225647194e35f3346aa8f0dd2.1778931307.17e02f342bb8666e0b70a9b9c1f98c05.0dff7226a6c399c2a75d4c14f63a6053.5bf993e03da90242c1362cb3da67c547&signature=643733a65ee659c13169f266ddf7638173f5f435fa8f5b128e0e1fc314b0cbf2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=2b7834e7636f76880d147b9bb287e297c27d57d651692485481f6325741b261b.1778935331.9fb71bfdbe11eee079066a51c2bef2d2.882d234755593b3f66e489abcd286b3d.9fcf953b7408b998aeceeac23b489aa4&signature=41f1de78828ce9ba87b020e140036a1d00cde0f9a999f655e3e8b467fe9d366d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Celtic vs Hearts (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Digi Sport 1)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Celtic vs Hearts (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Digi Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=aec66efc7a3f3a658545a3ecc0f4b3610c3e701fcd1ede9be09687b76696030f.1778931308.f794e246b2275ea6c7d3f337971bc4db.36cd7d2993bc97bccd1a38e4bfd37285.9b80e96fd1ede3ac267b622af8145214&signature=40ffcff6c587a90279515f50a361c38e566d8c6b55221e0d89948094891bec3a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=a5adfb098ec8ee7295fddb0104d731c119db7ac51817cc99959c19000dd44869.1778935331.8388378eb347a264c137e1f56365b01a.e6eec98d77a6678371ad44a8d32bee81.04705e30b8ca0ac70a63ff02f0c42dc8&signature=9b8bb7b7606790995722ab4ccdbab0a82c0d82e3299be8524c2d92093009220f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Celtic vs Hearts (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (TRT Spor)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Celtic vs Hearts (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (TRT Spor)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=1a0a8ae5410dd10fdc1fb6c88c480b21effb3efa3580621cc5b74366c9a18c89.1778931308.84bb04d4d6f6f3b4938e46f50cad9492.119e1875e38c654a74160592ab4fe6f7.32ae38378774f5bb750434f2c3de443f&signature=b4d61dd3c775fc0bd87df61e3fe3343d8e7f1f4bc43855c919d16e49b6fd7140|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=ec2aa1bd3cd3b282ae800b450bd3a53c69c092fb9fac9ca303ce857b1645ee34.1778935332.96a9379821a5453c5b70e5fe06884656.43ae7768cb5965966f8be8e33dafba04.ff0a7ed6d94c5ee79d31ea22b7527cbc&signature=15c0fafec4c9b991cdbd98845339be9594c0148e622e29cfac4f086a4f944432|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Celtic vs Hearts (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sport 5)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Celtic vs Hearts (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=2d44cdc04623e195cbb9e940e29398222f1e7509016cacc3bd756b49f33864d6.1778931309.1d219247a87fb4f8f262116070847d38.67b0b30d2ac6d5a74a363eb76cfad53c.522fafe83715bcc40eca8f6538c6e0fb&signature=1da05583dc148ceee281e7d47b9d2556e5dddb574aa69b3fbf663acd27fa3b8b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=d0d197c18f5e6935760d2e70d90b19a87d3a3262fc20903dd19bd708bef4ab0e.1778935332.cb2593cf70fe97453fb62b0d81aca2fd.1fc365d563617fa809aeaa2877e5bfe5.cb0256f02da37a9f92376965aefea3e3&signature=7e1a7c7119d124ea3ffc9fc940e3019b324705781730b6c7bf8d07b01df0fc21|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Real Sociedad II vs Mirandés (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24360.png" group-title="Soccer",[Soccer] Real Sociedad II vs Mirandés (LaLiga TV Hypermotion 1)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Real Sociedad II vs Mirandés (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24360.png" group-title="Soccer",[Soccer] Real Sociedad II vs Mirandés (LaLiga TV Hypermotion 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=bcadd17789008bacc44e4738ee682a9ea7b0071d46e7cc7bb643414e5cbc0398.1778931310.f1081537f041cbf373cd4dc22bdc1c43.6da889e95947432034fb444cbe2020b9.f7a836d8628e4f36e1d78aeca2774fe4&signature=29d36a837f91aa140a0cab6a0c897d2b2311115b149cfbd998208bcd5533c8ac|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=28206b8c597e544b434086e0c5155f550ea30cf5178ae4085454ae5ee03d2cf9.1778935333.4be5c86b809bac5892da89b4baea114d.7dade1d0a3fdf145f43920ad1321170c.db93afaf06f8993c4fe50ca2e8dd7241&signature=fe4fa3f9bbc3751b9af3e266f7be5214e57c6cc6bfc6e5ac260ff391bf2acde6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Motor Lublin vs Cracovia Kraków (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7915.png" group-title="Soccer",[Soccer] Motor Lublin vs Cracovia Kraków (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=deef1c7e598f2897ce2959b7b812a13bbf284b668fde83306ea68e73de762937.1778935333.6c99895e7a6ab90b34c7e70969387037.1e315939bb877a74f4078c548a6c6a4a.2d960c56bf3e6eb5f2b0deeb4f58e73f&signature=5bdb660e0691d9040ea51ae9edc96e0116c869deedff53bbfc35d390cf16c3e8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Motor Lublin vs Cracovia Kraków (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7915.png" group-title="Soccer",[Soccer] Motor Lublin vs Cracovia Kraków (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=084f6aa000fa8b1b2e35528eb32de345811ff74cf0e45fd9c46b23c0c9a2682d.1778935334.7ff94430269344c54bf54878b30cb664.da3473be59464a740434c97a86d7430b.45436f3d20fd74ecbcb7e881b26f5eed&signature=bc7610d783b30b8ab2bf5e6093cec9f1a148d0bcc25119c5f6db1d4df41d123d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Motor Lublin vs Cracovia Kraków (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7915.png" group-title="Soccer",[Soccer] Motor Lublin vs Cracovia Kraków (Canal Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=77e423b906afcc22149f2f612a1fe744829110a4d542e530127b634a6c67229a.1778935334.94a52f087b65e1450b2e95f88a0d3a05.d77c12d67479bdcb29a7cf6f502eb6d6.27157f4e3339b997068444c7499e3c25&signature=21f951b3e81457e5ae5b197d4904f6136a5da224552cab28fdd85f970c3e0ec7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Motor Lublin vs Cracovia Kraków (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7915.png" group-title="Soccer",[Soccer] Motor Lublin vs Cracovia Kraków (Arena Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=e107a22fd097a892219235b01a4b0adb3e542729f3e43100a8b3b6d5a27a25a5.1778935335.57cdbb69e313ad3776f17a72aefbcb15.5c474fb2818a2f38955636b2c0e4ca9d.bad7090287eeec7b6d17a8bd7d0c5822&signature=c8be8aa6109fa4a95e44be10af15134004f76a77d93bc13374fce31734d35946|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] CSKA 1948 vs Ludogorets (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/252080.png" group-title="Soccer",[Soccer] CSKA 1948 vs Ludogorets (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=bd88090981fd269be4ed7fc8ee0c2d02cec0a87cb513d825e998429a235f6e23.1778935335.7e0918739db3a2fff0a38701eda5b63f.92828963857e4ed226c1ee5267e42197.782f18a4aaebc6ec1c238f194dd10225&signature=8085ed523f67f00039f85d02c99400aff47a03b50f7b4b7ce0cfadfda0f8e63d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Le vs ki Sofia vs CSKA Sofia (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Le vs ki Sofia vs CSKA Sofia (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=988df799bcdd560955cf28cb0e8bda0dbfd8a2e73d0643a717de62a481f1151d.1778935335.4c31699e0d4c67d7f1a7206d537151b4.23fad0774f50abaa3f0a8db85bcae33b.b9c4a767f078fbdf0e0347cb683ca672&signature=bd9bdd4293ffc5287882670cba56ed17ed179f25df827bdf5f7f3bfd4e38867a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] AmaZulu vs Kaizer Chiefs (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] AmaZulu vs Kaizer Chiefs (SuperSport Football)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=f23b0a4565382d5fc1a1ae4194129a6f4ed18bd08799af03ab8a2b12a17c16af.1778935336.4524402f4492a6e3f889d371094c004d.288504017ab780efd292e55e5d39fc6e.d2e9cf037c232c602c96651d4a6f8c20&signature=07c308c3de6d8124c9e415462c06ab7934018b978384fd50aab09ccb4c189d87|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Polokwane City vs Marumo Gallants (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25002.png" group-title="Soccer",[Soccer] Polokwane City vs Marumo Gallants (SuperSport LaLiga)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=a949351fa26bcae63006d20d2de2f7dc83471088a72b241eea60f940eed7a921.1778935336.4244888bd7f2c53f05f79d6c5bee8e0a.f5b9c71a4d027cc0fd068629270e8d35.5195bbf9e9a19a17cb6b5641ffc44b95&signature=e2ccefcde71063f1d17a166cc946ae303cec9ef9a35519e11301393dd874e669|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Orlando Pirates vs Durban City (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7668.png" group-title="Soccer",[Soccer] Orlando Pirates vs Durban City (SuperSport PSL)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=2a5371f851744b226b5c7e285c09166ba27565604181d8d89dbe36542c83ac9e.1778935337.14bcd86f3caefaf640fd2d72983d38ec.ed35df803fbf87df27282069622c3e4a.49e0774ba636d77f28269df5ec6bdb16&signature=7d77c276100ba1008300a893511fe52c8afab14ba14dfd89c6cdba7fae151be3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Heidenheim vs Mainz 05 (Stan Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (Stan Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+3&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+3&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-3/playlist.m3u8?token=3248a48588790e9aded0bab41d55df53e66c747e75aed47d3e2def4720da6a2e.1778935337.7526bd5b18a302ba381a6337ca620d37.b9cec267365925d112e2a91c3f1595b4.69f9f7a1bc20a40b430de8e402a0989a&signature=2641e9da8f8ad9f7d96362389337fbde09f75c816c9d261070c8981186037a45|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Heidenheim vs Mainz 05 (beIN SPORTS MAX 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (beIN SPORTS MAX 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-5/playlist.m3u8?token=905e53532484cb4c2f8d079d0c3c6e926805cc4396bb78030d3ddfe90ee624dd.1778935338.404e167a79b91aba5daa8a5cf6387de8.31cb1670f5e6f675567e13c47884b99d.b514289b18defda434abc5ee67d13b92&signature=c06132f6abab033f2cd79065609dbdc2e11573e3c7b04cdd5629a2833f763e56|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Heidenheim vs Mainz 05 (Sky Sport Bundesliga 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (Sky Sport Bundesliga 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+3&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+3&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-3/playlist.m3u8?token=9ae2b95cf3b60899b9fbc699f61a3c60b44ed20b963d9a94d83ca299802d4370.1778935338.e788a2ee56285f5ece13743431909105.492a42e1bb9932398ad9130a2d947b00.83acfb1398f0add5c1bf2d171ec85d29&signature=cd5aa52c5441be6fcdab617722cfd0fddd567ddfe73cc6863b413c895997cc16|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Heidenheim vs Mainz 05 (Nova Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (Nova Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-2/playlist.m3u8?token=0e9e166c9a63a61cd7047a7f68dd80f74dc61405c58d48c85d6d4f687a43a870.1778935338.54496b296aaaebe0f955a4f91a9e93bc.bd845e6691e44d94ec4c8ba1776c02b5.3930110596c29c922034e0d92b7d7efd&signature=44e53fab509dfbc9c3398e808639f462f0af0cec72c4eb3b059f061b92e030db|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Heidenheim vs Mainz 05 (Arena Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (Arena Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=b041f026c5fa5ed44af9ac27ec832f898482c451d5f63ebb2945bcae66acaf9a.1778935339.62631b45c5c2352a1a381fb119f53b13.99df2d39f83443ab5ebfb00a87338cfa.be037a9052256cf6c7fa91599594c651&signature=c7aa3c775123c3a3f07c863c15b5ae7689da853a9d855652bdca5b21649a6790|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Heidenheim vs Mainz 05 (Arena Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5885.png" group-title="Soccer",[Soccer] Heidenheim vs Mainz 05 (Arena Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-8/playlist.m3u8?token=3bb71a37f727f6ac0023492e2e4a11a8e163e17d5f04b439bd1163ed28cb95a0.1778935339.c853091212b5e4fb49571a3c6d787262.f975b71038f35997661a60fdac20bfc0.93e75f76aba38ac3cd5abad241a9a19e&signature=5f580a7229c8db78870000984da4c0b50a2fdab5c356602ad80c827f149658f1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Union Berlin vs Augsburg (Stan Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2547.png" group-title="Soccer",[Soccer] Union Berlin vs Augsburg (Stan Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+4&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+4&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-4/playlist.m3u8?token=11b6f6a45fb0d55a17e32bd952336ac5091c6e47fbd0320203fdbee57ffd7dbe.1778935340.71ade4fb5ca869cf84bcbd00a812c7ca.91100eec1c70b99fe8ae6fabba955fd2.6b84b50c767a46f83399386f5da6c397&signature=72bb53b04552f386b90b442b29a204ed9126a43d79910a2d1e1575d5305e853e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Borussia M'gladbach vs Hoffenheim (Stan Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2527.png" group-title="Soccer",[Soccer] Borussia M'gladbach vs Hoffenheim (Stan Sport 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+7&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+7&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-7/playlist.m3u8?token=089a89f7b6afddd3fa7501f281ee5f535f5383e5afdde782bca488b577738a53.1778935340.bf7dcde8dc9dc50c13989b323ad562d0.d8b6eca7dfc492f5540b7f37339c46af.6165896a9b2186e267f88054c2cdc83f&signature=42a6aae70debc375e0364b37ab3fb546d90dbfcec65dec104460d6c56b9c5c8e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Borussia M'gladbach vs Hoffenheim (beIN SPORTS MAX 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2527.png" group-title="Soccer",[Soccer] Borussia M'gladbach vs Hoffenheim (beIN SPORTS MAX 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+8&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+8&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-8/playlist.m3u8?token=79c9a68a37472421f69240fa6c6d548f549e65e2836348cf5692698a6d4e5b03.1778935341.738b7e3937c675c9e71a02fa7cb1412b.c9ef32edf8e23e2be84104491566e657.8c018aa8043f60c7b84bf8ae9d55de51&signature=fe099b5f3019f434e56147076818a854b9ce93cd744252637b8daa9a7c69eb5d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Borussia M'gladbach vs Hoffenheim (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2527.png" group-title="Soccer",[Soccer] Borussia M'gladbach vs Hoffenheim (Arena Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=dbec82e53e521878414e45bce8bfa527c93575103a551793b74e618a19513bcf.1778935341.5734a6457136fa0a3503e39cf82710a9.e0b36853eb6863254fce9f4b1f0b6728.3b26bda9cbd9224e453a08856ac03514&signature=8e69bc6b2f740cd5cae9bb1ef680af52caeda73aa3de7e46fbf00d521f4969b2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Freiburg vs RB Leipzig (Stan Sport 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2538.png" group-title="Soccer",[Soccer] Freiburg vs RB Leipzig (Stan Sport 9)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+9&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+9&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-9/playlist.m3u8?token=9df8ed8c197c1030910414688ea0758b652dcb0650a74559bd1704b2fba913f0.1778935341.7d905a0d0ef3ca02986f25a0685c925d.415ccc624750952a23767d402070bcad.ea64392e3d70eb02bc9d6a4fccd83d76&signature=34f90d36c0120851ac15e6000459f70274222df0bd1aa07c3a36d545b8d5d3e7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Freiburg vs RB Leipzig (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2538.png" group-title="Soccer",[Soccer] Freiburg vs RB Leipzig (DAZN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=292417510aed96786d06ecb6158652360bb7797b76409e6e17ea1f85f763482e.1778935342.5fe62f516e31631fbf83cd283327c2f7.16a0a61d17a393aa51c5a9efb5d38acc.04b0dc5cb800ca6efe10ba6828c87362&signature=3e4f5940e0a26c6d504648eb73060ab9f4e4a291fef1d6e5065b1346f016acc5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Freiburg vs RB Leipzig (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2538.png" group-title="Soccer",[Soccer] Freiburg vs RB Leipzig (Nova Sports Start)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=0d8e2d52c618a3c1faaf2ee892e5c56b2a129234836b9a3db87a5b42a0722c30.1778935342.de86caf146f6e0cca89031e0136daca4.c4c649ed3c4c7910f483b9c720354a8e.b312b9dbab2064e35bf70ee358e1c802&signature=3c6ab8fd6946841328076bb1cc367bd8751adbb32d4e121106560ab76fd2cfdb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (Stan Sport 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (Stan Sport 11)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+11&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+11&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-11/playlist.m3u8?token=56e86939474a1918eb6601e719c70f73e913e7de577bd8f9be08f4b9fee81220.1778935343.3c2947af4924aeb0a30993029a47f9e7.c7baedeb1ceb72354b65ce38dcdb6c11.deb94ef1a1e22ded2c6693ad06cbf1bf&signature=a355028a2b2b6d267945895964ef5ddd9a74cc0038f9829491b9f5ba5efb3571|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (Sky Sport Bundesliga 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (Sky Sport Bundesliga 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-4/playlist.m3u8?token=9807c9e20f69e4271adf3086964acc6efe1b79fd72dda7d5bab968599ef85c79.1778935343.433fed1cc084936f807de6a68999067c.3fa2e8d1929b91f3bacd503442d4149f.b63dcd302c7521999e83b2fb526d8d63&signature=0d5e84d9e2ba45a40e4c4f9459e50567bea83f543422414b88affd5a42c32a2d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (DAZN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (DAZN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-3/playlist.m3u8?token=c8fad9eefd12e0c30a133d22c3eb6c12bd3ce99471a32acedaa80a277c33ec52.1778935344.9dc5cd8ec6b12941dd4fdf49d7317e6b.d8ae69aa15e29aba2f382e7c86c12b60.5d83826c1fef16434f7904af7a131415&signature=48695afff57a182f28d02caa8ce7b36524c1dfbbd2df9feeb8f88926e023d1f7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (Nova Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (Nova Sports 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+4&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+4&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-4/playlist.m3u8?token=aa10839cb43b1c85f370666d406ddecc83ed5dca08fd81cac9ea19b118dec1d2.1778935344.4b4f254eceb7c0ed9d83dce61d7e9e9b.0ec2eb540e24f9611da92086ea07127e.91b4e5eb67a47cfc456847dc6d6ceb3c&signature=a1e3c55e8cdc93459534d51f211021faed0f07e66407c435d83e75aa7789e0b6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=ec3194b330f51e488f0a7f74cde79fdf165be72efe4d1ee796708adcbaddaeb7.1778935345.f2a383c7585e635834f48f3ec3b77f50.47f8b5756f9e4bea246a5cc60e395724.570731edbade8ad93e63a31dd0415cbc&signature=a328e96b801cab9a8ac7ab9b2bd2f96c48f33f3e8d6319d01c1a745e2746afc9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Werder Bremen vs Borussia Dortmund (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2534.png" group-title="Soccer",[Soccer] Werder Bremen vs Borussia Dortmund (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=0383401ac67eef14340e7f8d15de9997590e32a55d190da196d2c7acda929171.1778935346.b9bdad922646c5516d8d6a5b6c88ce1d.9830d1ec6696334fd2766fc7664c3cdc.09a5558dd6e0f3d8e23cb43545123a51&signature=c086d17fb09f1fb303060f4e8c460773de45313aa8c317e1f360edbadd5f81b8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Bayern München vs Köln (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=5fbe6314786012f158cecaecf9cffe1d7e31e2dfe581746141c4e715e2c808a0.1778935347.c8e983e705356366c54c10ad164ff5b2.f056b1b03a4ec501ade7a43e74597b7f.9c5c48c61f5aab91c0e8c7dd5a660ed0&signature=655ba7fa31dca2459896ec71f32f56eb367b22c11ccaf5c92d8e744951f43cbe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Bayern München vs Köln (Stan Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Stan Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+6&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+6&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-6/playlist.m3u8?token=89bdca1678ca04adf1e2d5a16b92f4cae0314d4687d3841295dae008407fba0c.1778935348.de533cf76054ddfeb6f2e79f45187d10.fe53b95a68c899cb02a91c1dfc45f9e3.cf1c3bf1c01ccfa1536825efb7d0cb4b&signature=a190a4a5f923bf6483d9eb66985dfbc96348e90f66ade57ecabb1fb8aa6b30f9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Bayern München vs Köln (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-2/playlist.m3u8?token=7a8ebb42829e44a3bb1466651622cdd4483d04ef7c2ea25b8458c331e54f1cac.1778935349.648b998f90b380f6afdf09ce71923a4e.aefc8c3268ad5bb4028a9137cf5bf955.c02f9906492d1c441738ff9790194e32&signature=451b4cd57bff196e87a9ae8626d4d46224c2db5769b2148ef97cfdaf3ecb78a4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Bayern München vs Köln (Sky Sport Bundesliga 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Sky Sport Bundesliga 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-1/playlist.m3u8?token=680944a40a1e2cf85c0a0a7dd741dec68b8216dd85c65fd2cfb155379fbaffb3.1778935349.c991503a6bfcf22b04f640745a3261cd.ff69be7a202b2710a838753c06a706af.ec1e9acb1473b5bbf93dd6421d1a9344&signature=7a8477f35d09769788e040130ad50c004e73180e4fa3706fcf7ba118e9dfdaa2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Bayern München vs Köln (Nova Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Nova Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-3/playlist.m3u8?token=43864f55571e0911e9b326c34b71619597d7d8683a4cc964ebc22f0b7b218c45.1778935350.b770caa512312ccce42278262f9fb485.2b140e46e57d806f9550bb20549410d8.cc4d67050873d0ebb5632b243d9dea3d&signature=b50bfb85dc64c88ab2e1de2991490c1ac566d4f152387923c932a29509c4ca65|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Bayern München vs Köln (Eleven Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Eleven Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-2/playlist.m3u8?token=ce96a60a2ad82ac07b5c6a259e0e2795633111f7b04584126ef313cd50d3a408.1778935350.cc297413933ed34797bfe9562f1cf658.c5b6a455bd7d7f70319d50cadee2974a.e9098ca81c90ff0fbc7e0a56b5d04a75&signature=3aefbce0d6d3ea59278e0266d960cf3d1d3e4379571adbf918512cb4a5bc9e2a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] Bayern München vs Köln (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=8983cff3882953919c1a402d815d1f1c7abc0c5c2456d270f8232d04b4d93975.1778935350.53f64aae659ebc0bf00c33dac3c7ff44.e909f6808ea3880b6018994fbba4ba97.aed7e5ff0a388485d6677c2fc52526c2&signature=964704f78629b2e92504c01a6b5bb9137818143741dedf3681b7e376155f24d2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] Bayern München vs Köln (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Nova Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=ce4d839913ca981e85c0e874282fe8ba1fc75980f7aae2182a93b10482ba932c.1778935351.038b679b8d9b394dfa76f0796016be60.f6262232fc54d3888ab215dec015cffc.77b277e079626bd46c9093a8e4ccf1b7&signature=e93ebad71442a14f16a9309a0b8e97af392a3f541f96f77292d98dd2e90ef28b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] Bayern München vs Köln (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=77948c11ef25def4233e5ade93c0f5ad65fde680fd6b76cfed4435e56ad39347.1778935351.47d9c615962bef78f7882a429a4909eb.60784a3677aa9b72cc25503d3fe997bc.7a7eb3b7bdfca5c470925267d4f00ba0&signature=fae1d59fe62e1b9ab4915a9c92b65f953ffa5c6aaa02245a17393cf88da7641d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] Bayern München vs Köln (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=b69365f5ea7f43134313106db9c3d1be70d603562f8095eaba3e44991fbd9f2e.1778935352.1c8a1a5333e1dd352fed0d2ebe62d11a.a74780c835ecccd984df02f8c0d9e354.34dbc96496c04aefe0fd727ccf97dab3&signature=bb2c782d04fd2efca3790f617e9962b2330f80766e6cded590fa32e19be8b8f1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] Bayern München vs Köln (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Digi Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=f2ba987828bea7888329473c9310e20f103a7b9b5f1dabcaabc8bbac707219e3.1778935352.ea4e039c397bfe95262693d87204c560.13ee9952e6fc59ed55998d5ed1f3439b.723c0faed7e2186308409865d8b96f65&signature=f3ab2dffe3bafe0dea4c3b9c029e77377b59f5d9a45be8157f64ad0525c3c79c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] Bayern München vs Köln (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2672.png" group-title="Soccer",[Soccer] Bayern München vs Köln (Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=d2b9422007298605d10c1fb7cbc728fcd3672ce100abf88b9aff8ee515a2f73c.1778935353.2903f33d67f400133c3b89219d7d9fe0.bda0ea43b5ba040ccdd850be20702139.f7eccca0ddcb5935791bc88d5810e2e1&signature=1966e02fdb6f03ff79a2f10db04995b6bcc23dcc03ccac164332fc4ca947ea61|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Stan Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Stan Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+8&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+8&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-8/playlist.m3u8?token=acda2b591d4a4459b2048e9e40ab9de27c58135a8b0ec1cebfc798cf2dcc1550.1778935353.3a2e38e6fa5240eb5f49b3c45e4fa061.517fea2341a17a3e2823e7b98e3bbba5.45b281693984564db3daf088ac4cc076&signature=307f447581bcd22bd3c79dc474e1dd5557862fd5e9a5585746786baf2212f5d5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (beIN SPORTS MAX 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (beIN SPORTS MAX 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-6/playlist.m3u8?token=899cb06d426b4a1ef5ba906f627051c1913eb5f6abdca776152f29d851bf0fe0.1778935354.f5e7022cb2b79d882c806065a1f8bf02.709a5398a82391311ed7a24d1c954f5f.247a733eedd4cb6e1e7dfa924cce58d2&signature=392699a303492660fa56945d17c2dd98a803572884b6f9c7aa1fcbab2b3886fe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.55" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Sky Sport Bundesliga 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Sky Sport Bundesliga 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+5&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+5&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-5/playlist.m3u8?token=cbcaa11c4acf90cc4cfb1e74186ca3182ace1322dafa532f574456c5937482cb.1778935354.cebb5457a127a3f8d1a44d8650c53e14.b851addb9d4ee7b3a54c5219e425a6fe.c4b40cc34e7a0e5d9c3abbe95500587d&signature=7f3332e3ce30ae11933ae94833dc0d558f66ec857cd989bf322f278c50f7d599|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.56" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=e1cd22bf0ebc510d8c78a0756aec54da054db97a4d9f24118d047ab42bd7b65d.1778935354.caf8cabb103f95532cdeb3560beff375.0fd8891eae0bfe9339d14432c562d8d7.98833760f209c294ed0987261763fb6b&signature=f9077a5f92718e789685537312b4c37f20bbc1f374ea1c4d554820fb05e4856b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.57" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Nova Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Nova Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-nova-sport/playlist.m3u8?token=dbb0c8f81daab3d05dab493877b0a969ed8bed34f0c060044bb101c121085bd3.1778935355.ba6b24fdfe68f01be52bdb0daeb8efb0.0db35d8ca9d8765c67d005a11d2c98d9.9c669d33b5cfca133be9813b4a6ec29b&signature=e572c50dc959d9d32040fe30e8471bc3e4a74862259261c31a09b7d58ef73b19|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.58" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Arena Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=13de5be27be2ddf868dc75805c8b8e47278d953724b1cf1d4db13629492b17a8.1778935355.3f6a5aec6e1f82e6a7f57b555721dd2a.6e64df7a6c098248d402b8c7d2627838.6f1b3dc2829916ff581a8a9000310257&signature=474855304ccd4ab85a3618c0414b9f85a022f51c9691ebfa515a19fb2869f411|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.59" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Digi Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=a869e36363f898ccdc2774952157011104b40a590e989c4284d16a2757242fbe.1778935356.7f154fcfdbacf69f6a9c455b01ad29a8.02275c61f05cfd5147ae2ba0f4d3a0aa.a430c8c9e9dfe7e63eb85aefe0e32fba&signature=7947b27f22d32402fc3edbbca2a7e86821deb7934a7e7ffe0fdd57243fc02e95|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.60" tvg-name="[Soccer] Eintracht Frankfurt vs Stuttgart (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2674.png" group-title="Soccer",[Soccer] Eintracht Frankfurt vs Stuttgart (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=fb4a8538f900eed53d0dc5365669fdd650979abc2fdfca7a5ebfcac78f9fb15f.1778935356.09121f1461f1dd2ce892480243ed0b64.0079114b4f0c8507bb3ff2caf146941e.b4c6e6cceabf4e90a87589c9fae2d14a&signature=6b4d7599c6288aeb3e88c74ef38828c4419b97bf57baeb2cb76a4150bfa8c886|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.61" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (Stan Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (Stan Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-5/playlist.m3u8?token=765f7951c7c74bf38919bd0106e0f86562d18d4dce3c0a58ab332aacad1c36bf.1778935357.f5c2f3e160b57dfa247b9217bf51fba7.298759adeb060ef3b0aa6eb23f0e68ec.07f5ae6755b42d4c9ffe11951a8dd5f3&signature=8493cf10620a482a33c8ff19272bfb739b527ecda84b50ed046f09b7ef82a20c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.62" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (beIN SPORTS MAX 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (beIN SPORTS MAX 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+7&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+7&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-7/playlist.m3u8?token=e64bfd829e3df2b9ef800babbdee398e75a0b95b0bbb136694480cf2f2b8790f.1778935357.1052a3a0d658afae133c5e5de9af0f04.5ac5b4f999f8146e1ca373abfb1f1be5.704e84eb2bac741aa93689770f228c50&signature=67ac591b18466d89cb5c5d016865b5acaf46d662f1c75c2d59d009643f844504|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.63" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (Nova Sports 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (Nova Sports 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+5&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+5&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-5/playlist.m3u8?token=1b26c07254256826a2e0a663ca24c012c3233ba0664bb63c901a71598b5371a3.1778935357.5f690c9a404603131924e2cf5320f75e.e1dfc37745800c59fba23f4673f5d78a.c59542edd30b296648e5f31331159516&signature=b42fab3114de5459273723f70f124c5a0b0ba1d2e4eb22433c0d6654e31ef0c4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.64" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (Polsat Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=5bd0806fde6cdd39fc6d8252be029720cb1bea6e30880a46a9074dd00bb27c19.1778935358.5e08c2ff156c878e8b9379d3c48ac593.f87f23a747e08e2e8263df3510a3c5a3.e3b840f33d70ad6228ce3e6a184f6c7c&signature=e653e750b18c0a71c9f51b97c154ca56e7e0c1dd56a9a2f4fc4fa59dd563bd94|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.65" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (Arena Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=455ae85dba60fdf4668a4740fc61e9f5de273eed5073ca58b452793bc85a9ee0.1778935358.b06ac98ead96f808ee65934718e57361.fe00f109dd8dead6c182de2567ff5389.19989b20afca0cd8451a5563528b00eb&signature=1945db0f8a2a6668b66c86b672560c1c78f12fc2ba8c69aba40e8f21bc13c481|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.66" tvg-name="[Soccer] Bayer Leverkusen vs Hamburger SV (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bayer Leverkusen vs Hamburger SV (Sport Klub 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=77f59c7d475fb9f3896f5b4cf72367309e7b3f91d671b7ae432a0a629231f92b.1778935359.345f4d308cbf6ec796600a5084845d57.56f4a414d671fafd99dca694d5541c1e.ffe3adaccf08e7d4ae2fc86fb618f579&signature=cf9211901699c7a85a004467a9ff5fca3e6ecc18bc78472779eed8f435ec69e1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.67" tvg-name="[Soccer] St. Pauli vs Wolfsburg (Stan Sport 10)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (Stan Sport 10)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+10&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+10&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-10/playlist.m3u8?token=3942e4bf21ca22bdc2f65068758b77f40bdc94030e563fcfda6de4e4e1f960a8.1778935359.6dea2fb073e0fadd65e698bed767cf90.dd55329ba6f705e9a97fffa1911905d2.332f035ab4fede68a9fd294b679f0da5&signature=9ccc865f1eae269fae95ecc54bd7830a3064b1e702d94b01de9c9dd130facba4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.68" tvg-name="[Soccer] St. Pauli vs Wolfsburg (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (beIN SPORTS MAX 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=95a413abaf2c9778592fee287e7a86ca7a8ac193391c78c1c251c99c94197e59.1778935360.5b142fb4b55b5572fa64d2179da69fed.7266a569848abb3d04690b38ace6f285.3b974fe2a3dc3cf5df0129609f549146&signature=29f63d8a7b57a8475fac35f900e15b524bf34bce7f7077020f70c46a78bf6459|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="69" tvg-id="Soccer.69" tvg-name="[Soccer] St. Pauli vs Wolfsburg (Sky Sport Bundesliga 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (Sky Sport Bundesliga 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-2/playlist.m3u8?token=7b5e3b392d661cb8c604c7f559e7a1fc889e8e9c9a4ebb14b1d780c3b9629d7e.1778935360.dedc7635a254a5bc64da9f6ff6ed338f.435ea97ea419c98be37e8d9901663c4f.828b2aebead2f0379a875c3c60cc547a&signature=cdec160b81b8d91618655bffdf3db910d59ceb4474d6a7abdcaea895f23f9c78|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.70" tvg-name="[Soccer] St. Pauli vs Wolfsburg (DAZN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (DAZN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-3/playlist.m3u8?token=3d9c09291e0fa92e42262fd11a3d2ce75bb4d9fe0f9b18d3d5df08d56860064c.1778935360.4625a85ac76d4469e4040b20f2e9c6b2.4d645a973a5a6a54d45e8fd76f95dd28.959147ac9f231a76962c569371afc980&signature=c85f80fbc863737653e788728ad1fb22cc3f6f0915935b48fcf5469943cfb6eb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.71" tvg-name="[Soccer] St. Pauli vs Wolfsburg (See)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (See)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=see&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=see&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/dk-see/playlist.m3u8?token=f63e84a0a0305a290da49b70b1d99d16f689d77fbb3098d717f34a7306e266d6.1778935361.2ab9a87ea4982b1f3ac0ca192aa44443.fb442db8f54c3f4edb1a374e2f497de3.49b43b28cd4c83d4fb1f23ef4fbcbfa9&signature=1d0e3e7e062a9a762fece5cd4220abc8c54065d24b4b32cd310ff2d78f9771b5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="72" tvg-id="Soccer.72" tvg-name="[Soccer] St. Pauli vs Wolfsburg (Arena Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (Arena Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+6&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-6/playlist.m3u8?token=064b2aea75cc579252f7e11de25e7db87dcb9a1cd6ab5112cec3151db8019d5f.1778935361.1afc2f9714224d0669b46dca9b4569ab.093cae24a4e402a200dd6647a8f34565.c6c4d495a09f6dd9837d84244aab908b&signature=d0cf5eb1b727f312803d2d266cd21da417f2471a9ee8f2ef761d523ca31430aa|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="73" tvg-id="Soccer.73" tvg-name="[Soccer] St. Pauli vs Wolfsburg (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (Nova Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=3f27b0394803fdded7a6e7374e2f7319e605bb4478de3cbc0f42bd2a9ec87fe9.1778935362.73912e8bea981af8864d28311abdb866.7b9f03a79cc950e699fd3294b1520322.b535f27680e86bca714e6935521815a8&signature=505f1fe7161f9e490280e54f1bf26202cfe1ac6783cb076f2a3662be41a5bfa6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="74" tvg-id="Soccer.74" tvg-name="[Soccer] St. Pauli vs Wolfsburg (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2526.png" group-title="Soccer",[Soccer] St. Pauli vs Wolfsburg (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=b0ea0855c06d7120ab1b8be3911c416d28f8fc9b7214cce4b5014d23f6295851.1778935362.792b95bf10cfe3d675f0b9bb9118965f.db0fd1283967bf9ce53b2a29a890e32e.ad3fd31e4befb38418682fa3f85ec4d4&signature=938909cce74f0c3f30ead7756c9592050cbde6f230fa6b6be8de527d79e2a5db|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="75" tvg-id="Cricket.75" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=2cff9c1bb029c1cf74786df017d091c2a72b0371c076b786a9f0c0fcbf8cd3ec.1778931310.1532422bc46d43ebecd5fae751a440a1.8dc1e1800583f133abb99fb784372bdd.3d232729f9b4e263b304c8584f150df5&signature=6b270bfb0d334e07dec18b9b3d1e272a8ce09eaf93b2e4a3b64a43fad4d66c9c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8c08aed881b9a0949f31d25e56cc53bfab8ddc92de8a361b9f8b46785caf8f7c.1778935363.72eb594cff01a11859bdd080969a4709.fb5b99b715d1ab195665dc4b6960908f.071458bea4c6bcdc9d2074ef943a9f3c&signature=67e6a90ae77340e477aa0c3a4848ab7dee741f646cbc93c4feaaee18d9233b3e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="76" tvg-id="Cricket.76" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=920503c3f734b61c6d570ffc44df27f96f9efa53faeb0c218e40976ce2368568.1778931311.d980979fef070cb059b66c98e4e1233e.96cd0f51eaa36a520c514eb28494841a.b786fe3379b5ff6b312b10a743351b8e&signature=df5bb3abbdb1ab5230702fe2b71403070fdec556725dc7c701deec680236bb0c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c0db95797437a605a1c06bcfb623dc33b4ad1ccc6def0396ff0407039a81ca99.1778935363.81a21a78ebafffad4e91f60e8621ebf2.789cdded9b15f6a7c219e9136741b45b.eff5fd21da53d5fcde36e9d782df39a7&signature=c88ff3bf4ae2965caca5b8de7bae0502dcf0f745c9e95f09b8b6f12d5545dcf3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
+#EXTINF:-1 tvg-chno="77" tvg-id="Cricket.77" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=61ac414b2f9e1c736fc60805cbf6c4d4fbb3cb40448844480fd9aea9445b77de.1778931312.6afd9a97ef2d6a4fe3d74bdc0eef1f2b.a9136f36b77260db406dc0a04b2acfb3.bba58624aac1216eca6853cbc5a89cf8&signature=dbce88fdeacdde82cef190c15cd1328cbdf37354186d2095b1c27c09adfa45fb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=72638ebc31c3a600c8302475758ef6aecab988c15a50b3fa5830d4a90c5cc0dd.1778935363.30f6ffdc339df8d4ef75a8514dfd94b4.f3f35af20df5a5d5696857c2f4c3ad6b.33d941a4599c716f0414b53e91e3a687&signature=9d5c9839824ebb0a2dcda9a4a4993fbacf023322bd24ed62de2628072537a74e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="78" tvg-id="Cricket.78" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=81c9965320dd42fea753bc4efc77d67408ed21b971d60fb08e75e54cc9c86107.1778931312.39a2b3946839adcedde54e5e3f0b82c6.0fdfa45c22560965cc25ec43bf1cc03d.51e70ed00dc29c1f3d46deb7311c141b&signature=fe8cba9a2933b86230358f49b778853083411c63f5774c857a01e8f6d55222f8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=dfe38b6d7481793f335d3d8fc37f334c657e9c9fc867ba2ebf627336601c3cd6.1778935364.be672ef86fb888b11ad98b212289a562.66a3b12816e9967add72c333b19596e0.bb42c5c8421ff0c9fcd9bea072aa158c&signature=f5594600146b0b2f03500ce274082e0ece86e9f9dad9c66e936b430808e6894e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="79" tvg-id="Cricket.79" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=b926f80bc0241a88882df05e239448020daefe50afdad2e82d2d00eef7d9934e.1778931313.770af26e8189c28ac2e37374d68f291f.6843702b0cfca5272169cc149f036ae4.a3f33d0da34413a6e56538f4650a18a2&signature=bd33d3b3ab1ccb236830d650983fa2d2812f45dcaa96bda714dbe57df441bb12|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=dd10d4aafabc693a2c52a45e3ab50914d272afe93ade550ade345e8fd0df7c73.1778935364.a4a89419b08f99811e0da375b933a58c.ac443b8f75955e7004b15d780e349fab.ff9b9e01320d60be2c8257f4f3e17765&signature=92bf9bcff95fc7021ea3779af4f837b8d55324b87ed38f27bd835294296a0677|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
+#EXTINF:-1 tvg-chno="80" tvg-id="Cricket.80" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=2e225c56a6ad809c3e3af3f316cfd983791cea2b2e9f72c5c9a5bf88e3fa0d6c.1778931314.bb261b58ccc89edced6fd35ac9ffdb89.07c1ebca37de3ecb8467983c1c3229db.80b2e044f01ef5a3cfc82bf15ad7a903&signature=9be4af7b913535fa4c5cc20f9fac307f451be30ad9f41d3b0fa0d687e06f90b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=3651d2432b384c4b4a8b2eb97ab059b18a5be09d50caa66ec644831fd757b727.1778935365.71266fd1976fe59456503a8bb68bd325.8d9038c0e705d293ccb6e118a4d05a2b.6dc078a510e72afbf9020afc02de343d&signature=09e380e0d2dca2c21767d7ac1df020f0eef3d874dfc43e81097b2593562a9c2b|x-forwarded-for:77.238.79.111
 
