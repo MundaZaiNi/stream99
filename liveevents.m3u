@@ -1,109 +1,265 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Atromitos vs Panserraikos (Nova Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5062.png" group-title="Soccer",[Soccer] Atromitos vs Panserraikos (Nova Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-2/playlist.m3u8?token=846cd23550fe84a9a85d4f4911105c9cb3ef526199e52e46c0d05d794ebbaf71.1779384467.e6282a982a858e35c891719b89a512fc.812572ab588ce1a847a24b7a92b2fb8c.3e94082cdf25203388f882bc3782b224&signature=67a4082999d78f43d9599037c60dbf1f9200d60ff6041623f7adb57c19e8cb50|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Kifisia vs Larissa (Cosmote Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/120224.png" group-title="Soccer",[Soccer] Kifisia vs Larissa (Cosmote Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=f40f93d43eb08d89137c0b597b9261f8c156bf978b85bbe3a47f624be815b693.1779384469.7ed4de8a86ebd5a863d792b74010de77.5784cbde9d8c0c71b153d45c1fc15e4c.88ebc9f600ada46462b858534c732350&signature=e934df1bfcff57012b4881201f5f3c94b2e18ea9e309d55ebee0e131a4bd623b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Kifisia vs Larissa (Cytavision Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/120224.png" group-title="Soccer",[Soccer] Kifisia vs Larissa (Cytavision Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-7/playlist.m3u8?token=ef307d2e9e25808d170467a01548037a4276b16c21b1a01b7221e4e2ed513329.1779384470.b9941166b441e3e34d32dd97b3b76f84.c228fd4a414e7ac5027a77c83def301c.082ae09f82d733e4eb48352d60b9dd13&signature=3162b4e4e6086d153bce293626a83ed00c43408b3bdfc4ec39c7fcf79c33303b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Panaitolikos vs Asteras Tripolis (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Panaitolikos vs Asteras Tripolis (Cosmote Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=d55ef9b64caadad1847f84cca78400f221ebe325f7495ceae9c0e4df33a60cf7.1779384471.9e7bad49b21c4088191d41c33000b888.0fa27fa70d26d04fc6c474d4b5600c85.010f6234fadba5369e2b81b197eb4717&signature=1482f50c792ee05e98324783ca474165ad221a107116b287df8bb6116afd1b88|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Ajax vs Groningen (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=14d1f95ff725c8989528eb08242f4fd2d1a021ee1bfb59ada1d71d201affd4b0.1779384473.409591b955021287cc000796d57b97df.70c83d11524d946e3f05abff52eab24c.f6de4a9c3cad3b35ec0390a9f9cb96a8&signature=fd98e597c0119a732d579a89020aae1cfdd19d8c54498165be0cdc8ce4e701fc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Ajax vs Groningen (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (Premier Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=c0956d6bcf88a22ca81aa02a67eb7d98ad84aca8c3410436c3c61b2e8fea3b31.1779384474.c77d08ca85c861e1a7736ac46540d61a.e5082e3af4aa6279d8f993f5a57ec31d.49d95540ef55c5bbb750c25afee7d19e&signature=cdd86cc42d1f6070633df33f1195c7045ce3d8e61da367b4f4d2c5916477c0d7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Ajax vs Groningen (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=aa34723392efb364348b6e63d2feb549d62bbab165e3c9049f6341574b2ce490.1779384475.eb6090ee3dcd9bfbf360c6aa1a188b5c.1034812f64cc2faffadfcfe0ddbded4c.352b4e8bd9a34a6e0644ab54798dca44&signature=64a5d9d4e465f4907d1753e567d6b6ce3ed6f1d49882e483ab94794ebb3861a8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Ajax vs Groningen (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=e84ce751439545c4c357c296cbba76b2768e6a22dc9a441c6784aa125b415be3.1779384477.3c11d1c1100825eada987bab2708f063.0200f9dfdadc2e9b1bf9172d2ed601e5.e87d80e3feece813ace32f2266872515&signature=524478f830194da9bf61dd22b893b554c852d032c02c08f6748ace2a110479d0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Ajax vs Groningen (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (ESPN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=e5b4fa08161c87a8837eea56818b06d27ea6b5cb2312bacfd1e1efd398ffdba8.1779384478.e72e2746ba884ff2dbb4f7e985bb5b9e.697a8e734846cb2e7d1f810ed587828a.7aad5a68e738b041ebc7ff75ac314ff2&signature=624370c1aa0c1f52977c5be71db8b23b7210f30ee4cc844de0a7a0c313cdea17|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Ajax vs Groningen (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Groningen (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=8b55269cbfa5cb407d6ff567b5468607085e9498da30da77d21789f27c115fae.1779384479.3c510017e518c98b0d8ceab967ec5002.cee8a4da713e43a542bc6fa8c87a076a.cb2ab3727c81b3d192c938d0ea7237d2&signature=e5f52ff4a6448bc83364226d9e3a0cffb93462520115736ff8af1d860dbdb009|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Al-Fayha vs Al Hilal (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/168094.png" group-title="Soccer",[Soccer] Al-Fayha vs Al Hilal (FOX Soccer Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=b7c00772f5ef71b3d44e54a312f3ea93558e450f0f4deb95e69e5880b055662a.1779384481.cf66babe216e3664425566923d7b8e1e.97dea94f98b7f0adab5d14d7cea455d6.4e3f40084ce0fefa2faa6e10cb2532b5&signature=4631430a08d62d552d8b0fb9f5043a31694af975fab39019de6280fb72c6cea2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Al-Fayha vs Al Hilal (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/168094.png" group-title="Soccer",[Soccer] Al-Fayha vs Al Hilal (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=5c9587d40316e1ef17a7b7ba8f024a00464f7a910cbdf3812cc600cc61e72386.1779384482.dc66ef843054f36326ab11f400bbb919.b60550a2ac1a1d553ff4aa77605b67e6.0c1b6283450ff54b0f17cf147edddafb&signature=e46c388415237cfa74614b1dd483d53103d9e6ac40eb6ca160918a157bd96b76|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Al-Fayha vs Al Hilal (Cosmote Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/168094.png" group-title="Soccer",[Soccer] Al-Fayha vs Al Hilal (Cosmote Sport 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-7/playlist.m3u8?token=0fc0f8593960f76d61e7bff1803e971734c6f510463e705a992e0670ad591910.1779384483.c5f572603f3cc10b93ba9b29dc658d45.af3d0adf395b94d92407f73e63dab2f1.d578c9b7ad8c3efb5e67e9cbfcfd6500&signature=d6395e7c0f89d3f5acaf52560fdcb8dcbef70e203fdb025d9efd884748db8150|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Al-Fayha vs Al Hilal (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/168094.png" group-title="Soccer",[Soccer] Al-Fayha vs Al Hilal (Prima Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=9e6211ff7d7f1aade4d834ccf5e5c73b7fd392420cf77bdd7e9fa4358c6b056a.1779384485.8290b55a4c4838bb9b72c79323e37764.6668fb44f2a27ed00f9cc4be3eaa355d.6c57da97d88b98beac0b165f11310606&signature=ae2087e39a871906a0fe6051dcc4499cb6a1686e9886bb64e08b1afc56a0401c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] NEOM vs Al Ittifaq (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] NEOM vs Al Ittifaq (Sky Sport Bundesliga 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=c77cb5d9bd69822855398b77536357c854299d9f6c4842aa5c610972a641809c.1779384486.ec05a4b6bae9f6c1ec23fad488e8ec1c.a7667ef4d4d497d4eb554f665198d662.a118171394a39468159420ff2ca34d58&signature=3a1bd47b9d1e1bc966efe054d996f11af213bae66f36ef3b870111e5f99cdc17|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Al Ittihad vs Al Quadisiya (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Ittihad vs Al Quadisiya (Sky Sport Bundesliga 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=b4c429a212de607f899ceb8792ae970f2481e1badcd8090468f06082d7db0ae6.1779384487.dcdf015ffe75c80cb481668fdd795054.a3f4732651264c3e99a289d1b1bd4f49.c21d5185806ed283358fbec2b207b92b&signature=932a81a903ed46788df7ca82918149daf756fd4cc90ae235c360a1a9193b91a6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Al Nassr vs Damac (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=9d66b59b4d70527bcc7f032841e9a3be0f733c759b3418636ce55fcecf2add0f.1779384489.dcc49c2a6a31d52ef2528035a1f92620.82b179084a3b059f6ab58c0a6a4a3ccd.f75f5732617847ae1a776cb23d271523&signature=673a8a6dcb2e19c26331174b117f86f5eed6825f01a1bc294f5dda274f90e7e3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Al Nassr vs Damac (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (FOX Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=1c4e8288742e6e32f1e10643e7d1fc786ee3c0da4967840d399f09c4e26a0d06.1779384490.92547bc036d7dde1059c96ae6246b9d1.42b7f83135ca4e2ee628352119127948.9847baeb4e14c7c41ae0ef049dbec75f&signature=1724b17c1af22688fe425bcd52bb758ee54b46e71cf384d9769cdcb031d20f4c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Al Nassr vs Damac (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=a0496d8f6b97f790a62efbd6771c12941660f0bb2c7cb384b54abacee1f75e8d.1779384491.b7ef6b606f436d428fe8061807280743.059d3bb0037fbca6aef1585ac9486290.0cba49978a521a46facc39a5c16e72cb&signature=4304e493e9a7afde2a5fbf2656955a6ad66752ec4d4adce88f9297464b369b2e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Al Nassr vs Damac (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=118680baaee5e48cb498368acd4ad958103df61001fd57ee9b5c574a723c2f34.1779384493.d76787a5b7e9f2fbcde6d437dae5b87e.1123011df84db50d834927aa2b7d8d2c.f0e4b5b3a16d3451d4453888d693182e&signature=75488da0c500a256dfb7d86ac23a83fb235324c57cb421276e7837e08c1470e7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Al Nassr vs Damac (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=1ecb025b0bb7e933376ed9cb34c0497cd2cd2e2215b5716565d95f988490e91a.1779384494.45e65720fb8a3bf7da0e9a631d14e433.eb2fb6d2db092c0262a1d49bf7ce240a.4c87c78fecc948281d009aa88506f396&signature=d847f8658fcd51f9b4394d4b19b69f84ba0e0838416062bbf709728b6df92b35|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Al Nassr vs Damac (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=abe105ebfb8f31de5fbed07ba90047bd158862f54bdd63a8ac46630e8095d84c.1779384496.7d3cadccf0543b4ca45d53b41cea98dc.1f08377e7d09e0ff1ffba4f159eed0c2.d984bbb7af00431ebe8136289db759e1&signature=865ec3265b200fc9553f94173a22c9be731b421fa9187ae111e116eea1c22a33|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Al Nassr vs Damac (Cosmote Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (Cosmote Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+5&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-5/playlist.m3u8?token=3f970ca8b003aa062a759ce6e4692f187351d8951712939b4611b70e71e72ca1.1779384497.6034ccd690df12927d769e4e2dc4b39d.9c799d4978bb186f2cafca0690bf561e.5a6f4f0ac8fe42507941a2caa4ad9aa6&signature=c1a347d3723d3ab9943f16f6d9e3a322d73bbdcd30f166190f83b1c2fcf00db4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Al Nassr vs Damac (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=2c56890479a3a2944f39190d28fd21fe28ca066dada5b7ca7e0362f96f8b00c0.1779384498.f7a949d4c81ec7a0e22a1238e86b41f6.b73f09ab1d2f1bcd625f548e9d5d08da.d46c84b136d300f1d8b4174c3b4742ec&signature=70ecc5af146615acc15bb3233f7f780de169bb7196dfb951974846f70dd3a31e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Al Nassr vs Damac (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Nassr vs Damac (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=e8202f820ee3cd8025e3a186d7ead9dd63c641e904d32d825db9a452744e822a.1779384500.1514d854b426f48f9ad37d5266d31544.ea1f1f9f4dea7bf4e0312e7f3cee5be4.c01f8d050048cb63a39fa963e1a502fc&signature=4b55477f7fee3bde7e7f6e47004a053d4167303d98a0f873fb4d5344d625d480|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Al Riyadh vs Al Akhdoud (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Riyadh vs Al Akhdoud (TNT Sports 9)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=9ff3deb65cc6427f22ae423e4e5a39e78bfddc8996fd66e5d70724b7f03d02f5.1779384501.975d53129bc9edb6cc962b4508346ab6.75e5a9650f4d0fffa63c25b6b788d4f1.410600b67f541cafa2e01e6fe4a2ad8c&signature=050ac669b1f0081c8ba477f921716c2a83c2e094852c722e95d51aa575f42398|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=55a1f24d47f19cf52f9aefb7f9d262f70414c7c66132646db6bbd960473aa3d9.1779374738.26bb84303ae8c30bfcf24a35a4283aa6.fed43fce776310387fb31c6a477f7b6c.59d7bba80558509e0b1666e26abf9b60&signature=d72830ab890efc0c68ad6c489fe8360c76f14ea9c869af1aec88b2e3b928e662|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=bf7260bab2cd9d42336cd881cf3a1cdcdfe96738aabd591ec08a4fc80e7508ea.1779384502.696999ec7c13961052ed402bd723d912.28493cfb836569ce5c9b9b1210671c32.c36a4dbc9106119508711e19efe06931&signature=2ab9498dbe7c4c6fdfc96218774fb5257837013ba81a348d81accd9ecb5b78dc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=2092c1afad5834136abc865b4fd21b110ad8a58feca46f1529b513b65778eb0c.1779374740.f3ddf789dcf2df2616ea9ed67ad45344.54ae81376dde2efe77461911439049aa.0ce5c24f4fa7a6b3122bfd5e7105b740&signature=c7bf520405f92ac504bc6f1c823e9eba54743151338e128f7669a7796bbbb035|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=23149590c0555c915b2cf4403e29406731b04777d5d824df28aa49698246ca0f.1779384503.7a8c4e9e3074cb9abc3a012d27fff2b2.8c1522f7194e6737118696e59c391b32.3d31a99d44ff01d6020ddd244cd1d9e6&signature=ba7a60c6a47f8ae850f35873e51ff27f0af8e535920b8024d527e7d169c9ba0d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=95d92a0a2ca7423fb8db541e8cad61a55973e049ac31bc5642a4e1b61845980b.1779374741.047d2cc28a9b3311a3a28117e269cb0b.59c8eea26a3b8902b50708e7ede37a19.b5dd55710ab8c20aa556007f62094599&signature=3629e2118eb366955ea6bbdac6bc3628570a7f3bcdc5a78dbdab727a000e4b16|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=e774a5538d2ce9d01cb181b64b18e02f243bfea63661cddc67d1b45cbaa4c3e5.1779384505.346afa3c60f0597cb8f67300b67668a6.3ef35ea6a0395769ee4c2034c83607ee.ad671895fc1c3bb43b50a18d4d69341f&signature=52493e20c3cc95fd68af97db390431e2455096d94cdb39813cc02e173f517635|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=8746bc643179a8481b01d8653232f2c0af164f3c0c92dec366bac2155e603c16.1779374742.9324d77455721d50769366705aa97cc1.45be055225fe61a853cf9a34c9b98fa7.5695ad1942732755b1e88c706a488272&signature=5155ef279dce45560667362aaf031ebde9d29786484348de64d6701ce6f1ad18|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3144434ff7a64762703b98e3e6543d8a3693b6c522eb7db8f0ad147d4397b2d8.1779384506.354471eb33cbfd5e7b06c91e906d1b9e.c52c0da6ff9c6a7db83e83e32cdf61ad.5750cac0c00af87e450789ad1ed785af&signature=def8192672ac6e97c9dc08cf9706da10a49f19f7703915b81108abdd1ee5d172|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=458191986f4924a7e4a8c062ade384ef057679c438a85b91cf2750d038e98da2.1779374743.e0161786541f56a3ab464fec6351e188.f7b0fe13401756a09e1669433d1ab707.62f42366eba35d0a7eff345334c11e3d&signature=d91def8a772ec320fee989d64a0a70ea02faf0b27fc35acb3418c384767132b9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=752e80dd5cf87bd758dc9e4643770e83c60a902c07553e3498c2489fbfdbfd2b.1779384507.55a31ceca05ec111a671c6fd85292606.73299f3719787048ecc21d7c0ee8527c.a0427276a6d5e3edc04c24bc16806c61&signature=77c9bea46164bc9901c945f16e563c4dd586f2926f1e5266cc59aa4b2c14424a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c9b9d919c34bff202efa0fb920bd99e6413c328dbed13cd9c68533843cf1ff3c.1779374745.cf980cfa20b65d7b1983be51bb2fab04.88ae6d5e111e6c1c965daeaf54357c5a.3165998a650b9995e870f7ace19a4ef9&signature=b6d6b038224a8484d25f89657ee789d88ac6f03583d77339afe013a9a9d27f10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c95f938ebb34569b400f143a39715b39d09c26084d734361de22627914edfe12.1779384509.043a42d1a59d1e2cb5ee1a351ccc8c1f.b6ac0ee5da92a975577d4f16537c3862.934d59362aad9c92d7372825d613acdd&signature=96e449b9b130c44ada96500ebea89ec6cb031902efee6c1fedac5b51293c6ac7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=2a359e18fe1ada110506e1315c5567f836866d926c4f3df810bc2956db377748.1779374746.d7265f623e78d3cc86d51f45770e8df9.da39bdeaf0cde75c79fc982c2b56c66c.8a30fdfd700a42beaf4904421dd69262&signature=f27955b86c9c185b7f9857f6d2372b272d5259d826f80ae043caa35f1ecc6de0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=055dc490b2ff7f6db0d166970270fb66e23dae106a1cde072700dd0af7b76ef5.1779384510.1f3c2cbea6f1083efa208ea62dd4ae26.0e235b468a90811ca59daee80d9655e0.00720d9c70d2a641991828d2f3df7f98&signature=8a137d6fb7e84b9f0574f7e5c9ef9bfb2a85571cdc1ae868f4352e931ea66038|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=79c890aadbc94615e7bb9168f94866f8eee49177e5ede924db1bf3dce1dee39f.1779374747.3c58cae8991e016d08ad47414b25c473.6965756af2bd2ec7982f71134b1f0314.babb1f6891f0a59c26c1166833f9987c&signature=4e5cf6a02e9095fb132e0bd7987fafa70f83a138680b2abd0067bf84dc7a29b8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=3c3e5956b8fdea1f2739677ad4a15dcf81cc4c33833d28955bfe3d70458f27fb.1779384511.0b09d9a1136baeb1df890dec2b8fd07f.e5f1617c3dc9d5b2c1a8909865c79df8.e677d28e58120c5da360c784dafd5293&signature=2bb735baeb0520f231ddc9946e71f4a6b9386b98e32376270267cf7c4dbcf0aa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d18d40194ad5d228def39f127fa94c9b3123b71728a428267d0bd6bf6675f9c7.1779374748.79208d6ac7e96a3f2084cbfa28740da2.b5afedf1eb04d6ec6c4885797e4d63cc.854ba39d7db8b01d38102a097aef3f5f&signature=fa799c3df239ff5cbb7534a867f87dc2d42ccc6039a3a0b276318501ef483451|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=5cccd5fb42328a008f1b77b46029e87df054cc2050385e1d89e18999cf3d1c0d.1779384513.c4e98158a41ea57e65753eb8748a3962.c9d4671963f2635d0c527b8f59cfd5dd.6573b44924e0227d43f18eb1dad7092c&signature=7d045365c6358f46506804eca50d0522a50a13a60882c8397bd696ac21ac1d93|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2c0b21e5f02d938b6bfa0017c701a8dbc66b2638318ca6e97255c89a6b38845a.1779374749.e46d4d25ba03d8fbcfcc2649af7e43ab.4d7a4118d84cb3005a8c41064dc68591.bbe7e1b871a024a69528c89899bfbe13&signature=b718dea4d79a21fa92b992cb74950830c87a05f11e2591a1ace022776afc1a2d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=7c5628a1bd1cc951232915560e446ea684575cfdbb858d745803637ffa80c420.1779384514.5d0d7d85b46fee0f3be411b12dfe4488.e4543536df669da030bd77ecf26918bf.e25e1393a3235a638bfb16f2ee18bf1e&signature=ddeb596de898715c70da3abda958a280b5528f4331404a91dff2424cc8612ef2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=80a511939dedf75bf05c60583549e2ee4861f471693897825a5122891e6b5494.1779374750.bfe7e0217eb6d4e22159a4d1e8d1280e.c48ce860969ea19e7a099c76609ad0b7.ce3355a31ad93113798e79e56144f4ef&signature=590b9f93ecf6a418c2f93c86233ca18a4e566bd3c57c60f832bb79dd8a217798|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=ab80876aa1f24351ff0081804e5054cc2e9e3776f909a3153db97ae845d0669f.1779384516.7198e2c69be2924c219a60b02042a7c1.4842c591c5717f90932b4171c5637989.f43d2e0347b195a95d197d977260bbed&signature=e89835bc89e3b6d78503f089e28fad25f9d7407fe21055eee6c624ee45b8e95b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a27d690371ee82325e71c156804d9df02bbc458a41f2cb637215c3d24a249b29.1779374751.5a95925c23702b9789e8d05c664cbc8a.e3a34289d969884adc7554bf8b709348.a7aa4f27f8a09020c8486ca8faed8cb4&signature=5265e253b4c6260ff6939bad9a128236523cbaa7fea2e70303116b5deeb9ba7d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=dd9ccc90c6c24e93fcb8a8455e8e8d46fe47756b6d57186d12ba54974a20a57f.1779384517.66e4a3c56e63c8732f155aee426eac1e.e3230f2b74c5dfadabcc745057c2eb88.c06afb0c9dd9f813318c16ee25245a04&signature=7190d8ddc3ebd69acb66ac088c35a43ef9bb098907bd45f2f741bb09ed6cde0c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=91e4571a9ce039b7d27dd49f943fb487cbbb88d3e58e7ac6893a390f846e08fb.1779374752.6286820f2a674b0a0929437e8ed2d779.bd22715ed30bd4d2797ea7e3c6a98aae.7c3b3e57837a7976104483fe208f973d&signature=dcb64a71becc2091da66fbbea6ccbd6051bbbc42c95ed94f3606b48d500894e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=cd19ad7e5111b3bbdbcc1aea9ef52e53a60a394ed3754911a16f9fc55b3d92fa.1779384518.918c172c566c0cf361df75aba3ba3792.df1d52c63526eb43711bdaf44eaddb04.759203c1cec4d0dcd0ae17e98074be5a&signature=c357e2ec2c7f98cfb93dd73f9689eae195efe902a38522594dab4798684e9611|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6784b1f47f972a676a7323d368dc0a258b89e108d853b86a8bff3144b621fd43.1779374753.1d2a163ba88856d30aee0f2104f9cf33.67ffe69076f62219ab01014db9afb64d.376e1613017276150806c00b84966eb7&signature=8d4470288e1a11b6b9b34a773bddd69ec78af97de539df06b9490856e132c44d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=eceb1e5d88fe2c16a3ab7b19f34d7b652a13380906fbeb7c85028ddd8d1daaab.1779384520.4324de2438d6549c034e0ee934262e34.c29f6f0b933ebf54f323f80edc906ba7.317165eae599fb35c8cc24eee3ede4ae&signature=7179726f9e30c15bba490862b7262aab6442ea204b1b2ee0de66dc05e934c502|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7f3824be2d0e9188e5a6f6053b774a4ba61a439a6bf7d10e1d16cf53e86c0b12.1779374754.e6be52be046a4cbc3266ddbe2de96468.b53422eca14e3dfc63a9e43ffae10cf3.0729be9948cb80022f7c20f85fa7f36f&signature=a7a78b2d539dfac02248b191ecd726c2171c6ac21ee22ef73bd2325e57814620|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=0b275f0bd8458c4dd294c529f5e811cf2a13e8cd8e9348a531d3cf702179b390.1779384521.5f1617472b0c88370300055a409f0de9.4238df1a741dc2abc4ceb9a8f6017f5c.bbd86b8365eb46e2c2a29b05ebbf8a9f&signature=2e57be8342054a9de8a446f797bcf7f3f32d8425fe0185ac105b4e57eafb684c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Hub Premier 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=5e6b77ad51c02d6f0ecdabfb89648a0059a9a3473db9fd49acbc67f569bcffb1.1779374755.62ff3e594da3b118f80022a6d6c7b293.aac8a70a621bc7ddf403af40df19b10a.6ca1e924df1e57422b6cf63da917fb88&signature=24819c94b31247aaf97bf21aca245e45d4894cbcb8eccc6dde60ed3ed5ffcbf7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=14a21ebb2b5f33bade10ab994556c7520d3071ab77128c12fc73cba224762eaa.1779384522.34f84bb27d895803235e15f506aabc84.81746da37b2428f846cae557bcf61ca5.3ede6458aacc34e839bdeecf56906706&signature=44b67a53896cde43126bcd9dcce622b6e15f7d6c74a777e5bd0c506f29a96c01|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=58f04a34c47c7b640232cc4e8a5a006e2afa628b04c98c4573c9bbd193a5c91a.1779374756.d8fb788a923206f5833243b05d54f86e.2f352ab7b3a6048ee1e857298c832cba.7865775eeea013e734d0cbea4b80709b&signature=04eba842340d097774155c6c486d950ae8b357a19e36c17790e3bb9aeb9a614b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=aeedd0959b6e667af185b1ce0f539492dc5d077ffd7cb88674f8148fc26d41cd.1779384524.cd963dc8ba330d545313e3d69c099f77.8f46cacbb22023b242b42107a806ccb4.a930ad1b81f235ffb9cbab073e447ec1&signature=6c4c0152cfd2dc3e1140b1b68e51368799cb26d170ac914020bde96876c3ff2b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Gujarat Titans vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f71d5f92a8901f67a275d1d109ab764f851e8bfc40f8e80176f9211eb5f3f4e1.1779374757.5b7a46e8b6318b0b878589068537b84d.f27614941237155fa7b44f1a0d20408c.bb3d00b9c74c2de606b3b4998bca33b9&signature=335d9fb60ad9983bbee657b97f834c248183e6096bfbe3666fab3c27b9250c26|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=b3310c3cc7af6e34983c0db485c00b5712ab6cbafd5282425444d3f9c36dc695.1779384525.ee36c1e6d62edc6a874c0cd05c927277.ff8776a221a26ad7b5e46b37464a7f15.6db9dc6159287dda7fd7123322ad1667&signature=dd1cb393386f4514b506b5e67344c25375db4967a32665aa7aa779e7a5f68214|x-forwarded-for:77.238.79.111
 
