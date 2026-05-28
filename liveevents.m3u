@@ -1,157 +1,145 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Egypt vs Russia (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (FOX Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=48135c928428bc1262985820a6abc40794d95a3e888bf83ae92b5c4768aba0e9.1779998090.dce9d3a8355d91c7c30612e0dbfe7896.945f040cc9dbc757930c83cbf860bbdc.80a0997a8ddfc2f995bb1349aa6aea8a&signature=b7f1996243a286dfe5e74ab834fac708f5b766bd0bc6a3de42098cf63d2a79f4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=6d1ed48d5862f39c70e41f51d702a4397f5edcb8e7106856ba4a796ac192c99e.1780005061.ec4a0ba4096a45d58c8e7b14b826dd40.d650596442dab3c1c802dbabde8a368e.1b9789519d9e01e37690977f41824c73&signature=7ef6d12e508da7792164661da1c558bb78abc9ac8daebac727328385547f799a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Egypt vs Russia (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (Match Premier)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=1fda4ddfb65f992bb4d2ca64aca08be08bdb74ea5a9cffada0bd50d006e9a983.1779998091.72a289d6dc9f3f9d5fa8fbd5c9cbe254.87214ea15931e0e97eed4d8b51f8d35d.367bf16c9b8c533260302142e5989f19&signature=cac855383d73595020224b01d69cd347f2d8023cf3fe9f4545fc1672de674295|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=6afaa350b3547eabb19b737335862bb2e57eb05001c459e5b677fbd1fa805e35.1780005063.1773a602c73221018fd7b9d46d571592.294a39d6f7c43596cd6724465f5c330f.1aa9bbb07b22ca404b0a023251797d28&signature=ae14bbdedb8973a7892f073f63f94e02080a41e8ad8cb0410080f2aac71b375f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Egypt vs Russia (ON Time Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (ON Time Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/eg-on-time-sports/playlist.m3u8?token=9860c8f7c63315df30a5f649a0902168c47246e391d0e8b374e6479919b445ed.1779998091.ba4194e3aae64261f3eb174bb7810bac.c293dcdf511b036803dccb77cac22ab4.0dd389d3946edd2fe0a7d0233773ced6&signature=138c9749fa8031451633cf4c5f1b3b008d1ce21a472fca176c20c900fc50e978|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=17027573d22ff3fc8e2f8c68eb88c576492bab49b17539ea17b5db2b1c63d1fc.1780005063.a89fcc65fc42e0ca20307dfcce59ef0a.94d05b15d3d69c23bd5fa5b82956501f.49da2201d0b3b5f85f15a638cec22e50&signature=c4f8b924c96781bf2a7141728e49818f59ee20b33b4f3ce9f10b8f5282fc3b56|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Ireland Republic vs Qatar (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=1b461df8740c8e6047c94a1b09494148eaf238d84a3bd159d87bd62abc304192.1779998092.13d43abae2e1583ad821f1c54720a595.e0dbd539fc9415f2e6d18f293d624b57.b38b3ee26a9ea1735ebd193559b703ce&signature=f352cbc38b6cfdb39095bb4278d65277b5718bf410ef930317b14c1303018631|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=c4d9c50492afc52f7a5849b4bcf4d9db1c75ed2c387078a4b1c25db2fc49ea65.1780005064.a48a140f7fce2685f276d8f79ee1a94b.1b25111034d401fc2734914e0f82e825.46283f4ada5e2de45b1a19578b9d9c33&signature=d145cd2ff2cc095714a34d0bca439026495e4c58ff696883c55421386a42bce8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Ireland Republic vs Qatar (Sky Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sky Sport 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (FOX Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=666ec92c2c5e85681004c523be1c9278f7926558d107f0cdbe0be08cb16b5dbf.1779998092.adb2a03ab6b14ad9f3c6bb2a1435fa27.cf9d917da8b401b0b989b8d8a43dbd87.477a1f5152beb2382eefed2a731751ab&signature=cec9afeeac8588834950f9d63e5a9f36c28c790c51e57051b8e1b347c6c03c35|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=82b466a503351f59aa729dd31b059c2d9faba207f5e362c511280bbae7df3daf.1780005065.2d71a733b4004a714a306244ac508339.c237ac18a33ad44c0581263fe7b3d71f.ee47a59479344fb8caa1dc1225395f10&signature=6038e79b7c4d185d8ea6babae2d4de55e2b91e29f0bb448ae6417fd1efcefc63|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Ireland Republic vs Qatar (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Cerro Porteño vs Sporting Cristal (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5991.png" group-title="Soccer",[Soccer] Cerro Porteño vs Sporting Cristal (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=50ca172d9803e50fe17095bcd40f3f152507f5620f12b50a41e647605349a20f.1779998092.6c2218ef63bf78ead382852e328a9db5.10a7341e1e9d6b1e4edb3027e7c03a29.be58ac523e386261a7acd4a0943dbae4&signature=312d25dda8e30bf9d556ea099f9832df32a461edbf8df3ba325ccff9c03034ff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=dfaf9617dc362785358bdf9cceb6bef2235ad94b36864ec3a90ee4fa0aa80dce.1780005066.4d340c80f3798231e20f65e5bcaa4c5f.1c848cdf552c5acd15ffda433f375d04.8213f4d2ad60ad757f050b3927588c97&signature=e8e2de248ef2cde861c73f2500409474af550674d07ee8180ac7dad9fb7112a8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Ireland Republic vs Qatar (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Palmeiras vs Junior (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=88659eb5bcd8f974395b432d95850e95623f4bc27469dbe9c87e790920fa533b.1779998093.a5195382072daef481c0cd98f07ede46.deb1e2b1c5dcf874d68ffe0d068a1d40.df9998da29b9e15cb6bd18bf6cad365d&signature=7d640a0aae1101fcaad9b57224a501255a5cf4bf130dfcf2ea8082d8c4a64ff6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=561e1cc4713860f6b7cc91744232fcb55aabb4e7829c37c860ba4e78ab466efb.1780005066.c5274a9d1519462333f0295f6cae062f.0c08d198156628fc3716a8127c774e0f.30d5fb01dec8a1d7076e956b97babb68&signature=fa736eeb0fac3c1518b88066ffa3fe27ce163b9368b10188a1f095d9b553d846|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Ireland Republic vs Qatar (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Palmeiras vs Junior (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=d1bfe019405e0667605d7be64ca46191842e6cd12a2e70492924e8de7c07bed4.1779998093.a71b9cac67088d12f7bbde611160c4a1.6ed9745390409d7d338f195a25b00b9a.32d08f2dfbd014091c3578505d6d00a7&signature=579cfac96076fff5cc82d8711656b258066602829dff5acaea2a1cd2a35f97ac|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=0d758f4d652bc4b3c4484c3297c737c68f7fdbb96d40daed15474e9a38ded33a.1780005067.e479d142999be7459032910066b15fda.8e5fa63201bb7708c4f33d180e3d4b88.2bc6ab9c43eb599d31f0c7fabecaa1f6&signature=46a3ac687b798d7c11495666abe419ed33196c13e9ca1784be3d161e10bef15e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Ireland Republic vs Qatar (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (TV2 Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Palmeiras vs Junior (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=eafb5d092d9d33f5a775c9608d8f1c6c5f6751228cb5e7e7d0c4fb11628815c2.1779998093.f2ab14895d1133253510d3319afe95b7.1d3f7162749ffadefa7b0a3815e33e56.dc23cede4cebeaa9794c2b5df7b6a760&signature=afaff1ab016423d77b922eb614820d206b477263eab7f3b3e9d8c522180ffaa0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=709b8bd39b796a52320440013344f1ae886f4ba850e6be5c29a5e23046e12db6.1780005068.c8fad3dd0b837d9f81ba0ac6026850d4.0b1282f94190a1c696fb9ed07e4bff5a.3e433ad5e88c9130cca1e2841044f11b&signature=407fa9cc8cff7b2e8d27365a1482a50d990abdf481c8c566f6ed85babb66707e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Ireland Republic vs Qatar (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Polsat Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=7a05bb195005335b6c7762b9d3c194f0f81dabefa70892b08460f1bc26257b76.1779998094.635abee837b7fc13763e29db16b9e324.8d7f073ea0b20d592a9978a509a142a8.8c30301ac8e5d5ab2e9e88a2904e1657&signature=f43fd5b21c3f2b8bf7e6d72044968dee32e2328810c1462794e2c20dbb943dbd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Ireland Republic vs Qatar (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=d06fa12e2a025dd335b3c9f57b29083c48825d19572cf1f093610819f52ee6cb.1779998094.9c5d43f06f97cfd1598cf035e62e158e.6e3e8f078c324dcb88c7feee5307796c.ed19cf6fe9501c43e201182dd0e7838c&signature=2522d9f89bfe1b5755824b9e297fe45daac1a4e11fdd91ef2811edaa2b3c6781|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Ireland Republic vs Qatar (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Arena Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=4595cdf717807acad86b5b772e928fe7984d704b558e23dfd55ef690bb112868.1779998094.d55aced7a5cae22a4c63f06fd5af8f0a.3e8474eed84de68d81b4051553a26d22.131208424c10e5cea5343ef1bc5fa9eb&signature=66997c803a4a9dd06abf78bf2ad93b1a45156b46270e219d24ea4bb162383cc7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Ireland Republic vs Qatar (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sport Klub 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=91aaa9c1cdbc9d78e74c3cece6bd00285799972402186724debbe634e35a9d1a.1779998095.13d810fd39ac0d1f8dc7ad9d56b821c4.c60bc4f4e7e00ce946d2dda440d09115.386077cd09c4106485428526e736df50&signature=d9b1cfea0e26f82f4371b21345e3c012d9b2b71efd31a5961718bd65a13eaabf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Ireland Republic vs Qatar (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=bbe5ec981335ac5199746cc2679d2d43d6939676216ebd9adb1e2c5d59703d35.1779998095.925fdabf378d70fa47d20a449c2b5362.0cc8201c6810c88c97034deb6fde6514.98c5a43758b7a18ac4c2d9e5ccefdd7c&signature=a178d8b3659990b0e4ed12f25e3994253745315a00f60013031d39052876ac44|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Ireland Republic vs Qatar (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Digi Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=4c92bfc0674ec5f554a3f9ed71a44d4931592ed510229726396c160ddff74ad3.1779998095.6fd9068c95c66ce64d8aa3d29db74ada.0c9b49dec78080943c1d0ee10691ed43.b8270b497492ecf4f33cc4ff61c2b256&signature=6d792254489c24d1912ec475e42e5d38c92119cb52719989c298f915397ab864|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Ireland Republic vs Qatar (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=f5ae3ce063e93d86f856cf9bbb76186b94d507feb469fe15700402e29a877aa3.1779998096.9ac52b0a701c90ea5dc64e6704b2abdb.61bbf93bc5ea2315f2e96337eebea43c.3e65cffd493163fbc06c7e5707ec6179&signature=e56dde0e419241ca77a6cf63a78c65d6dd6dc3dcfbe8e75efe4d3d5c711f7796|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Casa Pia vs Torreense (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36365.png" group-title="Soccer",[Soccer] Casa Pia vs Torreense (Sport TV 1)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Palmeiras vs Junior (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=c3e97a224ce7818cc8337e7a5a2cf823fd8b54304209a30a04c1bfec859c46a7.1779998096.96211f200bbe612fe2fee4fd4e43df6c.5e803c21d81746d67d50085ef18993a6.cd0ba47e5176d73bfce457a208a7b8e7&signature=53fc1ed2b1195ec303dd4e71a2b62a294f79e42375f22844724cc3601e7a00fb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=f0e4493434c2f0c600759c020523c983e0bfbc7db1444a3dab31c2171829f9e1.1780005068.71c1e8c0ae99fae2d4af2ff92da62931.260e8c4b4a408088c555ad0fc06ede79.a45bb6a62cc74173d6d76365e765dc09&signature=811e8c67f46de40c0271317e4e053f0e87c0fbdd874bb0b7680e74bf82b030dc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Casa Pia vs Torreense (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36365.png" group-title="Soccer",[Soccer] Casa Pia vs Torreense (Arena Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Palmeiras vs Junior (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=4bdb73a47aa57266dc37e6ca47030693292c9b24af4cbb2e51572d0038a8e54e.1779998096.6847b4b3bd0b4bc4276186724c031595.fd1e5f4f658691b3beb0232dcdcb1d62.4daa69d5dc961f98f134a775547590c6&signature=1eed8f5850e59f180276088244dbb9f8cb4afe92f669fff0575c086c9e2b9857|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=8d3fa164bf92872ee7d2b1139ae6fb4b4380768c43557b18be1ff497092f5bf8.1780005069.51178f6afff694c232bab692c9bfbc82.b1f577d354cad60fba2b3efb9e8e950c.a14895234915818ff6121da9fd992a55&signature=6e1559e5f2e6f9cdef342957400c23031672bcc4f5929569da0bbb7df7c73390|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Palmeiras vs Junior (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=20d766e53a1eae66017485cdb0d9be96830e10777b37ee7a3325f2fd51ba973d.1780005070.431bfc1a91de5ce2319ade5ffc9d204b.e114f71d56efc4d00815ab2758cc2e7f.4d18f8af8d2c532a3fdce3cb45582f25&signature=b29d51374c7e2e1d40d24413c4dbe11aad90d2acee81e1341fd834f5c30836e3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Palmeiras vs Junior (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=cf212831aeb74d45246653e7f1c037c0e66d04eaea0116bb4b97b5b94992db82.1780005071.68325cc556613c62d4ed1b54c3aee4b3.c655148e84716b96ac16817fa785b96c.f22f7a4ea15151903529c778c20c5d24&signature=61e2864b86cebfddc0f1844f8024352e09b3b42bc4acf8967e8a943ba119693d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Palmeiras vs Junior (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=b6f673a54ca1d31a41708a66c1c95cae43e89ade85025f8c5183aa3923e86487.1780005071.96c9c7c9b2564ae1cfc6b5e63b3a3770.a106f8386b32be1fa92803415733ca16.c9f186a158299127cb74f5d37bf7f64c&signature=ffbe5dd8273394e3e91b471790532cbdc96cb9565ad742823c264c2a7c33473e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Palmeiras vs Junior (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=e1c2c58beef538570a42b24f89f94c935603eb2d826abd38d6fb50b12e64f6de.1780005072.6b5fe7484a8cab494e3a7afc58914596.1df30d4a9e802332b8585317a69be9bc.c413645dc7c40054ff27d322939783e5&signature=1e8176d9e558d8a8cb5cdf8c0e4b8520565d8d2375d22771c9aac54b3b99ee06|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Palmeiras vs Junior (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1963.png" group-title="Soccer",[Soccer] Palmeiras vs Junior (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=9b1e64b70592034e19759e003f52ca20bb588280ea2ebebc3e9ccb252ef61c97.1780005073.ca52bdb8868c25d75a8a5bcfba699220.a99070852b68325c7f307cad92531f1d.bfe9895c1bb6b1ec0bc80a51023f3f33&signature=f275c75215a65b97bef7e4eaf2759d81cab52b219108539fcfdd40a0c44f7aee|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c5b718e0a0a6b8f1d568888866168fc9259da52578234fddd81ba521ce73eb9d.1779998097.948cd728deef859fac61213c3852c023.e055c4b9bcc766f6a1f12e3383b778f1.c15dba31a519a8503dbd2f78cda18f13&signature=d739b71dd26fcd9fe611dfb6c453572161b34a76b6b5b71cd2cadef99469e334|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=1af434ba3f7dccd0420513f2d6eb0bd3d474c1984ac0f8d8f57c08caf35d4c8a.1780005074.fcb58b5b2ec9858992e43a4052186058.c11c945b49b6b6595bf36cea8d8cd325.e831111a8046c52a403f35f29f8f67fb&signature=10af7ac94118172e913726362ce902300ec46acd96b16a66d75296c81a875902|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8fa49c702a7a4da26f9e5cf7878857828f7d3f4671617341940a27ec1f8576ff.1779998097.ace8d31427a4f3ce6f5648b1ccedb058.1e36efc71a4098f140f4235fea068e95.40c940c3f56d82fbc7a28cfefec013f1&signature=7a5d0226a24bf75baedca978e585a5a7274d97256725adf8cfd52fc292407557|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=eb2604a746e9a5176de220a4b8e470e9f583eafdf0fffa9b9fc81e5dc371db4a.1780005074.086245079c0258015596b66a30c42d2b.bdcbe77847acc142a17f31cf22e71b94.fb5d0dffe0cc0e5d823b0fcef8b9c53d&signature=6de701a802ab6f43b6f3f29227c40180f55da97550bfffbf32954544042e0cda|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=b768f4978e426fdf022cf326a97d13bda5654c97ebae2ca7e03d6074aada86a8.1779998097.438e90524daa2d9a1f7b45aa5bb9c974.f1f6c6eedda30040e9bd556b5032db36.5d73d7b70daf1685d12ca0341642aac7&signature=2e156bd32843678cbbf2ad2795a0be8c7e4125b4306c7f36ad521a515339609f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=6eae664b60a671b7411bbab1d5825e692cf313cfaf61ef93f9ebf6553c9e4a57.1780005075.40a1a00ed92fef26c8b18aad890f8a60.37eefd554d8ead6dfa818869ad996bc0.c195af6270875020c834b4c2b1902f48&signature=cc55f1b205b40fd855a4ffbf8a49b4ac82282f26f3caf745c7a8a256801f84e1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e686886317e03bc577e3fe98f1a0db1487dffdd906f0d77bc587fbd8ac270867.1779998098.755e168392774991e177931b553ce6e0.aa2f3bbde8034ca8498a9787932a5496.42ab52d51c709ef3036c3fe72ac4d8b0&signature=3d3bfd2dbab6844213ead199116a7318a07a99aef918bcbc6a84b6dc1d23b763|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e7e40521c74c984f70ce9d6aad57cd99195b0c3552c648a7bb1c9e1f0b054256.1780005076.a90a7ab5abdcce247ae668a9f189a9d8.24b07f70be9e549a446633ef322d7b59.0813c2f438595f637de84b3578606cf3&signature=2da77c0f2b1e6ae7fd811afa3fad4a21ca163ddb5faa86d90ef3c39119b331cd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=891620bfcf270f18158cd6ef92df1c02b432d12fbb44124aab270bfad03d7094.1779998098.e0f45ecfef87b44c9ace09dd20de8e85.edaae995d1f177e2033a3aa719fc3ae3.59cc08febeb4af0db3baf63813159092&signature=4d03cd88db087997000c872c16994f1d2a61a9a59578698c8c4dd689c72ab6f3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0e6b3de5660aa8b11e910b56032d25059ec5b6ef683be16a70a74caccb8928d9.1780005077.e8974e8710f9ede9a6128dfc29b304cf.0e2ff381ec0684dac4cdc6860ac8fb5f.a782ad16202becfdb3d605861a04a6fa&signature=0f1cae69846dd402fb9e40ba785e03fc134101bdd5bdde7c6ff77eacab0b5ff0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=240809f9ebbbcd6c9130e7b65f6324ce677e1d0a8e2ed60a3022d2461462ebf5.1779998099.3afbb14150dcd8d9e397de8ce6fd4df9.f32dd41b9693a60f89d8cf02dccff55a.04ae395606e5fc6f49f9fa5df2416348&signature=ed53b6cfca87af6db4b01b02e408a267288ed0cc93e80a68eeeb96ad1b89bc2e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5d670e43de35ec8eb83aa47646a6a172b2595160f2f4f5905ce926c1c7bf3aa8.1780005077.32f13bd62e451a9ee1a9d8ef9de33cad.a38b47319593d2bc3e35f3100f00943d.3d5ac2ae4fa3bb62797043d53ca03c23&signature=a5bf40d458b71366e348eb3e0822b0345b1b6668bc6b73fb5b47adcaf1a43b54|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=f9c973a3a95d34c7108cc39acaed4b877b42e5240794ff94ed4c4b648e2cad57.1779998099.6e7e0eee24028bf4fa54b50eaf611d47.352b9a8b6f99c6a21f9c269ef458f9ca.419fac2f44cc72aefec72551ac4743a4&signature=05bb061acfedb788ff5d288714b0f05f6d2be724a238827a6cea285788a23204|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=501bd5d2660422f73e83bf223b123757c3bcb71ec14cfe3a29d512404e81f4dd.1780005078.825e4ba49f9bd81493c6f00434bc4d76.a29c2aace3e613c3e29402d2041baf27.dba184df475f786017f803a44ea20b64&signature=e780ebc089d90afecbe7701cef91b53eda3e0854cb036ff314748182ea0f9acb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=fb00d40401d74daf646e32166ede25a30a4f8fcc19d9fe9053bbe29fd1d68ad2.1779998099.d2b2508744f54b50cb493cf795810932.33d33d8b22b562ca55fb99902253d439.c73bef312ba933ca21bf3f6ec8aafce4&signature=0c463bfc8bc051850dc13c083e7e5c581d2b11e8d55c5b8537e5c3d4f38acd50|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=12f9cfff15bdfe8b7aa3f15cef2cd3c5d8ea7757fe31a629c983455664c76f1e.1780005079.c83ba4d0cac094118e229eea78a8e607.0d95bfc76b0ef50589780855a60333ad.6ea6ce6ea454f0ed5eef6849020df865&signature=e5efdb8c6cb994dcfc8590c6b2785dcba4d0a59b79ef0189c38b800486f365f0|x-forwarded-for:77.238.79.111
 
