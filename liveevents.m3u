@@ -1,223 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Libertad vs UCV (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs UCV (beIN SPORTS XTRA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=3a3b1ec28007b0896027eb966f27c44596022f4aa1f58a972a0438b1c9f3b48c.1779925135.28e9fa038fb0ad0494b0fcaa8cfb0b07.82b2d0f7b03f22966fd3ef49229fe86a.03b78ef3b46112ea282f53073aa62b72&signature=2df0feb615850676f15ebb5e3ab1660bc7e2239adf371bae655576a8bec4f39e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Libertad vs UCV (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs UCV (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-3/playlist.m3u8?token=5b45cc1c46d43c605a07ebe04557d032bed9dfa17137abc62c1e086a9b177f69.1779925136.cb1a3c306eb10ab62e085d4e67a5a90c.202dae50e6e5016b7e724b917781d4b9.1c2ee20fa5ea3ebde407bacd35a767be&signature=5452ad14a61f90b676bd7387e7e61ec2d82d38337d79cf4b52b0295254c7b8a6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Libertad vs UCV (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs UCV (FOX Sports 2)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bolívar vs Independiente Rivadavia (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bolívar vs Independiente Rivadavia (FOX Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=d64940aa9b3dfb2178bb8848abef7ac81db19895ad6b4e38b2d28ca516fb06eb.1779925137.db41d95fbe8398b0c87dc6c0427eebd8.93b38223c5bf26edddadc6122c2053b7.fbad2e2069b1918bb91b6a1873f085cb&signature=41ee631bbb914d028f5fe9a51a13faa56ba4865506a40f704d5826216b3a6f3a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=755d49a4f77a4aedf7445f059b3f69b02a9dc43d990185b180c540e48294bed4.1779931484.9d6f8cbaef27e0dd03a07fd65aebab64.01ff90c4bea44d1d75abe4fc2e9f1d8d.1f844798238716e1c1d08b418c71b655&signature=bcddf3b5727de6630b5da4a2c15f77bb1863192ad30c35125a5234179790ad9b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=7fbc33ecf4536ac409e6fc1a2d4307202036cda0475cb3b4c1904f99317a8333.1779925137.d1a6c1d5a0cd07f78e4161b87cd4bec8.202cc4b78b3669f7dcbb058f4ff3e841.2bb77ec32ff3e2e745e725494bb00215&signature=be5aa8e5ac094fbb6730e20d10ed07e276c14ed9a85f203bba700222ff556e6f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (TNT Sports 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (TNT Sports 8)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-8/playlist.m3u8?token=af2fb51f84e09023ada2841c2c686df4ab093693ed912c7aba30222fb76c5cf5.1779925137.af41e32e0148fa9911c13f5c89aff961.b6934fe59c2af89b232818f1a61114ad.f83b9eddd5150dec913659da74aa7039&signature=62a1063ef4a08016a5bf46769dcaf91572d3994c601595805524c7f283dcd5ce|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=50f1a3cfddf98f976b671d1d5d2e35e1c1b2cb9bd9e9bc0a94c188e3f5278efa.1779925138.8513bad41470d619f25b53560abaf699.5ca1e8fec507ae6732fd7f4f728a9c18.9f1fc8a3f9b6cab84d835d11d4026b52&signature=0be966d0b49fed3771471d7bd4b0443652a503d861b4047f2014ce557428ecd4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=8a38f4c6efdab736e9c3a05b72e9345535dc6b21bdadb78702eeca4a70a612c7.1779925138.c2008659d24e62e4b53e46e35aace46e.7eb15266a068056ec94399816d18431a.f66f967066409b6cc8c386851c8dc0ef&signature=7455e07b6b6995d1f81e8ecc8b64b2c029dc4e7724e4394853ede33db50e8930|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=d29985f7a7fbf11e8393c1e4141ae01c074dbed256a59713fd49fbc7657b1fc9.1779925139.19eff8b9a40843a0585352b170180e70.46798528d80a4d917527db7b07eb01c1.bd1845e2a011f40a21ac3c32c4ff8935&signature=300177619acd5c0d4e1da1e2f6127e6b26c0eae9d465eaaf0f45265ddbe82b00|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=868e6e96a7a7de03d1cf93c1d464b7f1e1f32e0da7afeb6689880be1543a69f2.1779925139.bf73198e4271fb26b7439eaf17a311d6.48481a753446593b8e747ecaf6299379.224118999168db75035a31a62f2b6a9d&signature=6a7c3beb0552a44be6d210faad27ac006e3cc6251df1801477b2bb57d483c32a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Arena 3 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=13a6ca36145ddb7249522f485da53596d71b88cb7a69922bdc2d6ec5b90286a0.1779925139.de019f3e0ad8562ef32ad0b915848949.7a628e08fad16b7b79b312f5aa777344.18f991c2ce5421430b740e80a6a0e08a&signature=2f8ffbd5957543b71182372e40c6dde0a69530bf07e9a2fcdc789e29c8ff19b4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=052356a7dffd901a86d63787775070067bd5a33ed0f6376e914b5e27000c3042.1779925140.ab6ffa3a4380b9c07a0fbf4a6e0e4939.46ed06f9d8ae98384b9b8a069dbcacff.4244dd462e4a6c18559615f9d9165130&signature=adc33961199d5843c98669dd2901286eec368f806466527b74a003b83583da4e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=0f9842769b8dff408c2f6112bde550a0820445934ce95d93dc62d6d2497f9268.1779925140.fb095b1398181f8d536b09bde088584d.e21558072286b24ce886969743ca7e4a.0a3f96a59776f152b15d345ebb051c7b&signature=f7f0d46a7cba439f7b711e48a97090d6f8cea2fa224179dc68002f5eea2be8c3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (FOX Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=99c6ece461dc7402f5305d27d24635e27a95c655a37ca0c615bee101d2feee12.1779925141.f4fa84afdcaf232b6105c379450d8ee6.65762e7e1256ffa3b439958433043c30.758e5cc54ebfab1bb16479ea3391618f&signature=68d7744b2f963fe382326c54a0db9401adb2acdfb1d8263449e127ed6c53df84|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-4/playlist.m3u8?token=10389885a82991d3331a9992fc24a9ebea0ed66488623cac8ddd8e09e5ad068f.1779925141.b2a2f781fd7f547a7f71cbb49a0437b4.3a717087492748a64f8983525e93d6dd.a4ef989a98bca46cd008c4a02ccec128&signature=c2fd8952947e33536a79a9fe48dad442a62e41b5cbe53ecb908fbd898fe6691b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=1c8092ad4d14b2373d7d1f2426a353f451a191a82ffd36008d94f2a0215d9519.1779925141.0009472b20258647c7849bf54f0f049e.9783e9cc704ecad4d2f7eed592418136.2dc9df9de99c46a548706ef91d6b5137&signature=2091c23f0be4dbf147c302bc47c41a78c82b1a300b44fac565a71ef944051a26|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente del Valle vs Rosario Central (beIN SPORTS 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=ecc5d3a15e10597b997e1ba342c35ee26b6a07d6fcc8b9cb5b50ea1c3d13aa8c.1779925142.dd18738b0aabe1036032dda19dbe98b7.f5e4f83c6998534c444be2e630e421ac.7e0006294bb6c166d8f96e2fda5ed41e&signature=7991600b738c7c23e55a2d2347c611b4064d9bdc23a5550321783507fb481850|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Bolívar vs Independiente Rivadavia (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Bolívar vs Independiente Rivadavia (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=e5ac9d63364d0fa426f34c8f2fc38a180cadd3ea5515bb07c2630ee040f4cc56.1779925142.757a57c1cd9999b9faffd4a9e0c10434.7ced4c5c8ed90374ee8ba29daf9ebc25.6f9043e945f6172dea4f364f8e12f0f2&signature=ce4f9055a37bbfd3aafeab970f86eeb1ded8789ff6cc1bf9f4c0403ea012631f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Corinthians vs Platense (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (Sport TV 2)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Corinthians vs Platense (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (Sport TV 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=23c82472367e2c7265aa58ba6b50e458cdc38d4c0cf9d609f9f64816d0844775.1779925143.fb328b7b1c0e99990dc8b64cef9aa6ea.00289e260bb6c3582c0af99baf6a447f.b5c7deaf8d22c2f6daed48d2fd9c150a&signature=cc417c477cbf30fa48186aa4936f29590bfe7f911fd712f4da9c15c429bd8d6d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=c22cfa2b3f6b0bfb112da7c5b91aeaee2b044dc22420650be54fd6e8ef496b2e.1779931485.02ef7cee7f3fc5cac57228ed9d2cf160.ae8c01aa2a5b56cfdbb1a3a9244e08bb.533d7b816b10694f0dbd46e54c196202&signature=08963e6142d676499d39ad63b2c942d5bc76cadf47011309f36502dd2b197497|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Corinthians vs Platense (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (ESPN)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Corinthians vs Platense (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=b7455af7ab27c5528d27aa305c563446ee65e94d56d02b39f6523f3ef4a9a7c3.1779925143.a088d6190fd1904c78ee1430dc3e2a12.e21444e85de5338f7f313ef0944c60ec.1e36671a07adf2c9e0b231617d2239e4&signature=841dd3881e1f204129341e62d962cc17085912608864348437b878cad5b6f85b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=8dd11ad37d55958e73f226448887c23299612f7e94267766878c5a7c7b01dbc4.1779931485.ae506656363bc5e697252e93d4b897a9.d23935a77a14427831d43b04e487afef.d2037d092683f0fc405612ab34d762f7&signature=4694de7a7f8973e910f5df28ba6670870975e8b5b71b78709e52d06e5f2cb3fc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Corinthians vs Platense (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (FOX Sports)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Corinthians vs Platense (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=b8e15a1b54933721231dd34a16dee726b0978107105603d7c3b4dad75a90cb8c.1779925143.17fc9513cf007a13c45bbd28e7b6ecff.a88266d067468453502dc6387145a17e.4bb042462f0bce5b29a281a9ddf356e6&signature=2d67611850b21f4b159f2f86c5428d1a1b915717773d4968f60f0c23313cc845|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=3da00ce2112a0140f1be3e639a42b75da9db24c407268e49aa118cda48d6da6f.1779931486.a4c3b30625c275de88936403464fc337.e926f99dfec9da37670ca0fc3bf3a2cd.dc32b7bbac25e2f5bd12ef0d7c3beb81&signature=7d98c2814463d37c0c060fe16e9c161855e0e963d7df4fb33fa1b1342e0c57ed|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Corinthians vs Platense (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (ESPN 4)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Corinthians vs Platense (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (ESPN 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-4/playlist.m3u8?token=b973525268f18c877b4a4e2e02ee95b5072bba43c2688770d4f3ac678638f225.1779925144.9e9971be3256c2b2beec85f1ca2885f0.28f4690c844d554f73fc9e5accd4cd8a.886edfcbd1a6678d29e6bfeccb104b97&signature=15c11d8fd89f5d15cdb80e50c65d62ebecff8c4ac43cd9f4a597146aa36d6a75|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-4/playlist.m3u8?token=7ff85603a0e8f72b25c24c057a16ede4818634e2d6ca9dc36b84f05582230927.1779931486.19e1d0b7cc9ee31e4d7f069a9fe4c049.4ca873dec0098785dc8623d9d6f721b0.93d4db87734a7e04cc028119f5cb34ab&signature=3626b4a7f373e95aead8b46cfa53685e22880d7eda984febed6b81e353217327|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Corinthians vs Platense (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (Sport 4)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Corinthians vs Platense (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=73b37665aa77def888ea269f89b7a76b74a293b120dfc799c250341ca02e77b1.1779925144.80c2bc189b54cdde95994bbabd55752b.049ce7510f4c91e8575dbc109dcadda0.7bdc7a5a076b2e4e1e2f4776aed8aeae&signature=a23c9392d42ff6ea35972abcf0d3bbd8d58be8a9ee6d6bcf69d092e41ddacbe5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=cd45a6dfd304f67c96a351467e884a87da8a0db4fa9cb5c9faa2213b2e33b2ee.1779931487.63e56452b5d65b841e72c449bb7cc4df.e2d69fec276c2c25c12c0faf3077f22d.a161832a430438e12c5069dda1a8db98&signature=1378064626a5f63e595f0af6ff2ea5fedfc7dc82b13c3b14597b22fd0444f602|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Corinthians vs Platense (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (beIN SPORTS 4)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Corinthians vs Platense (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1957.png" group-title="Soccer",[Soccer] Corinthians vs Platense (beIN SPORTS 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=4c9b1deb2fecbe82048dffbd3c9fda5b01b7d6e50988a693b18955521d2d7610.1779925145.52653c992f57b9b95da70405bacdd468.932ef0159b36a412fa5c34da9261b752.f5920887480b1bbaf2e864c200830e74&signature=64a06c32012d464c3a8e36d12b9cf23d17d26f2a2f4f9d2460ab868f12e0feef|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=f88b849f224b98f46db15fe2f2c9735a5f13232a5c8eecc8b050a8c8da7665b1.1779931487.60c5984b886447b8221f3a176628a111.b9a9e112eabbb263b9a155e27a359646.78ac66d280c78ff8faf97e13eedcd389&signature=543855b0e5eeadbd5719403a0200af8184ee8feeb5d4b55c9529fb4c794a9e61|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (Sport 1)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=7a70eb727c2cd86f609b31d6bd1983b91ea898dbb838e270855073f8cbcbc3ee.1779925145.8a9a32dc13d779cb1dea356342cd3614.4414f57e3b73a64713b64fd1c0d10a07.71d420062341f9bfb65df4599f6be3df&signature=2487368404c3d600486bf805eda68f1fd78a806cfa5654d70d37d1dc8aaefc10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=9a2abc6ab2c706b7a2977923e3ecade03058efdc1f55589be89ccec456476ce8.1779931488.52092be378bfb057898468cd2c565c5f.1e1b739d2185920bc368966acedede41.698362a48aa9587cf0b5778898ed4050&signature=b68fe423e80d70343e676f12b3212f844fdce12c526dfec99cd77eb9606b2217|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (ESPN)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=5bb7ed4424a84e07f762443fd48075132700af399fafb1cd1f1ca8f19bb25cdf.1779925145.aae24e71a3e0afd95cfc4aeeaa40f7c9.37f25d1d8e5055ca8aec88301236a1f1.8d35a1ef9b7a58549019dde0eb14d44f&signature=cd2769a6af9b0ceb9302362858d67017cba06f193e63cca3e19967b65f784bdb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=42abed830be34163e9ee38ee4b993faf053942a59cee4c4dbe1785f3fde15c8b.1779931488.24b99046a4e61cb72b429d5a740a2e7c.c57704b6fee487de24e84b7bf989d44d.c149c5c6fa95e20a77ad877cf5ab562d&signature=e08f89930d6c1b17c2e7626907e229bf4cd2baeaf8a492b1d659a73493e8ea3b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (Sport 3)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=5ab87f5d282441c5d48e66cbf8e2fe6e571e3df0f45a4a3532f6619456d963b3.1779925146.b5efe95bfe797d1076f406d1a6b0d983.5b6ebe9e65de0936128d8450a0db7903.897da0123df937cedcefd13f8dd46fd2&signature=3720f72e13a648e9b6d9b976a236a658a73ef1c062cea788e5c09635e65f3fa2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=5216dccfbe79d43fd58d91ca810ebfe896c47eeae4e6f32361c50c4a9745713f.1779931488.6dcf60bdee6690a36b9023a9a4d93d9d.88f3fcec2b8b3359af084108171f320c.da4c19f102419e6b0a55da9eaac37206&signature=9ef80680d75f5954595d83cb9f0b0ed360c59160d75c3f41a223727ff83134f2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (beIN SPORTS 3)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Fluminense vs Deportivo La Guaira (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Deportivo La Guaira (beIN SPORTS 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=942b4200a3b18f40723076e357a62742c172bc3ad2e00373bf1711792787736d.1779925146.b59bd71d7096008aaf4c0212e0387a4a.c4b9eb41d8de3ba58bd4c8177b7e4e8f.8b0ec594a1143f847b9e83d7a7f5c031&signature=2877216d4d18fe1506ee178c3dfb168d61d38c865d93a3f8daa15ee80178a246|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=6a059dfb0d46e6ee2e6d1f6dc44e6cdffd18fbd8d575cc3f5e33a600f816f60c.1779931489.40c826d8296aad8bd8aa3d805b77a122.dc6415ffe3a2dd0e53ed5c997f21a2b2.a85d337ac972d8a20ba57676056a7c57&signature=bd8f396b29d472c041215fe0f10f0f4d1064b8df24f02b5f84580224d58bf40e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Peñarol vs Santa Fe (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Santa Fe (beIN SPORTS N)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Peñarol vs Santa Fe (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Santa Fe (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=00b57d5a25afa027c628ca49fecacfe163e125d80d0041d4fa5b420214c69ac1.1779925147.074c4650b800e9b47fb1e66af212c691.f4613a75e9d939b745db400e8d438965.d4c3b3f962695fbc8c188a70486dd78e&signature=985b59e8b550a8772706d5d75b49ac7029446d17ad3d4d7f308e095c2f59d42b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=141cc88513cf2872f8574bc74705c3d31b68ee5c2bdf56264f44f75d74bbfc1d.1779931489.97dda616589bb5fa60d67b0ad30f04ee.0d3831700428c237bfe8d29aa9dd01de.3b75db89fb1dc5a4c62f3657a66ee248&signature=9a7e933ab29ed4144cca047660a0eaa0b848b00c0d1dea67c9563e7350c5ed90|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Peñarol vs Santa Fe (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Santa Fe (FOX Sports 3)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Peñarol vs Santa Fe (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Santa Fe (FOX Sports 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=9764c78714acfa3075674eda928273f5bbf5369ec158f3926c01e74ac9c553b7.1779925147.23293f3f08c1abd6eb5903e693a79bea.b3407a471f7fe2d61eb966ef6207a106.445f15828d1e8576931562b605cee816&signature=5710cff361e9294c757c99489606e4697ed4096a08983399a997807ef410e539|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=f1d1d2d6fa849dfa427a19cf840a7e4e031ec76a0bab77d394394777f54fd43c.1779931490.268b8bcbcffa3d667a52cb53cf4b8bb2.245b2431ed0d2f84d2f73be2f0cc15e3.968f6e4a1fb67c850c47955f46320809&signature=2393cfe2d8a273ecd03bc4b3ae964818bf16bce268ab39060f2bb587362c3562|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e2bdca975fa8a25ac15a9ac89d129f3640a6664442df69fcebfd15085572dbb0.1779925147.735e2a2c07d52267bac8435ee0da03fd.83b8ee9e679edb6da3f99ecf6da81cc1.c630d51e5c683f36cdfe22328d8084ee&signature=09ed474ea736f619d2ac85232a2bd7892a073376178b1dcef0d305e72c331588|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b04f8cc7a92bf6fe6f2d1b5a563b9b93c7ce1b21d443c72a4cba84118a027049.1779931490.e2ce921a9dfa9077c2ee2ad24be095c6.be8499f2e4976d100093f10c46830f25.4670c39cffb4433197038da2a9dbc9f2&signature=4c321a660d54988bd553b1d132448d19e4f470439784ba8191f41d1e99b4a75c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=bc60ff3aba67435624a7b6af9edf889037461eb956ebb428bf2d36e65d46889a.1779925148.66f36971bf762abf2855dcc5c970be08.22515a3b59eceb993cf89d85893a27e4.6bfd1da701eccdbde24755c697f46049&signature=6f22d8d7bf5a6bfb3d6a5554767ef4d5adb9a888a57d8bafb65acae5c0cc584a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=49562f836adfdf677c6607a19e5fe85e44ad3a9e5174e6b9022fba621dd58ed4.1779931491.e13943115be506711af1a689eb84cb1f.5229098c8b43cead27a69a6675b4579b.65ffdbfd8b9c358f8c7acd7e760793b7&signature=1d1ab0c17c9addc01a55ee5b832918b3f87c9caca1704d478154d0ee3ef3f5b8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ea9cb9a9cec3af4828faff02528edb27d962d2a5d72bb6347895a9b2af4541fa.1779925148.90dfb61e33df36c5100764d88258e1d9.7a1fb8464f3ea147768d31a0442d9157.21cb322c4db9095a8fe1dea99e02a6de&signature=e24aa9c27558411dc4114166acebdb673945b978810fd2cd3ecb8f4c53551a86|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=886d4801fe170a04400fedc0dea577ad0216341bafdcf4efd8bd706c5697cf3f.1779931491.129d71a9fbf5837773749c9053f9b0d6.cee6cca3157c93abcb6fd76863524aa2.e5876a67e377f709876b1c23df1b3ad7&signature=b5f57091a380cf455208f2fdc8acca31621029034967bc6a7db6a646b83d21bd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=c30d3a3409f709117bb14eac1cefbe58e5274c48e9ca3b7d587130ede9e819ef.1779925149.2833068e8e220c33a94c80b8b1ecf590.34cf26f77262b61fa8ac707e0e799545.8bc6b5d812d4729e9ac2072f981f6819&signature=007e78dafb9a3b8092208b0c3ae9516cd29c1040b5d1702180555ecbaeb53e89|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=753f417351dc7c4053c1ed8ee0edd2842a7d5771512d1615a261f74b77f0a9f4.1779931492.c13f895347695c8833b8f87bcd83ea9e.179afa2da904d481d449eb42df806549.2dfc18542e858855ffc5440e19f14c1a&signature=9d6e8b834de2211d6aa891e69b2f2ff9d4bfa637496f960fd7db3bf1f575f512|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0cb734c49015747d135c3ada0cf60835b5caaea0ca12f19125178c976850b47a.1779925149.bbcd062ed3c0ab1821f3f866de4c4341.907da8df53fe52d9b456f419f908851f.5ed520acb58c394a06690f9ff8a159af&signature=125a1887a4e4305e9a1c08d1094ac57c07e217a40a37d526c91dfb4b9914970a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=937f755fd21fa7778b2fffb7d25d0b32c7f7ddf85a7f3bb8317ab9fd9183e3ea.1779931492.25a8d1925dd1fd6e84db63a1666ef6e9.6225123603585b41bbecb4ae842ed895.8d25dc3967d44a01bd9f486345f40b36&signature=b35cb5e1ca52143d94579dfb16008cf7aac6d17b9711f73f36c7a6bab886cf9a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8347118e198ef65c080fee456b9cf2929fe45934d1aa00848245402566bc05a8.1779925149.da47c56eee93f08d0f7033ccd2ab9960.140fc81106f311eab33d4b756e98f74c.4a6d47a45f78ee3c613cddae3f224397&signature=ac96530a6f30f449e70d3eabd345e64dae15b9c626f2a0998798c6d954805c56|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8c202b8446ba55dce2f278b1ba35f186257af98b4a0f96c2c74fbb03beb1275d.1779931492.0ff1af96f45b3cc3ccdebeb78913afa3.08820de4c20c72f0132f0d3466d2bb98.8a1334f36772061ddc8a37026e2e4e48&signature=41c15cca6a0292a6b55578be687a21c919b0cffa377a48272a63f3ed8b27f240|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=def65015a538cf740a7f3f2debce13fd478047296d4a6eccb8f9492e7f82ce2d.1779925150.0d2d79bdd0b30fcf81aa65227cfb75c1.8ca1316ed282761ab7895d9dcfea8d82.a99187d9d2e19b16d2a340eaf308e918&signature=ded2ad6c70a19e6bc65e455c4a51d8a94fe5c92ff6f743b2113594c68d5871dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=babf56065be15479892add01fa6f84ac2e98abac7f91c92872df5a9d03de8cbb.1779931493.5de4c9206fa87ee6f44995df9d8455e6.ae5932fe890a84935dcbef60ac1009eb.52af6870e209d0f73b024ebb1c682ca8&signature=666164ea8019a55f966f0d6fc65729e5f714b58b2302e92500e1fabd15fe2681|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=c2bf12f5defd503cbb6f8e138b8b873b88b6f8314389361a4a94d45ff2eceabe.1779925150.3a621c9e1fd6594e813796d70b80927e.d3f4d63c1fdddf5a751ddc2fd14f009e.cba1abe3f99de71c768a0ab2481de6a6&signature=21153a9556f8cc7ab4e55438071f83ab699d0322673581b4a52af25fa49f362e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=da916c1d63fc5499c97fbcfb7ff2c74700542f5ef9904c2348ae31c98a2bc2a2.1779931493.e2103fbc617b4c48fac9671678fdd74e.5a3ae421755421350687bd7087ffba3e.e5a096eb29e4914a4075f90d96f7d99b&signature=0bfa1528e2d2e920b77b7af337a8cd8c887aefa59777767e2549f407e7e0ff2a|x-forwarded-for:77.238.79.111
 
