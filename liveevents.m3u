@@ -1,61 +1,223 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Sturm Graz vs Salzburg (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2051.png" group-title="Soccer",[Soccer] Sturm Graz vs Salzburg (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=060338b613fb285cd0aee1b5e11e76f380e19fea90d22e3711e8ac575ea20a47.1780072007.63482f89a8cd9ffca2a893848cf08f60.7c82943e369824c948c49669e1feffc8.12d50a0abc096d1ed9c2bcf0610bf238&signature=d81e0aee20fa23cae3c253de9cd2bbf1c9f799e41bebb3afde28965d21f1736d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c7e87a3425d1673d3fab601192bb119e6d7e2a4628aee9faac16fe800ae4ff6a.1780058074.2ec4b8a1388027825582d1e9db08f07a.0c2be0e572d23f4bb398b1dae2c1f453.55268cd85ee70ab7487c3e8ccbe8caf6&signature=b43d333e1fad874ac1c98b0937f57bfcdc13d80e95cea22a073ea02f7a08859b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=46cd86eac9c88b26904ad7cc1dacee04cc65e8c13c321f85d473607deabb88ef.1780072009.5299d54f2bfec8277ebb0d0e48c043e6.0107cc363f7ca0998e2309669618d185.5c88d372f2d7fa08a03948d893febaae&signature=bb213b2d3ed7988ba0923eb729cf413ce68275f129bcd28aae4cfc26742e18ba|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=54bba17bc46c9e566c600b18d5c38e6ff9fbbaa77fc8b6f89a094700325d78c2.1780058076.5cb5acaa166b4618edb264e7c0f54991.cb21b7d2fc5ac6519b932778ade7827e.bc06aad32e186f43abe41ede898ec54e&signature=7323ff1e09a87bfc6397ad0dc240c58b81eabc4eadd1581dd54950772bd19dd3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e8aa3a0ff2c5c66582ad8df377c7e525aa9052dc6af71bc9f69c386fbe6ed94f.1780072009.095db0c84fb33c4f02a5999547bdd92c.fcca14cdb5fcd94b4d9daff719beb4c5.47753c54816e626fca6959b0aef134fb&signature=ac783d74b529d1654084e5b53588f7286e0aac4cd364b9bc8dbfaff27ac5ecdb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=c628a54084e4d3eda284f9205cb63126e0b5cba48a9ed53d16646add3fcbab1a.1780058076.16792a54be277fb13aa180914d0bbaf0.0c3febabaf80beb45ad2cf168b8aa4f6.8bbe668b90c94f0893f8b1d8eb83b204&signature=959750e845b6e10c572f1f569fb151ca77fb5b8375c8d68c7d9c86d7e38001d4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=71e9f40e3674012a2003b4a5b312d5a082089b9f572a29f99705059b253741bf.1780072010.663e833a6de27b4e6af2bd3fbb027fed.fbbdc7c4fbc2c1b18a5e1ac9b8958edb.4a95df574022a09991c7280c7419cc82&signature=00600d9a6eed7c947acf8d5ad8aeab2d3111655abf7f3fabd07422ada68649de|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=2ad734f5d3e0e285c3508813255a645681398c8ca014c20985a3830a99ec7a6f.1780058077.28bb4ec0095d1423c4659a5ed3ec4001.511e1145d1dcdd0405556c5ee3ff4d83.af887ea3604c8c3f2a32ea81b6767dff&signature=7359752d27eb30e4828f3b6b590a4246dcc9bddaa49617dac66c08e9eff76c75|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=6a7259aae6bf6c878cd94730852e9191d2d00879472e8bc134b5d230c62f1f05.1780072011.67e3304b6414353647e164760c3e6fc5.16f08baf4e570036d86a683190575f11.994782d97cdf36c9f9eee9ac5d0b5690&signature=b3aec02557bcec22fd9c16ca0ada102140b8dc874f888aa41eab352bc491b31f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=2653905e1d815f356a29ba9abcccc21ef7e872524f1cf69e4467ad3a0361e9ae.1780058077.ac62959ba7c3063fd1cf8789395b1014.5a8eeb3ebc92624d38308e8aaff44a52.73d7d1af431bd30b90ddaeff8fcbb3be&signature=41e550f5ec2efe4ee4b752a1cf93c8f0b1a2cbebffe6159f4ddacc2c80e4dd8c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=2d0db67a01cb31b10d90247f214fec9834d74e3091273c3ac876f94bd0ae5c8a.1780072011.0b54291ae5b3ac5ae66f9dc1bcb34843.516aaf36980a62ab313b4a85677fbfd6.4d68e34c4e373b3793a1c96dbb4d0845&signature=30f6a36d3caad6079f0beccde8cd703fc6b6b2555df5cb09c812ed534e3d1d1a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f83b1670431910bd228ce1d8a8a34de667e1d52fba7000dfae5a8df327568ea7.1780072012.18aa405609707621b4ce0958b069f97d.d505214c00ce12780bf21d54067211d9.3c83f8bd891acf30d63e707f5dfa0555&signature=d3d71bb1bcd350335319b9b7faeb6a21ffe5943c1dc181fca54dd30da88983dc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b5ffdab1c43436d31dd749a04ef79b130a670d4822a5caf1d4c603bd918c6e96.1780058078.a630361745cfab46171a9ad78c4d6f12.ceb23ad508f1e8c5652c21976428a7a0.5f88c52afc88d9fdd489255b27f70bfe&signature=116f8fc2b17189be99c853aad98e2db826142011998a7fa5fa570a0cae5680d1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d69013beec0d3d3bd202c5c95afd15e755eba392d6730897772ce09080b64e08.1780072013.beb91adce21a1fe5c797d4c87ef0de2c.bc9604c36b839f849c8210bdc4a7bb0b.5df51efb7313264498a430706b58350b&signature=167fa154a4cbda95f47ded027af0b2e12c27d4ec6a9bcf1a7d8045c20feaf2e0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=b3f86a1080f833a50c407589a424386176b040ec6cc7007e6508528c285fbbe7.1780072013.02b8fea0eb11ec42542f8f09cb2a4438.d314d1386966f7520e9fff1f8ba3712a.8662091b7ea7eac88346dfc7c8b00293&signature=26bebb65470cd0aac89cf97c04b256627676b727481de982a0a9a36cefc918a9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1a359f23ebb9be5dd0d189d653edbba3b7e73ddbf65bf74624e0320da282a9d4.1780058078.ee4e2ef8edec5e187c57b14ed0530019.7ad487363dc0338f20fe6ad66db9c148.0df48a0ec93953250a1955bf53223855&signature=c41e034d41157e2c7bc2c2af1a2618ba3e8d19b2e391a6af2335fa447309f8ed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1d28c6be34bbc88a219d967a13758665c8f595bae3ec6cd51828ab7e6bd1bcaa.1780072014.1ac35b5f8894562b3762f883a2b6f8a4.40403ec8fa4ce938e600db8ba090b31b.bdf23ddcb10b7b32b0907b61a71cc9ff&signature=73ee512c2afb78f1a17c87cf19e3f0150dc77454ea654b134288c561a0147be6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=fd8fd6f56e35cf5c426f6c359d0d49910ddf52f688132a79b359d31f1813ee04.1780072014.786c8a8736cecf27f23088438c096b1c.cb5947f99ee0211fbabc0a71417c5db3.77b1fbc4f46b9af504695c6e73958ac7&signature=b81f60c279c2c4139ed56a63ee9d220d98fc21c61200612c77d5e8efa5c7b157|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b5dbdc1c8e10f81cc0dcf54605b764fe4ed2b734e7e4bd1683370523dbc3a8aa.1780072015.899606a68fb77c7777c45f1939cdfc9e.1d490a59389616099b60f3c80836350f.590115047b31e225b2fb7135237e9ea6&signature=24d72fcf2b49bb334075e69be0fd00329af5d2dd7b2b2dbdc362fa30ab4b9275|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Stan Sport 19)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Stan Sport 19)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+19&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+19&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-19/playlist.m3u8?token=420156ca87e7dac3884a4738cef906017bbf566d0287023290c4ae509daae546.1780072016.52cb741ed2796758795dd5eeacf2fbc7.b92caa6cfe10bfc079b1f57626c38144.39f5141146433549c931970a9957bca2&signature=419bcf0e4f4b78969ef930b4c9fe0c1e23b54df305f334bfeafa1f1d92fc6119|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c0c5566a08d85225ec312f86e1ece7810b573007583e2c01f5cee450bb48edb5.1780072016.b5c757dc75e7b7cc8b8736cbfbb7e7d6.bd51fe084b101e58f4a072c41a743bd9.803f1f82fefeca432b9e58bcb39c43cd&signature=7f76e79c79ffa55181d2b6c8d5db4bd3fcedec8b52b5c22ac8a4ecd3a17c05ee|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=1f14e3a2d33f6e3c7597a1b07491e60e0003884c8f71f1ae8b2d0013fa77f8a9.1780072017.701051f4ec92a99ff2e98c7ebdb847e3.ecdfab2ba23985a1e0ebac96d14daf78.6f67e9c0ff4fca896541e9b2b1459acb&signature=113e2d2c6c74dc2652f7521bd4e2159228f8486d236659c7bd5edf6cbe592696|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Vitality Blast Men : Rapids vs Bears vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Vitality Blast Men : Rapids vs Bears vs  (Sky Sport Select)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=c47b20b7dc4819ec5679dd22706174e87f4a9adfeb7f858fac2f44c432cbb282.1780072017.509254e48f90829bd4394a14502ae912.4d3b2592735beef87bc69d551985a0d0.9ba86a7b319e379a0f4ecb05cedc67d1&signature=b6f7fa2cf6efd6649555798b0e7d5a9845411b1825899913b029683cb10d4dce|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d3bd43f10a7102092ebcefbc7c72550f726a6484670409f68382328ab6087e47.1780072018.1522109a743de242a23eeb3f940fe2bd.0331a18ff0a29e8a1f901d130daa92c6.ac278a8b000aa617a28cc63897b4bf8b&signature=696c7ed42316abf03b9c8a21da426c234c471f1ed5695cb6d822a0ce4e4e712c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5b4f011d1ff5f2586fd14507dc5d8c03810f35ab728dfeb7e7c3cfdbdf064754.1780072019.ac2b99e0a690f4a2afb0dd0db7623e91.bf2d2a736c156a22bf4da6e783ca024c.b734ccaca9ab3f20ce48eec7c7792bba&signature=b4236da8a13e6487139c4678d6f15b0cf1d94085f9ebddd9a2d22ca7534ac9e5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7b5d32b12050c181574912439f02df1e432175649cbc0cca0094ae09652112d5.1780072020.514140ae31a4ad9f39e192ed1e416865.ce2e5554fa494d9d219f541613885263.8395eece3e05458d56cb9b94d0b46e21&signature=cf0575399053e95118b9076a4cda746689790a6f31896e9121b43cbbabb141bc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=6733765bb6e2505dfb115103da620c53f731f52c8d6750a99f72f6961609dc7b.1780072022.d3367d5177bbf394dbc2c24e63ad1924.6dd8a9f2311f721d779e22bc8b83d8be.d9031a282a79b0f079bad1df9460080b&signature=9d5b4d3928475174cc41f0a011b2ba1f01ddd754594dc9ecc45c5e766e266c39|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=a657e80defc9893902e30f16007f02d18962f3c8bcbe51968695c6f0ccceb908.1780072024.f5d1cdde2c55247ce5d804b461c51958.6656bb4515f2d2c0ee851ca1a9f967c7.52085d09ea8397a900958d4ca4fc4b39&signature=c69ed6caa00fdab4087399ecee1dc6bbe51f96e2f00e75f864e9555bae76eae7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=d8411047df51e1d5c0a2961c9e75dc0fa2861eeb01e22fe349f81198b8322940.1780058079.12213562df5c67a2edca0b39b02c358a.4e5ce215978b765f78cc156a86d4acd5.2bdeaba55b317b0dcfab013717b9bb19&signature=1b43cbff82253a489c8e0e3debd5de6124a1763dc5aad5b4fe604b0315ce4289|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=08d07419c5442a345f4ea17ff5eb80269379f5803ecae2781f9edb65e5830c8e.1780072024.2288756c39f7dde4ccbc54502197de1f.4bbc7768b417b06d1d0b0efac5557a3a.8f29da26a025b3dab8c8567cbe07e71d&signature=d15e6334e5f4f5ddabe0d8abf67b4c3db614e8013642c364df0c2677a23bb626|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=628d038ecf9ccbb30d22019c03592b6319e9819a93df02995a6bfc4dec8d300c.1780058079.b66cb26594d39aef96e1c665cbe50c7d.fa8ea8223966822996f52ce48cdf79ca.bef3329cf9a098b4d52e3e27c95c58a3&signature=fbf632d807b82f22b1caf6175d0631da0cb46f2dee3c640e8a35593efec158a9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=d058cf353e300b5baf946726c9743aab1e1a2e307338166dfea9a5f8fb1ada61.1780072025.7caba09ba25d03947bbf6196f2a2e9bd.fd88bb066d97b4a900d4335519d28bb1.dcc9c32ad9423c13aaa4b2f94e1b4e63&signature=8a020f9db16d56af27ee140b5b0bc385348b43cce101a57d039cad3c78caef85|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=9a59c7293f92f9812599afe8cc41b29244be5cdb62405c15dcb0c8ddcd4cc240.1780058080.16498e976e171e3c5feacbba845e82e6.9237c0bc52f6dd3d0f05fe14dee1642c.60b97f5b960a8e9a0d39ee5a61976b95&signature=c86bf7b1755705942fedff6ca6ff7692cac6655184c7e540781c75c2267c93c3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=997f02caf61fb8d1b8cad8bc413a23bef3c5ebe7558c5f289dc049cb157eae2b.1780072025.983a4e1d01db865a07e7883d27a03119.c3708de57715bcd6979cb16cea65c282.d623133f7200d06df14b446f9d776014&signature=370ddef91ab5d0ff529c6bce618ed9d799102359dae3f8a543c3dfee32ed917f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=81ba448228ab08bc325b0652c828b3bb8749f71857070995df4774b0a85111fb.1780072026.7f54e7b3623187edd5da099a702f3824.ce9c1b093ccde5e0ff978d3af0b2b05f.c1bc05bc900f5fe8ca804d98619963a4&signature=261e4aca5dbeadc8f1c0b128d2466fc74d399ae7012a7e3d9989fbabbf6f66ad|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3f326ebc93edfbe1443ef9d32a0c2e2f850730c419c312ce1d039932788462ed.1780072027.a8caefeddf00083270598ee104cc3ac5.9f4717e28cbf9c97de23558271dc1b8e.67c59eb403c47350de252ddc73e7c38f&signature=89acf6c136c94e106f555416ca25e4717f45aa57fa4d33ce41a98e67c3c28140|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c1ffdf8b66f72f508ea39875254aabb08d5c09324cc39d11ed40df44c0cc419f.1780072027.2b702fb4b579ecb78115f9bd99e6f2ca.aa87c070b3dd94d7faf99fc9b7e0a828.773078822c96589ed88de6dd3dd4ec34&signature=3ca3485b8d441d5c552e036e6eef58bf9603ec5fb417440d714eb9f952d48647|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=916de62b67c2c5089fc280b6de78a1b9a31417e5bc482f1cd381520f350c5351.1780072028.a554b47a2fea2d2776dc23947e89c0ef.e530973353edf4dae589fb109d9b8407.fac064985ac4f043a629502e87b665cb&signature=8847dddd14c7713e156549f926157bb879fc868408f8eba51f5540341bcc7c32|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d5065d331d466a4fd4821cda5d5e4be9238702fccb8ec18df1d02a04a24febf9.1780072028.6f1cc31115f01499ca2d8e7e4aef9e7f.9a9c0ef41f8e4a45c14ba0aaa66edbe5.b34f5371aea72386184eb47f54b3a89f&signature=29581c3d016f71b74b871b56913c3cbcac91804cd5685743c59648a02faa586c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7a8e13c92d927f1a469ef6e62df190ee3581f7c0f4db83c68aba756b85b37b86.1780072029.b046766e5fb07bc33ba6f710e02e98d3.1ce1f522988c932a63534c296f9d9220.4a987e366df4e1dcb999086e9ea5116a&signature=cb3afb6c41f27b49a58416687ab5756b1101dd4bf164c01de4b5f8f8dcf77e22|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Stan Sport 19)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Stan Sport 19)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+19&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+19&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-19/playlist.m3u8?token=11ab3127df30d2bfb2f23e00505de7616078af283f5b6ee6294d3549d73adf25.1780072030.d63f60a1e456381029ad38e8e9c93822.f4e94d9e4dcf7f2e36e17ae0bda852e8.5db3ea36db10ca6bcd3e43fcc1cca65a&signature=7a325db98e8427514160a31e78dba56b110758c052c15d62848fc11fe8ef06a7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=dd70b769501902b8bbd2b1c867129564850c1bad7cd64d2bb85da3927a328d45.1780072030.bbb9a93780db61a6ab5cc14988d51752.1c8abe6910df29f9436b71ec6e4680b4.09df3c7c5bf92a8476a8c8d864d479e1&signature=5c1924759853220de3d1b948bdd9761226cfbd6681ebf52419eb224a35211e9e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 2 : Gujarat Titans vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=001388ddd7580845abb988a10d4984e7eae2a424a1b48186ba818910d9a478d0.1780072031.39ce037b58dfab4f90bdf4a985115773.392954ea2a95c690699b085fd34bf711.14c291a3683a95692b137aa4007c2ae6&signature=b73ea11baf5ab05fc13bc18385b1cb85648f405f6a7f6ae0244b7672b4f097a1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Vitality Blast Men : Rapids vs Bears vs  (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Vitality Blast Men : Rapids vs Bears vs  (Sky Sport Select)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=c995878e31cf75b55fcb27d4b9e0727d8dee9a75adaf96fc20c014ab05b921b3.1780072031.a7fc815deb55fd44865f22fcf1cdee54.af3832d1731f6dbb4a2c3dbc0c93660f.b3ed968598876db94b1469e019aa36c8&signature=0a4272117ac58743f0580b0f707652e40aece4008b67d59b7a9e5af5f4b1c034|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=5266c8135b4f680d88333ecbc3408eee723aead7a7050b94541a1f51ff80ea0d.1780072032.b0206d5a1e01a3f42a072816c97dea3b.00027ecc46e44673c8fced11082b6ded.04e09109ba9888e7a0d0c522b1911b9e&signature=24ae63aeb9960388f856fea070e8bf7f94d105a5b34efa1910448c4ef4b5b911|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6674d556bc8d7ff449c1ec4c9a47f87cce3ef709cdb18b936a30f2332bb6fb0a.1780072032.b8edc50a159d579fb4898c2e75810161.81d48823fe793fd4f4a5b4d6a870b4a1.24dfb2c1af1a2cce53d782ab2bdb3784&signature=1012108024ebe765102090b875c9df0281d82bb0206f3d26410894c37c0bb216|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Worcestershire vs Warwickshire vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f6531144c13ff6b48f7f7f02c0ee2ea596e43b625c500943cad97642a421f9f9.1780072033.a4805717012bf3f41d88e845ac41caf1.fa3c19c3a56752b37f98c7744b27ead8.8f3fb6339b4e02e2a04a83a0008e28f7&signature=08c3e6d373114e3167b3af8facfdc3cb8e56fc704312631e46ea9ad0b3433a8f|x-forwarded-for:77.238.79.111
 
