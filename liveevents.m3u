@@ -3,47 +3,119 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=faa65a7dc254107cf46af142a9e848e62a1ee152917b8aa5413d83076f8d7cca.1780223153.5e42479ece341c92e7a9804f644095fd.d0bd67968b1cdda372fad84b4bbb2631.2a5df408773b161aa84f6eaf3ee280fd&signature=2c238fe16d2d5322c9a610ece904c86f83a5aec68aafa201bbfceb25c0f99e0d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=6319649343f945d7d727af456da1f390b8fcdabe54c5faab80001241f4ff6d8d.1780228997.b4bcb4d865d03a903f5d7e3a0911e462.c2148d1e88ce1e72a170de3a6c0f6f34.0da5478ceb450ee33fa693142d6130c7&signature=5543d56e39c3f2d017940de65f6c756f3cc33747301732468323d9ca937ce1a3|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Japan vs Iceland (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Japan vs Iceland (M Liga de Campeones 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=ed56a8a623b6d8c6b59aeda74685bc434a54f4ed60c9eb60dbbba746ccc144f1.1780223155.46c73c34457af354b057994fc18a31e5.a6380cccf11f123b265b315c82d5bbb5.57df6b317abe06fa817f0f28320864b3&signature=b6fd4e44b37ad4b7b65e1c5b9358ff081a82d02bf5708144df0de9299daf1a68|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=baf502125fccaf67359022fe75d6a583fcdf09eaebecdc61be7e850d07a4d48f.1780228997.0ba42bf589da5b1a22552fb8dd9473b8.10e0aaba61246b1c37e00176b8879931.1ff55fe180a45e3b3d8daf287e36a31f&signature=fae651a20d868093f6298632274583642559eaed592d1ae88a942d9737b3f9e4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Switzerland vs Jordan (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=7c04f9e8c9a6eef334a3bed69a37b43bc44e6b1daeb28a888e062275d55ef1d3.1780228998.4469874e912782e33b0eb6ee2cef2ea7.b0c6b5e68b9e68b4e46da0af8cfbcd89.0aad40e837dca19c4ebe1334ef688df0&signature=ef369187207098d6c46d0c616a2c11af520aec77c6af7799e04a83ff98c5dd9d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Switzerland vs Jordan (Hub Premier 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Hub Premier 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+6&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=c5dcd0584153f5726c656a8127378199eff0fa49eff98c6d22b582f62f136651.1780228998.efe458c94caaa36e3a4ca6f60a49462a.92e8af756dd2e1759be2a4ed2db476db.2df6a09dd22cb627fbbebadeb49f7fa7&signature=1aede8817be516b7e2cefa81febb15167210f20481b8453e06fb647483527050|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Switzerland vs Jordan (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (SuperSport PSL)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=661a9b2840bfce73770749bd96492c8a2478d22d76b20e6deb341e144cb4b9e2.1780228998.595689ed3cdd52709e427ed857cec5f7.31640d7552b1732fc9f053455b12f28c.2bf930cc8b554da53c6105f94418482c&signature=58140c8ec388d459522bb82a84020f3873bd54c11f4d43119df6c7c8dc4bdfeb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Switzerland vs Jordan (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=3c11c626e41c5071349b793e2b1cf006ee52f15cd54623120a0e681c5aa62324.1780228999.43e074f0e888a99eaa285d52e578ef63.69c3b46f5b17bd7d7bba802aee1f5b97.29d459c3b82e0d40ec077b29f96112c1&signature=98ea17a3b2cda7a14b0c4b402fce914d67a8dda94c16f68b44843a83224bd839|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Switzerland vs Jordan (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=710c2ed89be46306b61af17f9274bdc8c37633453dc046cf139e44e941dbef5a.1780228999.ffb48f0c06a0701b375627b600fcb498.7e7555b8ea0ecd861458ca43dacc7bc2.fabb2c9d00c3f49fddc0b8aae05565cd&signature=1c7ff26d42a2f4650f20b1eadf9124306bb23203c6d8bdf7b18a6dba0c7535e1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Switzerland vs Jordan (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (TV2 Sport X)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=9ef233a37c0747b72b438e44e2d932746bc05cf39783304efa35cc8858582260.1780229000.04ab30d5bdb9ccecc8d71a41c7961f38.4f0228e7188de6dfd25d0d90ba5bdd9a.c459918266015ab6a837369b5c5f24bc&signature=a16bca1103ca12ad12c4ef2007f602b281844bc5faf97c4214d8968c438090e7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Switzerland vs Jordan (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Polsat Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=8432b575e6c5e52258aacd85f60829bb54209d1f94f9185781cd71bddf2ab330.1780229000.69ec410cadd296230ec252e90a861488.b4c8fb00c0e8f6b399fa1f9da8132eab.f7a47791c65d202b4ab08525faee45cd&signature=50511f98a33d6f35d587ea44d7176b9ebc2e03fcd0d1cab0a637a00d580a3732|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Switzerland vs Jordan (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=867f9564ff36d5c6e87e98b3103ad598fd5b4ccb2618fc1faa2a004e7749c9ec.1780229000.1a3aaa689351ebfce7b053cf2c3ed41c.6918d6e98049e34690bfaa4717600512.e46f2a936febf8f3098cac9bdfa3be4f&signature=f9ee4e5f506e929d0cb81f8a94ff856eb0b5eb558319193ab077070d5c42cdb6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Switzerland vs Jordan (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=2809e42fe630b134172f59e211af2eaf50f9a26548af6da1438ed470d81492d0.1780229001.f17b3bcb068d60144aea24e033459449.e71076597c346afbcf19454372c905e7.21edfd52c1a2943cb8de34b35dc221d9&signature=c4da4ac84d28384abc1b3722615eaa5f688f424b573d00bb6cef9f1c3c50fa3b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Switzerland vs Jordan (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=65334860d73bd5cb70adcece962e5ff3afcb6914ba008bf85aa83702caaf0b5b.1780229001.8d0ded6e7f51eaf000537687ba1eb37e.349c59fee697723ce4f3fed352de27c7.86119d7246fead2bc10e789fecc79fa4&signature=f66fd9075899851ffb1154a20d843564d4730867c6ea23b0ea073514758be142|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Switzerland vs Jordan (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (Prima Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=86385cd64498f259c9aa93a14fa52068fe904592ed54cd5361add16ba65d3f13.1780229001.6fc02d72a5fe0c5a72a33391078a930a.9b2035735040226b4767c5fcd7513f7a.c618c13552165b72e43b5439712c9ebc&signature=2504b922cff649537144d0fb82ee81b703da2c4adfbeb91b9dc6e689faf04fa7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Switzerland vs Jordan (SONY TEN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Switzerland vs Jordan (SONY TEN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+1&code=in&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+1&code=in&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-1/playlist.m3u8?token=a95ec010420e664c9d50a1ad5f6cddf6ec5154bad596dce8c15eb907c5e81ef1.1780229002.1c79c93b969332c0df017a609005f368.e21dcc170a9f2d0d379b01aa0ef574c1.96d5e86930ca1d59d2ca798c37931699&signature=117cf78a16c12f19058827ce2362144cfda382c34abe1b5bb39c1f27bc29c337|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=b167ebb9fee76a6b325873830b9b900bb5171c5695f5e85726a9a472b03e0423.1780223156.2ed029cc7f64705f7d6cebb4ebbf0a8a.8b285df8bde16c5acf1b04b3feb41f86.c96121546ec2e2aafa072c7e688bab50&signature=be1f1f00ded7da4b4f63c17e4f5d1aa94d551aeaa24818d3bbb6a3c469a9b3d8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=0db8247837f4d45eb94f70c6a82e04802858df9df029861fb61c9e69ea61a97d.1780229002.80bb6f3ac87fbb81160d1e27433a79cf.fcc08ee8c5cca216e6d7651cd16d9aed.11da5814b5835db622fa00c46c832146&signature=e71a823e25e00aec87e8191b3ebeec1e7075f78c3b647238e3aeb40464350585|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=79739f4a34b6fb58988258a4bba71cf283a133fba6ac2e7e670571e622b3a445.1780223157.6bd0a3c8d7c5674bcc195cd77c342423.a7408ce40cbc727b0240cdb9f77372d7.a9f1f06b4f2955b8ae115e24a041cf7a&signature=6ff68bdb8247d11da0edcbdbe84fcf2e79ee49835bd91703c308dc1eccb97c16|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=88e88fe35a12742c52ec5907f34a393d680bda6277076d6aa8e84417ccdacf53.1780229002.7053ea888d01c5c5fec91f6ce7139919.409c76c1cad63a5b230c60f392ab7fa1.14c82bbc2022671c67b12dbe89bce28f&signature=40ffff9939a1de3527c9988773cfad76841e077f35b16aaab5d42b35d3d480f4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=f5fc4f89f0b9dbf307b5725bcb4cafec19030d6d890643e94d029eb23becd4a0.1780223158.9634fefec5b5155a8e595a9c501832f9.826682ec28ac8e783feb0535bfb8ab59.f3315029f0a5597a5480c8c24427f39b&signature=b577924dec58e732f628538f8703f6ceeb551ab793e4392e926ba976a8f2cad6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=26f661f09eb959a39332766ca39d5256900e4a01db162e10e678ee7e2cf825bc.1780229003.82dfa47964c7b627990af2670896d755.827e3e4af4c1bda7e856087064c7fde5.c8a183d171a098e3e374d5731d387a24&signature=29574d323a8ea01153def345852ce9c09ebca83654963c3ee69c3128e9acdd09|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=59dd829a797fb0b436113668d904aeacd441cca59c34b55c8670b50ea53f341f.1780223159.4a06296206fb8d7a2c97d1c952d1a6d0.9fd902d7b47cfe54d49a043609fee565.e56360784d5f97770b0eb264e21280ed&signature=fad3d44a12687c088f8c18409f4293e7ba7b6c98c96a54ff44b7a65a091e94a3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=32a21656ee2482a59d33e852de1d082f5d8d2f409eed9b991efad4381cf09554.1780229003.3266ba17649289030f12715a3ff89023.a465ec6793562411869bb1affc51f389.916b5679599c571499d4d3c9497147cf&signature=c57062474e3e6622df2d19e3c708497484b6d7cd37cd7920693f2eddb0e41ded|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=78cd26e6589c955b94c9259ffa5997828e671c424c9f0db5ae1016111f146112.1780223160.7674628f9320f073585f377bcc2809e0.28ae9b493c1b267b12cb5ae343f9bfe5.851703506d772db06978dd7d8d215be4&signature=3db7aac48320644f00457916f806fad57d2782846df23405407d05bf149ea573|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=ad60f82fc766d9fe10d71438223ec815594c05c5fde381fa2baccc48ad0c0345.1780229003.d3e243be7a67694f3d048abf6d68c6b4.e87274b952f1d6ce00fd1c37dfdbbc9d.222fd06e51a114cd5706076e8f0ce32f&signature=530d0892d95c8bc56c944dbceb206afd8ab40386110f7f3216dd666da77f0c5d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=b15469c48877df15bcc19d5bfc0f0fd0d9e75e9e298a8b3ea9cef7e402f29a4a.1780223161.68a734ba749737511d5bef768e2217f9.612a3d961fa01008e3e0041500c6cb56.1cbae6c90994555b46e1220181ad45a5&signature=55b69ed7e3eab7d6ac9d1b02256cc77069995f5ff2fcf80afa56ac7b78bc11d2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=71e4d50dd9ada07b5f25c5f2c9697f74e138080a2fc29acf3af9a3e2b9c0d822.1780229004.d5566b6176e62253b7467732ac81b5a2.a9601da64a84df1e754953594a1e9024.ad907bd0eb4e252bb01b6d0231dab870&signature=daf37d0625d638a559727db0b8220e5967e0781b021cc074715b97deee575798|x-forwarded-for:77.238.79.111
 
