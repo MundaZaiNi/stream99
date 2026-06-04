@@ -1,85 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Guatemala vs Czech Republic (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Guatemala vs Czech Republic (Polsat Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=da437351b80030c9ddad0c933f89b59d6ebe4eecf5d16823d63399454f7390b7.1780610945.a300deca589f1f3213418af601b0772b.360bf2c10b167247328d0548ca02aa09.ed6b14f4e9bc48f2da6464420b28a175&signature=64550b4253a8dad2029351badcf007644691944bba856e657d6ff59b4aa170e6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=17f3222c2ffafc63de790538ebd3f4200931bd3a77b597e778be370c7c665b4e.1780616318.25fd00725ff63192506921ee3827089f.795cbbe331eb491083477ac5ea1fdbe8.6c494e0f438dc5227b7c6f8f72ef3c6a&signature=f7e8aad37c51f0337611639bd595c890d6209054f1c1aa234739130125b2c43d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Guatemala vs Czech Republic (Sport Klub 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Guatemala vs Czech Republic (Sport Klub 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=4eba590b8766c6e467df9e71695c001f743e1b5e223532dfb6cf1ce9e30d0018.1780610946.7b487294fe8e8c66cd7d8e2d3fd9d9ce.c36c39126685837889b0ae12bd9adf83.d39a06cb925c32cc52602295615cbe66&signature=756b79f01df05b50aed2a8856e03fc9d7ab2f1487a098b0c84deafbcefddb7a8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=39be5371dfcb85ff6f7609c33d6f778ff2a2df8972bfb80c3c63bf7bb1f6b533.1780616319.d05f7adeccb6a152429ffa911c87977d.36f837f62ad5f102c2e773dee9641206.081faa0ea074ef8ed3d2b0bdad3b7f80&signature=2fa7c851868394068fd541263763c85b931c94d850c0e577db198e67b6d05960|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Guatemala vs Czech Republic (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Guatemala vs Czech Republic (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=e06598775aa8ebb0729c6542e4f338884f61f382245371237d35af1e4b327c85.1780616320.a55e3470211782eabdbf6df60af5c177.80a4794a659b6f0f612f6a2d64a02bda.789b5b0d7dfc2b8fadde818ccb66fec7&signature=ecf893ca8701d4e6dc19cfdf21f5aff14df8ebd872238134761381ebe98c6692|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3eaec64b6c1ff310c256adb482f827ede885fa1d86deec94d49762938f05d203.1780610947.9172fb836521e3b46c8b4e5e5d3375ab.e38f237ddb453a9bcb7de4a33e99f224.71f8deecb16d557df51ed95460be0860&signature=1ff9a62748b40cd95436b309e759b2acf53719102b868580a899673115fceacb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=07974e0181f18bb67ca77efd798d933605c730c6f22f86d33c759f559e9d4d9d.1780616321.02c3ed1627ba69a74c7cd4e60e61b64b.84d24272e1d1c1a239593e3d8fb3cbeb.728ab50d7029465126f5ec83a266da47&signature=6c56d5448a9520c2579d397a058de39a93bf289bd728fd846a9eff109b27622c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f4b4a9c9c0d6c0cc314e40561a96aa78ef58b64bdb13f543a2a0781f3506abf0.1780610947.43109e724b76f8914fa9206a6b69ef1f.f6729252fa351fc172d2895d6fd82796.6fee079a0afd10a82143d6b1ab315e74&signature=b7dbcb3192e7f6888e08a15231a33ba196106e611f0c6fc4ce272b2d58fb8721|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6d0b6f6368731c619265ac261ae11adba1e9a1cc60adab729c7c68fb474a7f73.1780616321.44dc2b39f7c74edb06dfe149149fe6ec.edf698cea28f0e7bb4190c33e4739f21.523b2e382e255679ecbdac4eab5f7044&signature=eb09d9e7b3d67896363e0db4a69cc7c66f94f09883829c311dce2cd660edb314|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d798f6792c6926f40c66c2210c372f9cb09481d733efc541a9803c70d577b9a7.1780610948.a8cddbf14d764df702d103ead712dfc3.cc52e82516255487730e2081564bf5d3.ff1c92dd35029cadc3726f2238b31fda&signature=454ca60307b78ae34e902c584168923dee67540c40c0170a224546bba4076015|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3d906a0ca91c17bf4e7d798697273bb346da753e0fef6f6729c90fc77e770257.1780616322.c46a37306b2874f49106b72fbec41e82.50b05fc2bd58fb86802a800a8cdaf115.923945d69d4eaf1fb5408c8ac110a29b&signature=8f8caa1ebb578ba138a58a31b5e6bb96270f516fbb7e5220ce7d1bebcfa2c10a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=f94c0295963233f0909765ad06170184c28e0d7f781d798a44422e1b324b0eee.1780610948.a1526257d9ff244ffc32bbcafa171539.4a59ffb75f1510438326fd61665e1511.4fc1255bf43f401c83825b52cf15a60b&signature=57af7236993a33d5b99fad3efa0fe171d7036b8ea7d8f9859288e90fa50f4b27|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=50fac954c024cb2e0d606669aecb142da401ff27e3721ef26a9b5542b37bac9e.1780616323.30ad15abb5a97a3cf9d22b4e37b140b1.42c84e472d7cdcb8d2e1a3d0f30c19de.8375b112adfdb1300f64999f62749e7b&signature=e49fc07e898d88e9e66f8a2ae43e6b9fe5d7b071390565fdd36dc244c6d49a8c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=348f80eba3eb80f21e11c8c72e29345eab1eada6b9e0ddea4fde011a824f4d99.1780610949.6f20fb04f96d8c9a318eaa2a9f9dc0c9.1d8bd9fbd0378080d9dfd923248f5b60.4f236e8595dd7c4376de3170b7d9e20f&signature=35252f964237f1bda68b7d1201793795ea8bd3b845a5e110121719da71ce8b5d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=804969da186517f363dffec1cc153331a31918688e17cb74fee30cfb6345a679.1780616324.4fb28ccba737c94e01964509bb6b6ccc.cbd4aa7ae9d2c85ebe0889b15ae46a2a.c7bb47d2a238c5e5513c818610dd3adc&signature=fb731292558308b300f54cf059eb658f1623c4c57dbe58593f05125679df3585|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=12924f0d5103bd7d28b6b813ed8093b0c975a1e34cb27f4e7e43319b9b60bbbe.1780610949.30ab2e7d12514a606bbf09c7512567c7.d940289be6ed764fc6ac11078c6769c7.254707383c58c12f8bc856af390d51ab&signature=d52c28bb7ba4ac4ca797bb3dbec8cac297b629f3b809cf5a6f88382f0d5d95f7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=9c5e50f4c3f06a51ca4e1d6745eeddc17469a3e2a20ecf0f53801a33b47b0b5d.1780610950.18a0a665ad989c17249a4e39db3da3ce.a36eaefa0c74e4fc39cbef693d7fe973.239f4f008b717bb976cfa1c23609aa25&signature=cc983383716cf578ab361def71907441b80e2ea35430294ea7341433fc02df0c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d7cc9f4778f61e4ce6c66f86297ae4950a29fdf8cf05f689bff6ebf2f478cc3e.1780610950.4c05840e9952b91193d0f97182c70040.c5d1e90978b84cf7412f0604d35ca631.c40ab4064e38997b8c9fcde11b87f1ed&signature=1c30baee21d1caedd7fafd683bbf9acdb3ea663a1e147ff52f44cd82236480a3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1f7dbeae223de68b6d1487673a63096c80b77aebbeba4387cb3daa7307ed1a8a.1780616325.701cbfe865073b9be01b272448e014f4.181c9c3e95e5aed90f24df129f4f46db.b3f7f451c51c39b61643749d0312fe15&signature=a7c4836621f92390a8719d0434ceb675e9e4280ec3f27c74abf517a83f1a37a8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=97f69d0757e972c9656eef015559fdf1e302a20470e904a8ae87f4f70e996d71.1780610951.1727c42e328176a602803a8056717cee.ac713e18b6154a934a282da60e2d0b51.accb58b6ede07d6a79fcdf161f70b136&signature=d8efa7a72e86659b54b63bd9754a102fa86eea58abf2db98326755c73bb132f4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4b380ff3279423d4c9a46bab2d842c8e9820dbf883550b80b4745ba8631bb55a.1780616325.edbd667a9d5fe47b7cd13d1dddb5b516.20b133c3d30e495072b27b842576ea2c.28b15bccc5203de03eddb29fec5a23d9&signature=bc39c6e43a4e3cbf9bfb570785ab8aeb784e3d6aba834a1cea7c8a269d9d9962|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=485ff556cc37c3a0cac0b04893a87e7520b7fd3d6aee3087851ac29bdcaa5fd4.1780610952.446976306bfcbdb99c42766f5488307f.16f855ab7adab39e5bf0e12d95c6c7be.00dc40f52bcc279e1cde49f2ea072afd&signature=861eabbdfe528265d67257c6d3ec40e119a7e4560cc56261a5772b2a5b3bd997|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3d48403a213a804b5d8968ee24a55956dd1c314d21fae6e22cadb9cb8c8c6dfa.1780616326.89a6bbd96d63270ed89203cd0f3a4b7e.420116205964762eb5c68050ed915dba.0a4c698bdc1fb24fb5884a7c64996b49&signature=979e9f5cbc2e992a4e0299b4ec5fd849834e96fb5c3ffe779bac0dd65588f99b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=565e273af3fa86706198984c1c16106c91e98a133087c7dc89e5d31dddf9a1b7.1780610952.3d8ce28a8b0abfc0fa1fd179c5361f29.7692042a71394519f107351014e3d0a2.b3ae6063f37b9b1637071fbed6832115&signature=517d8056312c10a847d10f499befe2e5d65c4e0ae6ea27556f4dc0ec0603feb9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=4e1dc897be30297c8992677112362a960add2057d9e7f4305ef4aead59757330.1780616327.2f915cc3cf1151f9bb139b39debb0427.b592287b83af8a3b54e1f13f53625176.3ef1aef6f5383858fce14c61db56b6c6&signature=a7a62e4ed697d4bc0f8b014d1e4ff4bc524955c20a805c2dfef3aa3f5affce46|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=26201055a5f9534af4bb88669fe46503353279585429fcd44b7131d91c38e6c4.1780610953.061c895fdc853b6a91191e87fd375a08.8ccbdaf837c875710400aa4ef9c28c31.32aeb861253b80bad443189ef681e1c6&signature=178722e4710cb53f88b7b78394089c59018eaeee64025aa148bebd237a87bffb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0b7dfd3d1bf3d0cf130221d67d7ae7457015dd652bff15f3f6ef50c3dd92a486.1780616328.6844817819f83dea6717057c468510b2.753f230d0c0fd1b58512ed6814233318.d65299d2acf067cdccbc6de0fc50de70&signature=abb1c0f620e199eb814c14df99a0a72430ff2ec1ec6d03ab23c15e71b2f500e8|x-forwarded-for:77.238.79.111
 
