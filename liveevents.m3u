@@ -1,37 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Ecuador vs Guatemala (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ecuador vs Guatemala (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Colombia vs Jordan (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=18f35ea818001d44335ce881319ec47b69363a784bad964ab9d02f460974b9bf.1780869534.2d91e61e652d7611d89f9d6d0d9d202b.2529ba80750bf3463dd21749ea1cac2f.e5155b5bb23e5ab68b8dbb962f0efbef&signature=62dfa099cce19c4582d76b67f349a7618ff0cdba9e2ae3fc5f6895c6048d7e71|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=9ee7b76e8828c81b380413433a04ca9e8acf4cdd6da427a09b235df53c3aa8ca.1780873527.93ed1fb1fff68fd141b3ea992993979a.6d789da995164cbf3739503e75a06db6.cfeb787763c2577a8a645da758ac6b53&signature=8ef95f0296425bf493dc8f41ddc01af30e11bae9ccc88abdcf5331fc32d83b7c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Ecuador vs Guatemala (SSC Extra 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ecuador vs Guatemala (SSC Extra 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+extra+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+extra+1&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Jordan (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-extra-1/playlist.m3u8?token=77e4ca4f584b77fb2a0db83930c8ffe233038d45fc96281873bb90ab55741403.1780869536.f263b225136835b0af85a605824ae9da.83c594e3826bb4d6ec5a85e78d7025bc.43f5215687b7a8939ab756fc9bbc8b06&signature=66aaf83432d448355fda08721b14203f6b7130e99f0be18ef7920a2b99d36870|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=d21ae03faa8225c5b78d9dc657c777c7908db4d56b1efb47a435d7094ab82560.1780873528.606c2a06571d47f8134d204def76900e.02abdaec42939e5fd109288e3e017920.ded29dfee7ec103ee9615320ee4fe909&signature=50bef7cc72b4f1b8cefffcac52b5acb318ad1b3a0e5087956fac66d48520a976|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Colombia vs Jordan (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=0dc3046f208affc12817b0cd226614a533947c746983b303e2bdb1304e5a47d5.1780873529.0524ca3d2c15ef3360279f5ce51eee29.d73ceef102786b8f5a2f1ce72bfa1c84.0983c66542393907f6dc461e4482748b&signature=1138aa4ad9c7269a7b6f70374921db09080b3ccbbb7ba5c597fb714ebff1f674|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=9b23089405cb2f577d1d50f89f6e1e0f379294118a848fb5d1657ec2c52aa71c.1780869537.8be259a1deb62e33025a3b798b0d4d4d.fc731fe67575eed2a381002c6e31c79f.55d2f76e051bfe3064668fb4304a4ed0&signature=8fbf752fc37dd89be4cee432dba73c35c70fea3c92bc19ec6dbb75a7fcb33856|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=e0f4786eee0c1e94d2ef0be3633c7699c99b530647d9848cf387d81857d819b8.1780873529.c0ddd9760a45fb3f206278467fd325ef.79c3eb086c41c8572a90d2b0f5f53e83.195e812c03ab03264d7d27fff87acca5&signature=053e26c1f483643ead65f08d025274a63105b1a7c59064185d74a16ac6302260|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=c5f6e6d8b84f30bb805a4cc0823f7d2df45cb1c0a50ba63f0997f6b723c13785.1780869539.dfdf04eafcb5b034b73b5b9cc0a203be.4f88d34b696564de32610274a3275289.2547fbfb76e2f370cdd721f7dfcb9882&signature=78093455bc34107f43e5c4654275a039937266b89b82ca86683079139e1869d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=9c475e01a36932342d39e65c815eb85353d9f7659ef94ae7a3ad33c6fd4b822e.1780873530.422442c68ca21b72741b1b0f7804aa50.694cae70d970ee04453bb2021c78b460.b4a9f5e78429de9fb5c2b805608315ff&signature=5bd871f4816e4738f68bfa241dced69e475c618025d07279db7787fc5e81151c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=ad6f4848154ada6bf3dec07a281a6cb5771fc62b6bdcfbc328b93428e61ef054.1780869539.c8bee36f7e632064a54ca5b89071558c.fc0c77489966ddf3f17e0106448331a0.d51b52065c0fdd03580c572e2907f681&signature=70c2053cbd3c75174d5a2ae162a5531cdb657d1890d24d47265b01f04a133145|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=bc67bb4a23c5b8ab85b6da7f5c8aac5ce5a8c1d307c9bf33c42abd20a79e38e5.1780873530.efff45b8db10f426e22252ee5e90a969.f6982525de12ee9b3a825706455b5cff.aa89634a339f321add2fcb464168c399&signature=33e6038f033ed64948435f2134ac1445adc993a0ac4cd3807c1739d2cfb35198|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=8b8430680068cee7b83f4ce1da1aa049162b02c0d40fa63dfb86c67da06c0e04.1780869540.f0bd88446fc0c5bc48393f3a16fc4c2d.7268a2039718703a7e98a0a6b83631e3.d203450fc4a9120d79283221ca66145e&signature=9226665c156b5e1e3a7c36c35fcbb313b73f83e4a596e0df7b23d2147f92a04c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=97046e426d3dbe43e00c128ffba787a27e15bd20b9a9f9f7e525a2dcdf4e01cc.1780873531.51fca3eec026bf2a6b08f2725371f240.53e0d3446d0031c36aab1adc23420990.4951c48618e7e45b4bebb069d611e1c4&signature=8be59613056ac2600ef382b0f24321f8bd7ad4941216e576fcb0de9e7568de97|x-forwarded-for:77.238.79.111
 
