@@ -1,139 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Argentina vs Honduras (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=a2bced17306d39fe473ea168c5ba99915f747f0c062eb3f16080f544050764db.1780796413.048d9d1ae04a8ecb0db18c9f2e124dc8.bfe3ced538edbafa916af42c048e0885.a6ef4953d1e3ade353e25de0bc294ddf&signature=cc7a4098b5ab956982f6f65181948a12e6b8554a8de660b44bbdbd4e5c3cd165|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Argentina vs Honduras (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (TNT Sports 9)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=71506805cb3f5e4d6064791d1be45614477dae92b5cde2be179af1d2738ffaa0.1780796415.f3c98b2da0685b9f49063041d215e547.f251abe4ba4ed874a931686eac6bceb6.9b6500f4ea05f4880598dcf634cc6ee5&signature=a00ded6d64a6dc860c7254288e1d66d33528e1eeb3ab23f6a459a7b09634efb2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Argentina vs Honduras (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=a02f6be994f02466e43511f31cec4a3a17cff890a2e866e89668cc60a1afd52b.1780796416.27bd0f14f4aaeaa3517928663cbab61e.31e7ed854f342c725b84bbea87ea173f.7583b6ecfa73f089ad4575a032e1f7bc&signature=219299a9ace8c257f7f3fee502f5e8d8e9de7d106f9966b1d6b9d3fd2a588ad3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Argentina vs Honduras (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=d4bf419fb5df64fac0ef59c225f5f6c5dd1846574578629f925ae67ee73246b0.1780796417.bc748b27f24bc4ae0c414c5218e8eb90.58d04019721bb829e89ea33387e5590a.8298a709c86cebb402bf4151071ed305&signature=b0ff7f41eb1590773d9e5590a92fb359e5699e0042a9bbe94acd485912d1e96c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Argentina vs Honduras (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=83187f7c45c341bd6f0deea06336cd50bb00b969ff8324ac846982bb38cfc560.1780796417.f2f3050dcfcc0a10bf5acc7348219da1.8982e663f5accfb43f10e78287ab3818.c65e5fc87f79b8ece100832dde7f01f1&signature=bf8085301c7f966fc549431e048f56adf319b12a9d600fd8ed7efbb22a5cd53a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Argentina vs Honduras (Tyc Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (Tyc Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tyc+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tyc+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tyc-sports/playlist.m3u8?token=8873f9d6acb8d51ba5d0ef5ede5301530d69dd5911580fde896c89f672483664.1780796418.fdbbe2b2300397a7601701badf05fa9a.b40cf6780f4bb02ae6084115ffe50fa8.175669966291eebf2120be0d7c38fba5&signature=56ea4041134afef7212c58c5f956cc4eab520daaa53b0c18b3756cd7000c100f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Argentina vs Honduras (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Honduras (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=90defce49c35888a8488a7bba16ef9eb5a9d8406f55c8fd601fcb46829d60c1f.1780796419.60a913f1f9af0a757106117ec173589b.bfe74c173a142369e8309ceb4e86af9e.624c4b79c797f430593cc978f6242cd5&signature=fd81c621f7505d3a83705eea0d7548465c06ad4d34c7ab9482a988a5af37cfd7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d883fa02e26c8a5b035c51c28ecc6674451eabcf0aae6f6c803be6e3ff7ed675.1780796420.a96cbcfe938337e063ac4ef3e099b7ef.9ae79d3b3981de1a0a33bc9a14e887fa.80b84078643d1cf8c60a4721dbc4dde8&signature=d82d1b9ebb05cf7646891d59f111ff7789fb2227125073df204417aeb0cb7419|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c865806e578d6ce447fbcd4f0a5a596605dee586d02dc4e875a5aeea1de6abcf.1780796420.c1b53a85f28b1c798b69dc6518c58eae.0a4db149ba7b04b4a90ab07bf5fddf56.1747a4727965c74018cd228024fcce91&signature=5ea3bab4ab09f94b2e2771d47492c08e96aa258863e25a7222eeb570f0e8d97a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=763d7139b30daa953a61be7a19c943bfb4ac7a566932a8fc2ac487954e96ea19.1780796421.11591246135accd4cd461cebeeb66eb0.2b8794af437105485298cafd4c345a80.63f745c72339e9c4f49fab3e1154012a&signature=a4a274f1227904f0f0b7052a9ef42a9f723d925aec64b3c91050e9093f264e21|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (SuperSport Variety 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=dd4708d4c62b25912cb37eb4519e9c97dd34e0c76643f6636d43839852e3f016.1780796422.31629ccfbc1aa17ebad9cc1882b98ad3.0c11135b100fbcc4d66af60e77c5b042.2ba0d93c1186a9926604d0468d4c26de&signature=96d0fa954e7ced53e90c3919feff7ae077443dad2548f61cfed357d16ade8b9c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=1ae90bc690580907ec60ddab56d6411dc49ad7351efb7ef3da1f18f965930178.1780796423.53a575bdb69fdf950ddab6e8cf038e02.f104e5882316038eea9f1b3f9742957d.9dd9c92509e77f8c48b96381ab358acf&signature=c4881d630f7404417dbc1168c3da0e5567b0b754896f60b9beac7b03259364db|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=7e58ce3c56c48e627018e9fd1f7ec5d2a092d4d558b94c247f0e954f5d421f89.1780812408.9ff2a17f5a8ff99fdfb961b41b17664c.9341d19348b9cb84c6f5a7d8b95dd338.bc5c2afa5a9c85465b34045b720535cb&signature=6607b257b6267f3109472f968ca211044298abb023ed171cece1196ef1d49eef|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (TNT Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (TNT Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=4565b6931119052e9a95602294033ae3fb142bc0bb939380c006eb597cfc7da1.1780796423.da4308e8775ec3fbc828cddd65543389.891cbca4216c1bb35b38f7a30ca77f45.adff20469b6b3235d0ed49caaa84e643&signature=982f48483737a116f7249b6a097386100633de575d1d8c606ea1d042c977bdae|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c4634a1a4739e30fb375a22513c2a51ac74080f1d8aaed8853a49b058dbce990.1780812409.e9bd4693d29dffc182d0ff512c6d18fc.c89a12d7aec9a640ceee6058d6f84fea.b654793ddfd105e1cff7f2ec647c2edf&signature=c104f4783ff00a412b7bcf242e2d4c7c3240b5a988afdf5bfce1fa0ffb0624b6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=34faa8d15cc13d6fadd8dda63d4a475aa0d3496a445dc766718e949520e88d1a.1780796424.f7c2e922cfc6637d57f81a5af92a4913.ea6d3bd806a0de05dbce71dcd3e65667.ce859d31403470a77da57a83aa084c41&signature=cc82a4b7ce50fe93632222799c223e723a3594f7eb2738fb15116f836478a94f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=29de15b1daadca34047dad70a93850c785cca914c89e58c38a21f895abcc9581.1780812409.2b292bc9e170f79574720a2287c52e83.8efff3ed3c5fb588c0f0bf48d8585ce2.6c6622ba221f5c93c4904fdf3fd54fd0&signature=8b970f48af3a3880d4f21ccb7b44cd0e7dc34f1212ba82090a97a852172f88cc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=0f95142f6081e8cf6d424949e3259d1a7632f770c86979da67443ba545132790.1780796425.5711c133961a4a17c90777e341649055.ced5ba439dea61269493efd6413b352b.ea56eda0103f45655fedec2a2d35e1c8&signature=52cb813b8c2e4d6c53a6728a68c17fdbd4f5103849930daec74b6e0a8d52c825|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=3a34c2100ec6b79ef06efddd01b68049fe3df382a0dd9f6a9928e84bfd4a2b5b.1780812409.e79b4da61341e132d492433e3172339e.b4dbb39e7f751eebde4b80e58379e2fd.941546a5a55f457ec68bef3fc549d018&signature=39bf7190c19a2ff59486fa888a0a9827876a8e130a62bf6dd50bf266bcbef165|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d0759730d60650304898d28ac5b5ef3c001de7f88d937aa54fd23e9342898fca.1780796426.255434cd7b908fc68b459838c4dd782a.d152936e640330cec7c840023d2f264c.0bcf0e03d4b867ea1394c7ead1c0ee2f&signature=841d119a0ba4554559b90296d2cf0c7b3c9343d916dbcfefbdbe9a27446c5200|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=ca7074c684db9b4913a95543f0493950d72350007ec64b813e065e07881a6b24.1780812410.43f450f5be88cd3112029e21a423e6d8.a7aa472d4f271d9e319bf07ea9bb8f97.ea8338d7a4f41afb49243025dd7c5fb1&signature=38611c70fcae50ee35863098a72f80b6db8c2f8dbd9245c57b3c7a1221e7a538|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=73d2f4514f65f181841896cee484d1bac7cb52720c03752e3e8c875990fe36c3.1780796427.635bb6d85b5fd1a9ca04c9b733980520.2cd110a436a48b6c29ff5959777d72cf.a87fb7fbcc60fdeaebb6f2415ec19f25&signature=1a6564ce2177dc6a6bd532b18ea839d974451143dfe9e138c20bbe93e0802dfd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (Sky Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=af9e8ae1136a34a5dd2baa010c8a59f0706165333bc583b3006020defce15272.1780796427.5a4fa93f825ab84624f2cf7199f1cc5c.99c92e60096769c15b605afaf537d258.d078cc4fd0893dcd80cdebc513fc6f68&signature=c00ecb41148917478b7a7a7c023a9ec65f0feb942367f12ee31a4e9064cccdb6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Durham vs Northamptonshire vs  (SuperSport Variety 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=e6aa82c3a757997ecdfbe43bfd85e41a1f0db8a7ce84a9cc684ca9e8de8a3b2d.1780796428.3712f4bce74a045a918333bedace01c9.8d5ac9da63d1ced61504454daefa4c7e.f47297857269b260033236f82916f11e&signature=60d11b8e735f3bcdc3ed5ecf9f793e3e599e7e856e4e16d3c4db9919c79af1ca|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=ddbf3be4dd664235aed48f8246e53ea25cee629d65e7f3e0e8e86ff3ae2fdbd6.1780796429.4272c772e2d2767aafa50b20cf0df323.692473fe7956bf1828089ae5a51ce40f.d33596b28fe4ec2700fe2fbcde69bce9&signature=30f0b3655ac4ed8c0e2606251259027dca4a82f75db9425b1b701ec3888e69bc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=6a2cc281b505f80767c1d0af1025ae7862c3798fa4fcfd914d0ce52d7cd0abaa.1780812410.e08febf2a5bcb7069c5ef6a5a5d18b78.7a8a9af009fefc13aa24da5f562cbeab.4fff473689783839b9755cc8b2ff8d9f&signature=099f44bc4d4c7cc283f0272720cb66231848dc6dcc6e730310cef767993277e2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (TNT Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (TNT Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=c354e37656a9d6f7e53981fb8d5cce1c6664173875eaa98d270ed7035ff4a743.1780796430.549037a5296a35aceacade5a123b29a0.b93f58f2ec5a9fd00afe7855daba48f6.152033de802ec668fcefa73f343e8387&signature=49b0f8cceeacbdde002e2550eb4a56e217453ac41d2157ebe92e84f6a894ee91|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=f42d86fb4419525531a2d6768dc37a9f87433c3f147db66c2b81ae6d6971e737.1780812411.436864a74605075b6beecb62c615b179.e29155c21d04a19cbc8b2bdc6734b8aa.e0dac95dbfe0a5184cd3f37bec586fe7&signature=584237c1d19e610cc2e970f12a5a2025a098c2a042f601a54c991342bad72c78|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=2064c72aa4ba0d7a992a588daa0562d86824417ef54f091574a7084308abb868.1780796430.e7fc063ffe8e20da82883ed872a3369e.00dc1c986945b0d2be4b0c31bdc82e1a.a5783ab3bed32788c1f3460cb5e874c8&signature=96a20a2079bebf3c5cfa5587be57f2a6ec185917466597f05485d98a2f7c9ecb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=34e824ed7432d765de2f70c17445d5055ffe7898d53869afb3c6c4bcfb076f20.1780812411.31f4f45faf6f9a4a24b278aa785f3455.69f4570b15633aa1ea6b8c84103f3386.83bcf9bfd03870671c38bd3765b5c88c&signature=700f7bedfff6754370f83d3075176fddf26aa8f979a782d7fe3b8b4cd41fe680|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=5dba7c021770327c3fd49cd7a05e6b551b4aacb68f58d421792fdafaf95ffd4f.1780796431.5632b2b79613c16730613d71685d22db.9defa8861f96c4206dbd2ebf83fb57aa.98911170214b81f21cc43f1c616d712a&signature=0552298209bab0d5e95534ed931a677820e7ccbfdda1808e348694c3a49ba6d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=cb0eb92d9474107943cd2e6da551dd31ce18215c93e9f8fa6881d3d135390dba.1780812411.ce527b17cb7a7b1bfcef4a05231be8b6.278e377c6bd88bceb2196367a6769139.702c8f4b80097d477dd0311b265201b2&signature=865ff3561714b035dd7360c0367bb203906c356cd1bde1b41f567830d8a50a20|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Test | Day 1 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 1 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=0b55bbaa80e2c263824ea6926273dcaebef8181360feff72a3803b858f01ab2f.1780812412.4be0ec8997cf71f2f42dcc12dd81b5cd.770ed24397f26001bc3f70e1fe484628.625a2bb5ff3020a4962dc4d5fc1b9e20&signature=9c99b1e1e3532aec403b4e06af1c20da1a61f4c7b8f403b682abd8bce5cd4b62|x-forwarded-for:77.238.79.111
 
