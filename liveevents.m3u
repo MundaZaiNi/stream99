@@ -1,103 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Peru vs Spain (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=be395235501a56adf2ee9a0e94560311bc7e9fca1eb7d45ba86e1a5bf2b6603a.1780968618.a1ae29e3e91f835e6504d2801d72f474.4609886468a4cf4545fe1883f0c924c0.7721bb2515ca0f363614215722a45b48&signature=b61ed46223f75a32bea20b33a42069eb27002f766c930a09e5a6c7c8d68132ea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=33ee16922a9353b601d2c76a194b3ffb1b31c5deada21f8fd70e54264e92eb4b.1780984278.573818558941168a0495e1e57e98c694.cd35b8636d6039d36b4efab2e88cd7d8.27075b159ef27826e382326b8ae97edf&signature=d71c78fa8f5239a007c6f85622bce2d169738348d5a625bb283cdf278ec4861d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Peru vs Spain (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Sky Sport 2)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=21e66ce5e8269e5d9553f89fa6fa09227d9d17b9c229d5513d5eccc53addbc97.1780984280.a55441a6260f62b78447791a1f59fa67.b3845705f4f29775e410109343f89b2b.8a2f214d3ef40a484f8c89477e16008c&signature=f0febcbd7ec73824d37a63301c2941e175ce59896e406a77eb4bc96fcbcc9876|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=aee0437b9563c508ceefdbe912ec24e8f2a9628247d49ac3f502a7de54e97b7c.1780984280.3b5fea6f08dd76d4eab634018b6c759f.959821198e6c61fde6bac9725357923d.d70d2ab5ca3f8b07a1c3b690bbef03d1&signature=90a23e5bd02bf61a6b034d3d6e59572e805b86be28aeef2d76fc2eade998a543|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=15387a15aefe723069826de01af9ed9947b15d10416347fe3c4da68287b75d9b.1780968619.6341a46d0a6fe402cb998ebfc84a909e.75f42b0462870e329bd6f41e3c6bd7c8.3bfca5adfbd9bea547d27e6692e7e5f8&signature=188488c8654f11ebffbe642b28cad83b5e85096737e8445a9e095e22356c1e10|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=3404448d8c1b81f051f64b33d642d2e450ee72558d8a27c18a95d326407f952d.1780984281.e59ac1c888ee95f7dde8470bbe9182e4.bcb3ac014af254d339d820a816b11429.a1744b210e38e00d3391ea40b9e45098&signature=fd0142c040458105d15c36d70357dbf6f5a475bad632fb2236a22b8878906d4d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Peru vs Spain (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (SuperSport PSL)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=909dd4f1d20621c05d6c8b628476a49fc09fd5b33f45e18f04bf2f73ad750105.1780968620.60d9405c54ac3cff582492de4030bb0a.998655e0985176000855f39ebcd5fccc.fefeadca04bc335c6b2d3e933f56b31e&signature=095de58cb25e60f1d2e15802afa53f228b2dae427a0bcc0ab7f49eed64aa7ad1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=ecd4d91ccd47ff42355c3a369f88be52a74f53dae45bcafbd9902dd08d374fc9.1780984282.b88bc19e79d325e47a15ebb326b0394e.90c88de06a2630f1de2b414444a5e71b.bb13e91ad4b7ab1c6d63c507fff0006b&signature=fcddeef7500177086bfe809d515964038f6eb1cb85ddac1fb9b34bc9fce2bb2d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Peru vs Spain (TVE La 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (TVE La 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tve+la+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tve+la+1&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-tve-la-1/playlist.m3u8?token=40e4cee1037bf5ba00c59d9de2247fc9aeade98491acb1776f8965b33ca296b1.1780968620.45330a169c6f5c7b0000fba4bfa7f71b.4723196ccc623189be9d7ede81abb66f.22939984265d256877f9cce3e1fd8969&signature=523fc4576f0d7740d02080cdd9e0f2c5997e13d70e70f82b4a2bed99ad32a55d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=a5f638b7c47fda124eae608a86ca6f00c47c99c09968b857a0a42b7e13de6900.1780984283.81eef4f695b89fe6e79a2cd9fc73a736.11bd002a29c6078460eae4d5397f2e6a.d5f5b5b3e518accbfe9964d350836c5b&signature=97049c086eda50797f77f80b2b11a658815e16f6d49f2c319c8de280e018272d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Peru vs Spain (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=42008441c71c5603abbbb2b2cd08622e1c538ef5d3f6b1873d13e8bc97d4a4ef.1780968621.52ffa1b35fddf62dfd1f0cc5f1ab6dc5.ef01539697e0d6d911e3e0e568c68091.badb12b311ac49a5852962d1dfdc6604&signature=0ca0def8bfc9fb0adc61f02e4c8ec06f261597c60658fd18141f534c7df95692|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=10a4b1ae75509010e4290e52e60a98ccc976630e445617087dec302c596f2af0.1780984284.e4b858cbb60e69e8627c1ebcee33b9e9.f9d6876f46625abcda70fb88971c5171.60119ebe201caf27c96fe1505664206b&signature=4d483ef13f052b68ab3f4ed07e0b07375b687b15da4007b80240833831957d0b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Peru vs Spain (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=87bfc614a39dbb258dd2d385a1b12edcbe8addc3f67f7ab6c24196521f428b9c.1780968622.a958428e7dff54cb09ba6bd0a77a3e2b.9de5c29a034aebb278c5a03954c84b81.5bca81649a9b3da73e29c93a6e1aa72f&signature=6415f33afd6e9069ae7f51238961cd72295e679b12151eec82b4629d77365e53|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=6557d174d1cc6da68943a1d0eb6c85f83b1c4c46f8c5dfddbe61fdf86ce4ba9b.1780984284.a186da5e258eb6b7b871176e8ce215d2.e372dd6ef43c7e5f17cf97d3eaf2e4ee.0b742fd357c8acd0a256c3ce74e1cb72&signature=db7e4e99fcd351e6b4a1a46a5a27a92487f0cb4ca11bd4961ccdfa17a800e846|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Peru vs Spain (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Ziggo Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=d808725c646ed8362f68b20cdb33aecd1d9e1042f7261c3a60fc3c5122ef6698.1780968622.e0a2fba0b54bf040905c9a0bdca7b402.e7e6feb7a9afd38514f626ec6175fc9b.7bf06c563af1b9c49b020d98c829b26e&signature=0fa64183a6306b592a1fdf339ec806aabe2b755d6a41d3598ef60315e3b74e20|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=4dcbee029d81eee390ce9c13d1587c727059afb0a2f38a9971b47b1475e2ff0b.1780984285.d35b2a6a6894f94d44058f74f1f33138.744c7dd7d6c9197b6acc6852e28987db.8846903e1f0c824a621d1035acdee227&signature=fdae173c7142c0bfdeb169211f284be32c71a8052a419550118320515dbfe3fb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Peru vs Spain (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 3 : India vs Afghanistan vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=3f4b487dab069f78f3ea7610c873733ed0ae8696ec5cf2bd9bd4bfe1e38ca244.1780968623.23d23897f899c968b4c0f31b271b6e25.04bd17198228757622ea9f17707c8f10.5d2612d90b8c608bf780abccaf0e129a&signature=4ff2df525eb193deadb5c62b021bcbe224898f0a79e12172dcb13abcb11bf559|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Peru vs Spain (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Diema Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=693caa181a73aaf28eab8f291d4b8eeb25f07efbc015c6f3cad32addf6602fb9.1780968623.72a3eebf05a2558f315d6eb511d77001.b97295f36a53d5edd76a3f267a5d3fed.a71dee8a557247b1bc018ee96406b030&signature=a35372aa768ba73699e76ceef91d078286fc2cae4d86b4c8b9e4bd3ee3c59704|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Peru vs Spain (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=17c6861b626148c4f3140b92bcc78b09d1a4984f9d08f6d9331f90235f788f56.1780968624.17270c8bb91428577b3e92a7d2c4e7b2.56c8f46177c073fe99b7f93933679736.1aef7792ae6cc2bbe8bbd260c2916b1f&signature=f5097edae53376864c2527552d1d9b2b0c8eb2ebf7375dd3824d1b426d88a01b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Peru vs Spain (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=62a43ac2eb2e4d4d5ba59c2293358ec4eb8eb19e63388c51ca6d1c558818a4d7.1780968624.cc29725875b15f6cf624130bec3c1121.8733bc1739af31c73c49b8f6c581021e.d541879463c8f690159a93d7db6c6529&signature=009b2e2ad91db31f115668c3df9478c5abd55be3ea7c8c4dddb4401b03a8a9be|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Peru vs Spain (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=62042635ad23445cf8707c0e5d10fdf8d90b25d096bc92d7f4cec814b6758ecc.1780968625.40f6e26489b8a8f5b13019036f747bbc.986fa5b343cf9289e474c004a06a0ebc.25a7bf987aaee0ea60ee88efe68ca48e&signature=b71c1ec7c5451111313c67db21386a7a1fded3eafd22e0ca6a1424a055055d65|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Peru vs Spain (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn/playlist.m3u8?token=5eebca062ac2eb7197ea07fb61e90f6e190f594c81997fe95bcef1e88c10d2e6.1780968626.9f6401010750a41a6a12b9da86d5e230.1a04bf6919c62c1282c73c04b16b92f8.263c68fda29851c3474e50e55c8b06af&signature=c734bcbc8c37cdc337aea0d3a706e24388d18d3170c720dc2738d881a375237a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Peru vs Spain (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=9060098af4f84aa554eeed0209c84dadf3c692fdac097d7278fbd3ab3affe726.1780968626.9ce12fcdaeddf85a33356ef662b4ad85.2f47f57398a903b7df7b7374cc692f28.7976fe6270b8cf30e01798b56aa14690&signature=f1482aa2bc5a9bd4d99d52066ff1d69d6849894569c6103da0a6125aa7474df1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Peru vs Spain (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=e1f27c7f5ebb7b1064ed7c47789d0ac9218cb926473c33fd621168482658df1d.1780968627.fd97fc76f8cee21822230cd7c53de4a5.12fa0023c33d9f011398e0299617ece8.a8a1a634dd88043eac4c1562f0aa1b14&signature=d5b3e2da51e0c7d42e66e354f543ca8c3b12c66f1fb852a3f3dd33cd995ad6a8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Peru vs Spain (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=e9abfedae23680f77b2ce2689132dea8feb2c59c7da1aad99f64f7f803aebbe5.1780968627.482589195c1c037f222bb3feedb658c8.0e7567c91d50e708cbd28a8218b95ce7.eab525da8b56a7bcf0cc79f00fbe7b5d&signature=220c07dde755d334842320e8e19f30243e5115cd275e43f5eb20e513e0ae5b9d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Peru vs Spain (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Peru vs Spain (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=91e5e0a2ea1590e92caffb7f535bfb6dd668bd322c7535546b04e5bb69e7560c.1780968628.acce9f53c64471b9cc451f5d43f751ec.58bfbf391b094c92db5ed602bf3de90c.e5cec254c7211c1a084a234b9211c983&signature=3bee28a8f0fb26632b4abe7bd56c8f3174644acbe9c2bba4ce53142b041992cc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=545f6908e07b044c313e474c4f62d542f2359e4b2893b348d034087379769854.1780984286.79814dbfc0553222d2fda9eb9aa60963.b211e4bda64cf19b250a4803548f2a38.905c9d595f67297628007c67ba9b22c2&signature=a0ba5f4a2c01a83112e942cdead3f69bd620918bbdec7530edf300ec4fc6b533|x-forwarded-for:77.238.79.111
 
