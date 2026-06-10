@@ -1,97 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=788e0a248ac1333ab891d28595769d34b27b6a42b413965c47994142c1debe23.1781071507.e4f4b6681e72898af508d67cf7669008.0db00f54409f68c06949b81d629f5f05.94c41922a59428efa4238a96335624ce&signature=6c9a2aa1763c84acf27e284b1687b629a9e36c7f2d1ad83f2f707864ab993be6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=4e75285c54cc7a991c24c2e0ef1d71830e45dd57c02ab29a02bc7784c79eda34.1781087661.306732aaf639e2c3d1477db9f26d7ddd.eb70cade4dcbc70919eba403e9d04a69.044068dfcc35a7b9c646b035c5bdf884&signature=73a99102c44207ae975df8b930733a35e8a4351ad1da3e770bc5d5285b82fb0a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=b2d33922ceac1091d7053279daaddc704e3f1abf83874eb680fdb591603ef4d4.1781071508.7d6e5a409bcd29712357db4ed286a856.4b9eab8f7afdaa1f67fcb7ee5c610ee0.dbad77825f7b7b3d0cb04ac13a82cfb7&signature=2fa0bd2b4bb70bb5984c4b6f501ad3367d226983f15366c8ca39a11bd995cd49|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=cff556aed6c7dac9d34fd7b65ad95b8e114ac4e7c7c887fff25059c678dc2223.1781087662.c21b2d353bf9be975c7119b38a87b982.1ceb9b7cac00fbb471af32ff599d2e68.f5fcf16fd3868602e1b510477d4996f1&signature=5ae5a40195c472a845e779854c5570411e96ac9e40050cf26230c42dc165a133|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=cdc1ff307eb16d72aeaec986958f39df5336f37ba7346eeff660787ae0c256bc.1781071508.211f662406903832ae3e78c7cb18863d.2618aa0c8e64568cf004a82e4884a7f9.f973f048f06b7480bd97cb74c59d202d&signature=d321b3328215400c7864a782402daf699fb3bf02aca9b8e84d66088c3243c3a7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=23ee7e954e3dced601e41bb2ddc38f46efa1cf3441916a0280492b8807ed1c54.1781087663.c00965f81a866e5789a15a97de15625b.2bb8d991e60aaade68b4b039e6c73d79.7ad6f278ae11b4cffd3279e23e2a42db&signature=705bb0465ef1622ceabc421d5776ea963f4cf476802259ef1551d6c87da09afe|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (Sky Sport 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=e48e70bf1b7ee3e31e32671ec6d60dcd4c5c3a32093d33a5af41bbfe4ad7b5ef.1781071509.60e2981edf9f7f8cb7f134218713d036.6ebbf8ca911b9c588b6f255e6b22725a.01e8699239a50b0c13ab37208eccba10&signature=d7ad22dc361633d42a1e256a7347d7ef9d5266a58f8d8b7ba730e3e79ee716fa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3dc58f92c9a38294bcff7df71265d59c24c34b8a41d51dc3f0d723fb3b082cd2.1781087663.974d0adc959fe82944e3b33b68a3e1dc.7592b7afd01eb18dc4a5deda8f1ce9cc.4f2a6d9e4adb2efb8b59d96f60c19be2&signature=8edcc762b14233bcc9500b67da5819c3ac0400f1b32c9743312852b75d2a35c2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=46869b503ea1fc69658bf4bf80924c694f90ff007cfaffaa40ae5fa93f0f9cf2.1781071509.a314f54d63b63e000ca6e5f3c1a501c5.256aeefa752ad50b39cd8232b731f74a.2e472813bd42bfae870425e362f2c18a&signature=46ce409b0ca5a9db77b64f236c53ea1d26ba7649a318735fa2276ed3c39482bf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=210b35c80025bcc293497e228e451090dc509ce9a17273add23686780f045999.1781087664.f85bf3fce2ecd49eb40a5cdb58f3bd20.fe696d152c4bf2db0bee74afeb2ee5d0.e721b7b24943f78a68ae0bec9dc01368&signature=88736c214979dbf272965aabe6468006cd62cd44e40725c807791790d3b0f574|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=247f18442c18c9b57f28dee9282f36d5204807845d6c4ed73f04c5dc042ff6c9.1781071510.5211f9fe1d30316e6096ef102a3c4a9d.ea3e48fe7da573bd4a0d08beeee8e873.150a16a0fc97fbdb987d60e5947478fb&signature=e705e32a5955025103df4fa9a26683b6bd391449a4bb847c5544e48f4885d767|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=066878884662a574c42ec20a6aabc9c89d4332f10a864acce5cef0ac9807c685.1781087664.4a9c25d0c6b93872c0ddc88ac45d2f0f.c66fa6473a567e392ce9a7be7f409840.3820ea4f4eca8a5cbc33ac6ce95e2307&signature=ddd0873b44ae39cfb3b041008dcd2170f11cae87e973fb7aaca192b5b0f4d774|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (TNT Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=60a2049c6b9a9c47be5a038276eba6e3b683f6643637f64542b1cff5e0010d3c.1781071510.f55e0aa6e1201f504100804c67d9ea56.87819ee929ed4b5143e70d775a6d87b4.378bb2332ab7b317179113950ab01578&signature=57be4abe2c53ee6c80343534eb46ddad5323217a466529ab99cd5b855c25180a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=216fb46f9e709e08ff4ac79e6b90341c9d0caeab591760347b21436b22bed822.1781087665.da8074fdf9233ef6b5740ddcfb30f204.b1fc8194fc237d96f2b4e912b8dab278.cec56006a00362e352072d9a9ecce27d&signature=824418b4ef06bb55dde07e22a5619dd57c75d0ed1409eaead6ae2a8e5a5a316a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=df3db5fb4bd96eadad103e7e9eac8e132b233af6585e13fe252a9d80a4883523.1781071511.4af0b4b1d70faa165d9c969c679e550c.71b0bf2d51ff593b27dfa6e6d604ea60.ba81fcdea5467a4a4cca8dae59953314&signature=56ac25bd49bf1219c88e3e8a85c38e988b2de73da46b83b1fd9148229c7860af|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=04f8910a448d6b9ee02c5d537f47270afd7c926ec63ac4394a6b123ffa5a6584.1781087665.82e2e6b8b44d56840d446c7fc22130d7.b98aeb3f9f62967b3b8c86708b4766a6.ddbff5b9665081ac83c163ff104e8c80&signature=81b3f4879b4ee6579406351e37a0bc22ccd9d64cfd33023a5cc7f6241eecd490|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Ghent Gladiators vs Akcel United Brussels vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=60d74b7227a4107d86a415a91eca0eb826c077c30425879b26af6347d4a0f876.1781071511.1f72f953a7df4d5c4cc255f8fb0f0c9c.21ddd09ac08b0f3f824a4d6675d77752.fb06febe862d7e563cb798a5bb702102&signature=9cddb30e5702356c05f7c317aa1dce098b7038cf3d6f60fe201b9885b13f9f67|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=45951c9c9dac3f869b635c1f6ebb9decc433841171730a6c79ba4d946e61734f.1781087666.c91c43ede7c4499d07b9afe8b4751223.6b0c1a99ce2109233d43ec85d667a488.e1164ba9a40d489bc2d952acf36649ff&signature=e27ce652a845c5ab504d646b75b0526438bb1e0eeb96633f986720d349c6b4f4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=cce95d90d8a6b4fff7ffb1542fbec6ed4b28faa54f7facdff8dee4e0b7ad4b74.1781071512.a612c2e649d688b38de8018281aac563.5382d1e8653f2ad8aa74c0d19864c10f.a6bb87a96ab44c6c72568b164a8c5371&signature=586c4cc344783b7ef11d34dc152eb8c048511b76a3343cdd7a2889a9c1b70266|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e8db490e7bd9eedae08e557abee7182a15dbd5dd3da2f44f089da29e848f0583.1781087666.405dc4383dcfcbf1bccf67890bae3a94.9a5f1ea74a7d54e50e4e81fb2e29806a.e9654c2c80d9e01a50ef899328a75b67&signature=eb59319e1d91ab8f43c06420848f8127be6f2af84db6b7c6da1fad94b9ad09aa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (TNT Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=dfb643d27379e244efae04245dbb34d4682635adeb9053c65bc5ad15a75bd333.1781071512.f50132057134f8ab25c4bbf4e7a88916.74a78a6e44b9c8b5960324cebb439e01.24a8479ff64feac93de4ffff06c18a71&signature=2e2b322cf1817b446adf279056ec888411a461ff50a10ce51d7864273004ea23|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=246e88d6e917c8880150f3a49035406ba376c9067acc67ceac14a2643516cb67.1781087667.fa1e98f8138fe44b72d44a8737a8c7cd.ab6be5b3bcac6f382f95703961f5a6c5.6432d26c2dc3962ab2eb88b0ca36b925&signature=69bbf112ef10c380d59afcd10d7ee39c6e6bc3c09a76077b86cc5b2700f23ea6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (Sky Sport 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs India W vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=cf551e3fcb5dd24a3310ee3dc6c79f1b13b7704c73b1509324359541ef9b886a.1781071513.6272fbbf252aec65cb4579c28b6ec379.3437c9cc2bb01f31c916aa17d3b658c8.ace95639bb1227966293a725558d22de&signature=4e7b12c59c206ab84f1f6be2f2984cc19e683987667340484e6e03b32e9e1b54|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=22be29bd44cd21189db2ca3abb760491499814f081f147ec2a6f8c5110c20d75.1781087667.851fe6cee35114be641e24f5b2e46082.38fb0a16e64ec5e9b73887b46335f8a2.dd8932727939966630230bfe69ae5e4d&signature=917402ece47fc080974a440a83a2b3be2618a3c73936d0deabf1648cac83118e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Test | Day 4 : India vs Afghanistan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Test | Day 4 : India vs Afghanistan vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=41856fdef650684fb5a45bb0afe42fd6df9f4d2a7031b8e455084df26f23cda5.1781071513.e86d79ac70eaaedc0da0f07b88b55351.3543194cf211413883960a80012269c1.9fcb011d7f1582813e4ce9c16a09d466&signature=80a1eba6c7499b5efe64490cb2c57ff85ef50a00a28744868559a61d400ec6fd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=06c6ed749e9f17b2ef9787b5dc06044c6755db2e52da5f81fd0f3d3bb084692c.1781087668.09d98170bb9a6e0d7a5267be76c5c483.43e5fb4b98d75e7cf5bcdf901d7f353e.ff3508761756bba8c57ccb82234824d0&signature=ffcffb9dbce914af9483644c50a25ddae4cc07c1a45bfebeef3f74e48f380cb8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : Antwerp Anchors v Liege Red Lions vs  (Premier Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=dd6c856cdb5fb200b0d44a48ed760138328582e56c3b5eb267fd8cd3cdfd113c.1781071514.5214c0e277a068612d1fc6a12c724233.d6164db7c0ca05bcfca75ac1c3cf1dec.002d54dcb95a1007b678ba2e8aa24e7b&signature=527243436da5f6cdf62fdfe59363d63f30e36a160317e89242825c0f30bb383d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (TNT Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (TNT Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=6949f6264e74d1259c68e75ab85ef595046de61ec3e228518cdd099ee6d28043.1781071514.e9fc22e1a7e5ca7fd47bb189a06f90b5.f56c5bbc9ea90b9924f2945525c3bc9b.accf5a5b72aa7f4fd4177b613936b337&signature=4f36dfc75e687cd81258148204d2aa024ae5b907e618db658ae00da301fc3ea5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] 1st ODI : Bangladesh vs Australia vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Bangladesh vs Australia vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=8129d77a4e01d68fd1e55059c390db16c447b87ad5d1d61d9da92cb1e3204eb9.1781071515.0e3851ae989951513003f5216a0c3fd0.2d30753a4d4b43ae6c089989427fad0e.7d0bce7dd437cf51249840505a38ae52&signature=ab0878153f43fb27de57366b96b18ea64920e74f4bf572a045f88fcf2d35b2b1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=fa59bd675e0da70ffb4d89125cf45ed0afaf0e8996d6d209db2348c06b76d194.1781087669.0c711a9de4e0809d78f371ffae49869d.5f67e8955d736788eb40849c0c322006.fceb7760d3f07197f7b8233db2b4eb82&signature=f480d60776c483501e8f306efd44a243ca9711c6c07cb9c0aa8794eaf7c4b0a2|x-forwarded-for:77.238.79.111
 
