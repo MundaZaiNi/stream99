@@ -1,85 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Argentina vs Iceland (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=1e568d96398a45f2e4517ea7847ca77e675191f2fc07430972ddf42a124a68e5.1781046813.bf45ecc60b36215489df4aef7ffe5940.0b89816a9f8dc15c60bd48be55ffb60c.265343402228cc4319c85203c133a000&signature=fdc08743efef6cec22300b02f24acc5a3c8e06783eb60ed621a54c594c68313c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn/playlist.m3u8?token=a1ba0a5f6ed579d7d8e6f882c13a173dadf0851e6e3f11e56f46259d311a812f.1781055151.c27b18d89ee1a85c731e75d287f3d76c.8deb28fecb187a1b3b1137bea325947a.6112589d88669806a7775d8dca640a4d&signature=3dc809def7bb7f9aa1b345477373c6d635479a61b6484409a9da9d88149fdaf3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Argentina vs Iceland (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (FOX Soccer Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=646eab515f208a7fc7139248d728d077bb8b322b55166c87f40f59bad75f5b77.1781046814.3460ae54c90e96b0177aa27e3dbb11de.53c010ed3a1f8bdc1dd283cbcdbf1ee0.bb7f940557f480c2e9d8e88b4485fc78&signature=3b626b6c801465e659a36cd9047749614ff6f7b7f717322bdedf208cf9b28c56|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=215f2f6052977c0b554cde9b140f69ab3fde9bf8107a293c7e411fe1cb532024.1781055152.bb778cf557da000162c6e3a7fcb1233b.1bbf6fddfbfc5dbf2651ef8a3041dfa1.c4d632ebd94d25eb6532722d11ad8747&signature=db7c92e07ab1a74840bbab08568717d3681b290c3d2a1c2491a50e5f316fda6d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Argentina vs Iceland (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9291294dbf297549b60e6c015162ea91f5804025f9e1376f39fd9570019cee57.1781046814.ac532f13962d4ade932ee2ee25b24865.7c23a55973b93fc0469212215eef0716.4e1dbc4ae8da1cdbc12b977980b46532&signature=6e869136aeaab0de4caa05eca13ed26d1294a855b9452d426bb9bb86ee1264d5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=7a59bbda3acb03186938752b3170b0ca53be5908102bfe12b0edad215a1467fd.1781055152.9a2e3383936d9e9029483de4015a4c66.8c7ff545a9a65bf4ef22d7a8ea9f6ecc.e044e3934d0b6558ebe67413885e8953&signature=3443d2f5c50bfafaa38c5cab4b4eb6800d8e1953bbfcf5b7627422c0361aaf13|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Argentina vs Iceland (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=bbd1d8dab25d87477e2de6a0aa8989c9325a2da772e8ef05ada12700edc39ed6.1781046815.175fd00c8c77ac501ae05c211add0ab3.b910d85b247ca53f4fe5b4565613818a.895da63b369daa1eaf26043e0080effe&signature=4de1c122381d7060d4ee259c744ed8a8c1a66752d0b9f2fd44e81d4ac4d6ee03|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=8ed167b11841561e3f747117e19d64b1f169ee08fbd44fc56f9dc9857027ba78.1781055152.81297dfad1cb08c5e59f27e3c3ae9f9f.0ec76d36ce189f9523777fa063a15056.80b00e5c776b03852ab0f8f8ef5ffea1&signature=cfaf0fa740afdbd469387f64bf560a2b05f06e87b6713701ea7ee43d5bdf5d59|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=aeff6551e9c171043e344813bcf473d8609f8e4cc53372ac60fd27f101946aaa.1781046815.59ca6ab70fb6c3bcfc269b6ab24cd902.0adb0c8e6fccb74e64e11a89432a179c.e88f65e7ede0d8e594aeb9cc5d8a131b&signature=c84a2f468e1005f4470d7fe61b5abb6c462113a29c1fa2ba5f478c8b80ec378a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Argentina vs Iceland (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7026dfb8b22d57d0ec73052616c069240022c2eca21cbf5122b900f7bf7e92bc.1781046816.c35f67339141173910515618d9472a08.245151e1c8aba91587598cd0aec49d60.78569ec0e9cf7313733933f611975438&signature=3b6424c8381a72b7e45033d422c15cb247f2480ff970bd7b3812fc058872b17a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=2fa4dc60036d18498e60c97c8feb0d1d3beb3a46c2b830dc7d1a88e9d81d8dd8.1781055153.25fc80acc48a66021c745672c683f5cb.bd45a2bec2d1c11bce493d27f37eaf41.0400f02becf05b18a0ea2d6f308166b3&signature=78243d627124d62cd92a5c9ff5105b4fb6b6dcdabf064019a081d7d55eb07dcc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Argentina vs Iceland (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (Polsat Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=11f77e391f20f136a6ff2361788b5e933c2e518d7733246698fa9130dd2b15f0.1781046816.36e7a1e12440b6611b488822ffc19e49.bbc80389f8bf0305e48c71b068f3bed6.7d0254473006c74225147dbd4ecf9f90&signature=0d5b576f7b622dae6149ab0aca6bfbf762418077279792d9c94cf09b9248b6b8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=3936956df555c98ead81143bfed446fd9d24319177c46937701833e981252fc7.1781055153.c2d1dfb560ddec885f9b0855aad24e51.519331c62ec369bd4d6668043d2aba08.510b19dce3747304c79809afc2486e78&signature=0bec1d6fd6e32f534c446e4b1f0d3cd61dda449fe4ff878815acee0b2ac66bd8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Argentina vs Iceland (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=44a9b403604086cf79499f95c4e89680551b8e37f90c84b3e2120161f8eeebbb.1781046816.4195e8e9df6559088cf4ea183fae4193.764b2f4a23c2a160fcfdd78c8338cbd7.653c421eb5a20829c0855c00728c68bb&signature=20882fbb46ac6f415174decd504b01c61ba069e373a4e8450a63843ba53f66d1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=eca30508b294c173bd3aae346c03adcf3b537b4a50698c3813cfa40b8652a960.1781055153.36f89c6da989c0f9de6dfb73d233f57e.7de87cdb0f4c5d740f36c1b818315650.d43eb9f0e66308ec7c6b67d82f4c88d8&signature=72b15fdf25cc42289842a01f75e3de21c90efbca4df6feca9e57738676a88679|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : JB Bruges vs Antwerp Anchors vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Argentina vs Iceland (Abu Dhabi Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Argentina vs Iceland (Abu Dhabi Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=7d640944176ca950702da11bab4e1b5fc7e42937f8a56dcb1b709ec489611bca.1781046817.eedd87a330900e7addc4a551de265720.0e5795c3bb6370aad95c58173b6168a6.15c437685b5d951cb4f74f7374a0cb87&signature=399a5a08bf7468dae0c53477b2c0c2f0d06ee715d8817602cf444d2c61726ea8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ae-abu-dhabi-sports-1/playlist.m3u8?token=2d768e7aa7cc539b23c05a7222a1ade0791a63ce54c611945df36e0fe6d8b4bb.1781055153.5f61940276a301ef87b7b4b3d0cea1b0.39410333e814645a8e5f8510180beb4b.ec62d603f733702edd9a27d900594f17&signature=afe57c6da1856af57bb03002f54f2463e9ba6fa5498ff885673e478c12427fc8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cc56c0f658183d8a9fe67cdb654f7d98d6e45e878c54b150e194a0c0a7ee66b5.1781046817.6e64ba4c47d633f974ce7d88170bfb27.8d42a305fbfdb6b1a4f86731a18bb5e5.f3cc938137b99e0d137e1b5455a3462a&signature=211f8e1f2fb1b533feba57b9271b7f9ba405ffc84b60d5cfe116f3e30c025163|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=494dcbf5cd6d7706f9aa702b6145b520a7f390b909c21e67c6f8e2073e7e6022.1781055154.906c1dd28a168d26621925b7b53f06ee.e771b0278ef53b86fbc71bc97bad71c0.1c177242e15d397ec410aeca055d9b5a&signature=435ea858209f56f74117a67e536d17a0288bfe32667f82c7afd9dbc202ee816e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=7424f3abbd49e522b9d0b01ab64b16418b66b380b778a13a60ff40eaf4356760.1781046818.ad069d2efa22b33aa86159bb57534d33.b663593b70a28522e21d3946b3369cf6.362f56881e6f35eb8955b8555698a143&signature=6808df215c52806262c46269b1256054a06bfc066d75bcaefb4c2b688388e892|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=454e6b2e8bc75f418ef27d762893cc3cff0553622d6d45c8d810c83d334d1f24.1781055154.f985cffc9eee98ecb18e4dcc30b0fcf0.bbe011f6974f536172b0c651fec72b50.68bd31a14de9d93c0d272c60ebcd7628&signature=ce8a6dbbdcec988c1b8a4d75437b151777b0534dfe5be885a8df512c42d6b3d5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=65cfc15f6ac0cc2a6bcb329c5215c0fea5994afba722f45f445ec9064d9254ce.1781046818.9e046f7f50d5c928a35adf9cc7305b03.85eda66c06478f2225241f5151b0f5b7.9a6dec9681768c3fce3d23b02609c1c5&signature=d67aecaf203e3cafbaf6be1c7baad36272b4430d0f8727f6173e161b27323f70|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d396f5d5dc330a0e8447a529fa38979b5435323454c87954b8552d604ee691b1.1781055154.9580fbf7505cd923c53e8fb11cd8034c.ae7f2708ad1bcc5114af08975c098d21.b3b1d1d3e8570a99e0da88eeedb67bbf&signature=8e5ba6cf139d0e7bfeecf9d7f025de942d2d0d9ef7cd521b3571aa7530a0c6c8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=fb7809becb7b1b627de5d229f86a13cf3c7e6c1f0c55a08bf35f9d8ecb30750b.1781046818.d7acdf3776f1fb0015d88791c5adef4e.c6af834aada4dfe67a8a3186f85221e5.26bc66c223702d003b54160a11406ff0&signature=21c885da74d8705491460fc88ffbce35a7e6525a4d1b1f387818de8bf919aa94|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7e95b355b671f8e14fba47d0f8c8b9ee2b3e95171fd4fb3732aec759c81ead1a.1781055155.7c38c32934d96cad8bbb5d7b8127d492.32668e11bd0d160acd8709219fb16d18.ae482f071ea72743c45fe8ffd7b1e605&signature=9639127bd7415294fe7cb62ee5b66311dd02eaa36d0273408c6aef66ab9e423c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=51b9ab807de1a42203e509bba2cdeea06dbb1922e8f2e7a197162263894b4334.1781046819.de5f647de746b0121c8fb1901ab0be79.6b67bbda5dc21ee43bf8bbbe5d1f24ab.06eefb390ae950d23e2579a0cf1246a8&signature=6c24576507f2cb1820401c4476a3af4b8d0f4ae99d6408b25ee78362fe3a418e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7150175359ac4bd4a32942188883e17b5acd5fae102f5fd81323c133b1cc504f.1781055155.2be2e31b0877cf83ca509eb7f35224a8.49949f66ccf7cd6238e46aa2ffb3b611.e7715c5e668819f36d2732b476e8c1e8&signature=7345f2d7dcc78172aac1bb3fc9c3b34c0340ae3c41a226a9f16c6103af792c99|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=eebbde9a99e058a5a0123c0d08fc83181029aed660886d39be754159e9469e84.1781055155.8360fc9ed88242b595b2f56cae1b156a.af764dc609cbe8d5bcef5402d6bc4b7d.7bec995a4c93c1a7abea14653797aa96&signature=58fea63d8a18505ff796a1e6f538eb24f329031e3350049752b7ecc865a9b4fc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=768defa8b355857229f6c9a039e50a5ee622870be95da4161a6ebb12caded616.1781055156.0abe2db277b1d00e09ca891d3e989d07.7f282f54b9a948ec5fa4c40932d2cdaf.2e2d718d733b9e8528cd4a8929b5a678&signature=0e3aee623dca7df37a2adc848123b79b1e92545dc6f483aa7e83176276be7c1c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5712c265156dfb8140c509bf16a9a6dcdbac36bea06d3acbe834974682e972a4.1781055156.7d1aef8bbc168481b8a44f972c85c381.be758226538bae9228dc4f5762086124.035184329d695d9de739baf5fad9021a&signature=eb9b3e34e633519330bccf8cda0dd549a5c5b9f8185fd9898d9f9647e1b098bb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=1e505fa8c410ca708b38f26331c8c44e39c5396188d6f3f0a2edb1e34246ca67.1781055156.4d79e8e31eec7283f86f07ced302b35c.b6a1f65d5cb7da3f6afd1192c93ce1fb.e61631f230cbe04cdc5f1c5e8e7932d8&signature=6998eb0b3e4794b6ee7ebd78be95f557d8ddd2fdde5e93a41aec8eb37c246ef0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Essex vs Kent vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7674bb1d5d744f02350e4e17edf0ba019d50a7dc03b2b7d6306f598f86f9df52.1781055157.2931c0fe8b6434f3e6eb33cfdb56c452.be0987a62f82ea2bb781bd08e49f6880.0ed809013f89efecdec3404b8ed113be&signature=e55d7275eab85187b03b10e068aee66860462cda92a6f0eb66d54d69163f93f3|x-forwarded-for:77.238.79.111
 
