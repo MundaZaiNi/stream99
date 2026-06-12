@@ -1,25 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=50ed5a29b9dbbfa5a0b4cdbf6fdbb3412e67bc3e955f93005a89876ff651a9ab.1781240706.7f8495af996d4f4d3a7d5aff9f063278.8112fcfa8a873c3f1f9da8126e571bcd.28d4b3dd480376046310f5055ce3fd51&signature=878396b8d63eb80909860307bed96da00341a018baf36e97290670ffb815c71b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=638cb78a7c8e755ba3a55eefcd61187e309ca13e03e4462b2d3c9c75ab93448d.1781240707.7c837b65ed8ef6424c77d24fd7e5d901.53d176e60fe2c3a5682b32d55959f6b4.57cd2bacff3ccc9d264034c0471133c6&signature=2b653ee8355f917dcf376adb67929d679a14145c71d532d01a0497800fcbe05f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (TNT Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=1f522823eb7e04078613ba3ad9810bb57097b2d94f090f4ac6ddc366ce08439c.1781240707.f0fbcbf8daf4d66930b2cfb834f70f08.3662cd22ac9836726fcf23fb12970a5d.792d2c37aeade5e84019fd43e4259ac4&signature=7ba7f766c446daed03725aa7833adbe758350a0d540a6d90469bf85914625fe1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=166ffcd82825c32d3ea978bcfb26f6f754bed58808cac99b0e76562dfd29d01b.1781240708.1816ca60a004d16a97a2d580c289ccf2.cf1d9a63cfb3f011620dfc45de4a0f7a.ae0a0b575ffda60298e21ab94a9ed94d&signature=634411372fadd1f86e865a873a431812c51ea9ecfa091cc2258db2317ab7587f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c683cb881ab7a444c504ec440274f5258406e8a8977c593c4780917fbc9e099b.1781222860.6ddf52f84949d54199f50987e5c7860e.526c15c85f2de8b3287d433a00503025.18fc53d8ec0367594917d10278afcacf&signature=9f14b72d7b77b107a9505e996abf331e07b0482b1ae0131eb9f25f87f6863383|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9fdfbed647b7366083ec8fac4606bdb6fba699ee06f0e120e8771ca918a75e86.1781240708.0e1cbf0032b1b471d3543ee36364fbe7.683fc0e0760f661d9a4a9325d955dd54.a9bcaa70002251b1fa9d7e090e64521e&signature=e9950dfbd4754cad14d849fc17be64fc614019fe7c93eb17d62799b03fb937b3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=f2c5339d02ad2dbaead3987eb04f4eda806bab55c1f668adaec54a2c5578dae0.1781222862.0dea0beb6b2c66795c39df8f17cda8f2.483e52f1012ab85a67c1e0697de554b8.ce1b6d3cd724047097a06208dc513123&signature=e96d899c36f984c612de87cbf06d0fad23373b2bd3b4fe09d27dac7d76cda6da|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=b5e48e9a71ed598474ab5f23ada79b1be44c48f6493b70bfc44716eca21b4caa.1781240708.90e8deec19d48aa5164e02ec7e9caa1f.5681b6d125b944e65e056ded4ba1364f.032aa8609604398ff3feec5ee28fde9f&signature=8807ee8c814cdfcabfeec751b6511103fe341367ef9e3fc48915179cd0e755c6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1380330655fd5b6ba787864f00c58ccb551150097225cb7d6434de459666a93d.1781240709.c7e879383999bf2d318041c4bc170941.100868017d520adb06f4aaa1be8471f6.a5f942c0d9dca74c49e4631f98064dc3&signature=0d65227e08b015e647fd532cbd4fab5e034f97548ab933efa6ffb28095c48ebc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=1c5f8eab5c560d94212c0b437c8bd41963e7483656232bd740aacf0aa36f5b68.1781240709.ab01d863b0fe85f9ac3ea01bbeb118fa.285ff5205a0eb14ef3b76f4cb32e87a6.4ecc5218870ee47d53499ecc4d3bb16d&signature=3afc08b906bd0eead28ce4a90e350e355d3118da4a547fd6832adc7dbe06b761|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (TNT Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=674beab716c9cc56b427d873fbe23b4a7da81bb4fa31f24eb356de5788686afd.1781240710.a224bc9d1b07b86f7cb2cdcdd104a0f3.9d88cd0f84d36e7a5d8bf1dbf56db7ee.f8f2c1620eb3e89418f13c448ee3e322&signature=c3ab752a1f7a6dbd15145d6238505c76169328ae38815fbbd48b25b64ade4a20|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Bangladesh vs Australia vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=d17e7710986c936cb7fb78ff768e6c58186a2bdc2973d8898f71db1aa8b94a5c.1781240710.11f6effcb4464c4616f3aa19ce71c691.d0e7e3bc92d4a072553a496cfd1a5436.72440b23aefca7dabebcdbb3e149f1a0&signature=df28b53f6cc47b8bf79c6f7cbf73a20ef030d62f8d8c58b72cad9a7d3f6cf755|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=253d82e5e09a319129da3bd7375af33786dbddc83a559a93f0951a9c95700fb7.1781222863.689f0b6ee5d3aa949bea2e848ad9b72f.163dd781ec4d955fc25f9874d552e586.d17606c04cd1fd2e3dcc8c323e180b2e&signature=fab4f5d286d96c81e5e3a75d957dcaae1b5e86daaf3de3b9d0681dbef27034c5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b4a14e07db9daf1516023a751cabe6726f4b8e1a045d1765a15386bbe7df7090.1781240710.b8ee3891854e469645af8b583354c165.9160016ff964d353a2561bd7ff796f5c.d4fe11de48417a41f8e5dc7b892a7a57&signature=5033a46f0729f443b0b3e8483e3fd698ac06ea65246541c2889978ea12c1c671|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st T20 : West Indies vs Sri Lanka vs  (TNT Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=f40a3fc2d003dac22a18a711487b1b5e26d8b6a3355d2a5cd58a580c28a6566c.1781222864.feedc684e7a5db8e756a87f98f436c63.b53272f056203ef2cd7d0cbb985abdea.4effe35ebad3fb75d8cef94a7a3af7a9&signature=29e499d290e948e03254f6e4b6c2ff34d2b4116303e6fab469ff4dfcddf232d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=fead41e48233527a9a26d8a7fc03057ff53f4a40ee86ec81c7a989cc450d151a.1781240711.d45fb60ec7af1a7bc5d17ed25ac93d2d.7415d3ae9c803a4bd279eff68bb238d5.ea241137c42945f20e0619f62b91fab3&signature=e612f825a8c5fcbaa1b5cefec6875edabbd434517fad502c2e0d4c92d6d0f5b0|x-forwarded-for:77.238.79.111
 
