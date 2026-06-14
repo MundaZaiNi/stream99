@@ -1,49 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Falkenberg vs Örebro (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1812.png" group-title="Soccer",[Soccer] Falkenberg vs Örebro (TV4 Sportkanalen)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=1a810e62fae818f9993ff52464dfc703e45472ca61411edf224a49670bf26417.1781439383.1dda6bd5c5050437b4fe6a12b18a0616.0996368444b0d9f08e07b2c77e9f3cd0.30b36cfdd235526c51451d644029109d&signature=c8e0813537ff87323bbb5ce2ae2232df45eb370e840c4eb10ba7d7425394263f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1c23a6e451a397b05398efb7da047c30c40c1d060faea69bcbad221d1977818b.1781431660.db0c0951aad761542e3ebc71b7c5e57d.ef72c80c287b616e7ba2062c48b89253.82091371cc338b9b2ab5cbdbbb897ecd&signature=ba8f07af85e4ec06b7012cfc994da926365af496c1977e039b583f692a50f609|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=fbe452e541542efe05673be5a7941c5452c620f01fa4fe0f491450995457c18a.1781439384.7bc8b985ef540d4fc2d6093733b95df2.8fda30b59c2e8e0934123cf43d7a66c0.27ff6d33f7cb3f1316dabddf561e8366&signature=ecca5c82682c2d3c618c0aea9cf3395c3b28cadbc5df3b4311454ce99a1b0e98|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=420fccf6f70cd633289edbd5a6dfa1efb76bae9aa423150b87c49a709fa8ebcc.1781431662.6cc3a824235d3df0035e0e3589e4a681.ce35517084f8b86b3eda6974dbc492c9.fde69ee28047af9c99711b235fdd189a&signature=e18a0876a1e3e51256e4077fd619c8adc097c7b31e24ba0251ce3f70762e291b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=439eabd599b014e7d5f4b9e25c5ed9f02cc1ef0ab1c0d126794e441fbb38167d.1781439386.62feae02bced535cf99e6d1a48e56c18.8dc0dca78cfec57f1186cc952f2119aa.1447c0a6aa5df1011a2082322a356091&signature=4c2bb8aedb62001c1341a1822d6c3ce9264057aa2da36e8df6bc4dea33ac0cd6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=543c0d356ca4a01c45fe2ee96f59d1228c361c7520561a79e7d6cf9581a555c6.1781431663.1c11b58a753896f6f0d2aaad70ecfd7f.46e6a09a92d5bc0482cd9660b8ebd358.30f745da2b4e3c443e6bae8dd21970d7&signature=09f9134f00b5b15a44ea44b8d33441df1ca2d1c6b8e5eda0a6638884cbd924ae|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b2d985e9f6b0f934a0532fc48ff316094de81fa71c94a1940af7fc5da1a4ca0f.1781439387.7b403e51e94b8d88114667bfff8632db.1f2a50a404ab82b5ba2084ac1ab533dc.7e98b457759756d44f049f739cc40dfc&signature=299a1251bd8676ca008f7a9d7959180a61111d2ff23fb67027ac0ec103e12d4c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=9e0e4eb5a93940cc39df6a0cf7af6dd154ba231818c966b555372434baefef36.1781431664.883013ce7140fc05e0cb0921f1ee1073.0d6dc08c21902451a6d9de365478d146.b5faed71b735f2d75c043b3bb1794bab&signature=d369cac937b2db95c23fa335caab21b8cc5f6f8f02ae8f212315d22c08d17110|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=5779df4e2f03d746c10062e5a2f362160773b4051457580250d63a54c19b7c69.1781439388.f55fba30a239148283f6a0f5e3a5fdb7.05ee3eeaa2f4e996bc49cccab6ad7172.a5ff3d2c64f70a79924aa6aadf294d24&signature=68c9b8c9ca4b37607b3a9dac342b5cf6aec11e3fe9a6a19006c0c7c331a06b31|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=8e4be4b97decc90f29d236269150cbdca2c526387215798e7ba1e28d81125bdd.1781439389.e9c3e48672ffed933e7f281c5475c9f8.180759ee611c714b3c29afe803f16f65.fcf1ec2847431fd2c6cc3c0628a64ac1&signature=7d12739f137bdc093d89274a900a239a2766fa2dd1f305e83bb562b5b7153ab2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ff9d398da1d7bca90332dca06398551d2703c0806b30e64f76c3dab604c9e9de.1781439390.05409ae5cef8cc9d0d3c549af4f747a5.e5e36addda41569122db4f8ac6ed1f4c.e50a8f78884f169a0fe32c297aae09a0&signature=50df98ff2d67767038aec5ea92f8390713edbc9cea160e5cc7e44f9ccd087ba3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=eb32f033727920925b6cf298cd3ed4f5d4b785b2b622bd05ece8ddf492a1292d.1781439391.0bec958b9cd327299d6a623e79fffcec.6adc091103403094b1083133714eb964.2c9866f283bc78d3b129bf03c97946e3&signature=827d4d26f4f6a00debd7fa72c958e9dd10fb70a2ef5e8d4b5b709d1a5c1ab9f0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=0656c9f497fdd56603e075ceb8376b91c6f57088538bb5a5e8e2845e9aa482b7.1781439393.9904b61691fe67a09ff9d8ce3f8f784e.85469a2c09f564bd2c039c80c903aca9.76a27ed4d3609eeba3fd550fd6e71d5c&signature=ce2c749c0996eb619bc8bee3989858ebc20a367b379ea2e99d38828370407326|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=37baf4e2f240b4dd2a5716e6b5c6960c18b7effc30c53ffc529f887f1686ce11.1781431666.98aec6466fde70312c335a80c2296262.ca2e5f692d8ce887e27f9e1a1554deff.e59b4630ebd9a1c43ad7abc67f9b3c6e&signature=2723ab2da14d3e61ae342a47297700f62b167e3241a083003950e4ec79ad33a6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d709a4a7f24905a55035350cad13d6e8aa3e721716a4a8475084ffa3b8cc39a2.1781439394.c0ce7cb88355edbd706c38ad4c2724fb.1010429acf90dbe5b89cd63077327ab0.8a6e528c67add0d1469f14f8555551b0&signature=506a17c6c0cf38757dc021133faa38d2ebf0b3b82a231c29d649d8f6b2b7764d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f21e81d68fce4a71977c2ed17418692040771d7c549a453920db0f7ecfe218fc.1781431667.b0721c8ab99fe3525481232132e6131c.cab575076442dbfc68f05f6298c8c1af.ab668801c98c5e3b3336d7177db637d3&signature=094f5e769af0d9d44d93915eea0545c1c775b9a9c81c13e72212b0a0833f47ef|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f509f7c4bc90bc1cfbc44ea7688de5cfd0ffb422fb7b76ede33952c04873cfa3.1781439395.4070eb503a69b96ce1edb85b0b31994f.3eb39be0b76d187fe2cc5cb07c04ed65.479c38928ff7955996f0748f89d9b3af&signature=7548ec58dbd95074112eeece67c21d545feff8625c66b5bcef18fdb4872393f5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=9fce17136c823316d7a1dc054040631ba550d988d533b112aec026ee4c0779b9.1781431668.b23b021565c80877c9df7280d598f134.0e089f4c37fe656a9b13121259fb6317.70fc6342a8a031e03585a007dbdf336f&signature=13220288067a05493ffc7669c063e588e4a4d54c5f0ad5801149a7ee2ec97b12|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=fc573dcec930a17665357c66084bb6266a1aaa1fdc15e990dbe86905d27ff224.1781439396.1246c67297bc73e90a5e6551194b3673.f389ceb24f68f671c5e7073638d9ee0b.fd2150d12016d182b68d83598e6fdf43&signature=7a9c70d8aebb3bad94697ad42aa94dae820a96433cdd58fd6d0504bee0872210|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Bangladesh vs Netherlands vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=9f1188ca53ca4161faaf42512e872ea510502846a4953a38c671ae46f8d7437f.1781431669.e4610f15ab8f6e4626740bc1a29778a3.4f02fc3306a9303cf8c992c3d77cc9de.1331ebce2ec389cfb34655645d7636f6&signature=dd418af09735e3507953a784bb2a1f3c97547a6def27bd8fa0eec5d132c8bd45|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=8ff40bee33d44d2cd1e89116cb32c0cbfa3abf4bec84902c575dedaa4628988a.1781439397.d54f942b6eb625899e5898558ec87cb0.1c3e4dc7f2a7782b0ce7b2ab7feab0bd.69d384adbf04b53edfc1c120d0e2cab1&signature=a7a1cde653bf17aa86aa3cd948817a49397046febe9b7a1d27ed95e57133b189|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=919833235c4b3fcb5663940227d662efb4166b4fe8b35c1ee6e06aae7ec95165.1781439398.59336f5d2ecf7b4d63b184c9c8513f1e.3ea12d0f93b46bf4e4b7cf3ab8de022d.f9974c416ee92b0831fb5440cfda983f&signature=b4eea8578b50a230839cea4464e8ec01d2937ab715b965a22db4cce979a8d310|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4376b04838c0947d0fa9ed85009aa7788ebe608c4496bc9af6d1c943ed64b92b.1781439400.51b2d85d6d53287efe0038947d9f4653.246b1667080503aeb0b48cb3d55b83a9.34a49f08f5f94cde44542d8ad2961dd7&signature=f1b3cd28daa0ac52b6d3da979f5390f8c0cb49b361098d881c32f1be3c24a8fc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=797d50514aa5948b6f8feb1d90b74549807c8513b13d535fc7ae00c17fe0268b.1781439401.d5b46c46952ea72a7a2eb7d9106b6158.fcdc2559b12ea6d1aeeef4d6147af708.d83d0635fa1fe25f109cce941eeee23a&signature=6455339815cbe057dfb5b2674930ccc3feffe7ffa40f7f365a100acf09959cb0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : India vs Pakistan vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=64df620b017e563b515208dab17171c9e3e642099bcf113bc0d97b9740fb67a0.1781439402.6c970e1bae78984fa29754bf5a12b116.71be2cf06312935e0f3f1fcd1847569d.feb9f287fb9ae41e6d6730ff889b894f&signature=c34990026b9523b2ff917a71277ec5165eca2024347d0896f2dea958f21e21f2|x-forwarded-for:77.238.79.111
 
